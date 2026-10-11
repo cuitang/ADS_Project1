@@ -1,0 +1,5 @@
+doc_id	work_title	source_url	clean_path
+1	Sample D1	sample://D1	data/sample/D1.txt
+2	Sample D2	sample://D2	data/sample/D2.txt
+3	Sample D3	sample://D3	data/sample/D3.txt
+4	Sample D4	sample://D4	data/sample/D4.txt
