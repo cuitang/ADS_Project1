@@ -1,0 +1,39 @@
+Official Porter vocabulary pairs: 23531
+Preprocessing checks passed: 117723
+PASS: sample open/lookup, build/save/open, metadata preservation, filtering, repeated positions, empty indexes and malformed inputs
+Cleaned 912 documents.
+clock() seconds: 0.806000
+Counted 909915 tokens, 23524 surface words, 912 documents.
+Hash slots: 65536; sizeof(Word): 48 bytes.
+clock() seconds: 0.136000
+Selected 3 reviewed stopword policies; balanced is config/stopwords.txt.
+clock() seconds: 0.053000
+Emitted 468772 indexed positions from 912 documents.
+clock() seconds: 0.252000
+Emitted 11 indexed positions from 4 documents.
+clock() seconds: 0.001000
+documents	4
+terms	4
+indexed_positions	11
+build_clock_seconds	0.000000
+roundtrip_clock_seconds	0.003000
+documents	912
+terms	14590
+indexed_positions	468772
+build_clock_seconds	0.286000
+roundtrip_clock_seconds	0.682000
+Full-corpus index integration PASS: documents=912, indexed_positions=468772, probe_queries=12
+Emitted 479367 indexed positions from 912 documents.
+clock() seconds: 0.250000
+documents	912
+terms	14602
+indexed_positions	479367
+build_clock_seconds	0.290000
+roundtrip_clock_seconds	0.686000
+Emitted 465573 indexed positions from 912 documents.
+clock() seconds: 0.251000
+documents	912
+terms	14583
+indexed_positions	465573
+build_clock_seconds	0.281000
+roundtrip_clock_seconds	0.664000

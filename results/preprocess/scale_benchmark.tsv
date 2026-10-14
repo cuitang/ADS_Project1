@@ -1,0 +1,4 @@
+documents	distinct_words	tokens	wall_seconds	process_cpu_seconds	observed_peak_working_set_bytes
+1	1000	1000	0.079921	0.000000	4845568
+1	10000	10000	0.072258	0.000000	5804032
+1	100000	100000	0.165877	0.093750	29278208

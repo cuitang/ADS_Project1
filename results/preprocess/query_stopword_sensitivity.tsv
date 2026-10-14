@@ -1,0 +1,43 @@
+policy	query	filtered_as_stopword	stem	matching_documents
+balanced	the	1		0
+balanced	and	1		0
+balanced	king	0	king	377
+balanced	queen	0	queen	187
+balanced	love	0	love	604
+balanced	runs	0	run	184
+balanced	walked	0	walk	143
+balanced	not	0	not	814
+balanced	no	0	no	700
+balanced	having	0	have	140
+balanced	does	0	doe	192
+balanced	its	0	it	20
+balanced	herself	0	herself	80
+balanced	thine	1		0
+conservative	the	1		0
+conservative	and	1		0
+conservative	king	0	king	377
+conservative	queen	0	queen	187
+conservative	love	0	love	604
+conservative	runs	0	run	184
+conservative	walked	0	walk	143
+conservative	not	0	not	814
+conservative	no	0	no	700
+conservative	having	0	have	140
+conservative	does	0	doe	192
+conservative	its	0	it	20
+conservative	herself	0	herself	80
+conservative	thine	0	thine	257
+aggressive	the	1		0
+aggressive	and	1		0
+aggressive	king	0	king	377
+aggressive	queen	0	queen	187
+aggressive	love	0	love	604
+aggressive	runs	0	run	184
+aggressive	walked	0	walk	143
+aggressive	not	0	not	814
+aggressive	no	0	no	700
+aggressive	having	1		0
+aggressive	does	1		0
+aggressive	its	0	it	20
+aggressive	herself	0	herself	80
+aggressive	thine	1		0
