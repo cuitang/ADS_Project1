@@ -1,0 +1,18 @@
+{
+    "date":  "2026-10-14",
+    "timezone":  "Asia/Shanghai",
+    "compiler":  "gcc.exe (Rev13, Built by MSYS2 project) 15.2.0",
+    "flags":  "-std=c11 -O2 -Wall -Wextra -Wpedantic -Werror (our C code)",
+    "official_porter_pairs":  23531,
+    "preprocessing_unit_tests":  "PASS",
+    "existing_b_tests":  "PASS",
+    "manual_sample_cli_and_index":  "PASS",
+    "full_corpus_index_roundtrip":  "PASS",
+    "full_corpus_positions_12_query_probes":  "PASS",
+    "stopword_policies_tested":  [
+                                     "balanced",
+                                     "conservative",
+                                     "aggressive"
+                                 ],
+    "query_member_c_implementation":  "Not present in supplied ZIP; API handoff provided, no C end-to-end claim."
+}

@@ -1,0 +1,13 @@
+{
+    "version":  "ads-a-v1",
+    "tokenizer":  "[A-Za-z]+; ASCII lowercase; punctuation and digits are separators",
+    "position_base":  0,
+    "position_counted_before_stopword_filter":  true,
+    "stopword_filter":  "normalized surface BEFORE Porter stemming",
+    "stemmer":  "Martin Porter thread-safe ANSI C Release 4, 2014-03-25",
+    "stopword_sha256":  "6d88aed892de1a97769cd8f11a2810602a16e193445fb7a034d7ba257f12e472",
+    "sources_sha256":  "cbaa22d0197ad85be7d410b10e378cad0a53bbf8db0c6d93e97612c0512b794e",
+    "tokens_sha256":  "594860a644a312d4e564ce1b469c8961527c9def7104728a71363aa1b8f4683b",
+    "b_build_stopwords_argument":  "NULL",
+    "phrase_rule":  "keep_stopwords=1, compare non-stopword stems and stopword surfaces at original positions"
+}

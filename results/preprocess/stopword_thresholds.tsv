@@ -1,0 +1,4 @@
+policy	min_token_ratio	min_document_ratio	stopword_count	removed_tokens	retained_tokens	removed_ratio
+conservative	0.001000	0.500000	76	430548	479367	0.473173868
+balanced	0.000500	0.250000	89	441143	468772	0.484817813
+aggressive	0.000100	0.100000	100	444342	465573	0.488333526

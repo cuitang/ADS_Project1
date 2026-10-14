@@ -1,0 +1,15 @@
+{
+    "website":  "https://shakespeare.mit.edu/",
+    "repository":  "https://github.com/TheMITTech/shakespeare",
+    "commit":  "6b82db852c7322dd33e95db347f0ddfc812c6409",
+    "original_download_date":  "2026-10-09",
+    "prepared_date":  "2026-10-14",
+    "timezone":  "Asia/Shanghai",
+    "play_count":  37,
+    "sonnet_count":  154,
+    "other_poem_count":  4,
+    "document_count":  912,
+    "archived_html_count":  951,
+    "selection":  "Homepage works -\u003e scene-list links, individual sonnets, four other poems. No full-play pages or legacy duplicate directories.",
+    "cleaning":  "Blockquoted dialogue and stage directions; speaker labels excluded. Verse-only blocks for poems, table body for Elegy; Venus starts at EVEN as the sun."
+}

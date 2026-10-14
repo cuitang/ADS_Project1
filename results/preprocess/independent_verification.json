@@ -1,0 +1,11 @@
+{
+    "status":  "PASS",
+    "method":  "Independent .NET regex [A-Za-z]+ + lowercase; compare every surface TF and DF, per-document original/indexed counts, all source SHA256 values and duplicate body hashes",
+    "documents":  912,
+    "tokens_before_filter":  909915,
+    "distinct_surface_words":  23524,
+    "indexed_positions":  468772,
+    "clean_bodies_unique":  true,
+    "raw_checksums_verified":  true,
+    "date":  "2026-10-14"
+}

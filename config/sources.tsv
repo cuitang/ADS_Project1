@@ -1,0 +1,913 @@
+doc_id	work_title	source_url	raw_path	clean_path	extraction	start_marker
+1	Henry IV, part 1 | 1henryiv.1.1.html	https://shakespeare.mit.edu/1henryiv/1henryiv.1.1.html	data/raw/shakespeare/1henryiv/1henryiv.1.1.html	data/clean/0001.txt	blockquote	
+2	Henry IV, part 1 | 1henryiv.1.2.html	https://shakespeare.mit.edu/1henryiv/1henryiv.1.2.html	data/raw/shakespeare/1henryiv/1henryiv.1.2.html	data/clean/0002.txt	blockquote	
+3	Henry IV, part 1 | 1henryiv.1.3.html	https://shakespeare.mit.edu/1henryiv/1henryiv.1.3.html	data/raw/shakespeare/1henryiv/1henryiv.1.3.html	data/clean/0003.txt	blockquote	
+4	Henry IV, part 1 | 1henryiv.2.1.html	https://shakespeare.mit.edu/1henryiv/1henryiv.2.1.html	data/raw/shakespeare/1henryiv/1henryiv.2.1.html	data/clean/0004.txt	blockquote	
+5	Henry IV, part 1 | 1henryiv.2.2.html	https://shakespeare.mit.edu/1henryiv/1henryiv.2.2.html	data/raw/shakespeare/1henryiv/1henryiv.2.2.html	data/clean/0005.txt	blockquote	
+6	Henry IV, part 1 | 1henryiv.2.3.html	https://shakespeare.mit.edu/1henryiv/1henryiv.2.3.html	data/raw/shakespeare/1henryiv/1henryiv.2.3.html	data/clean/0006.txt	blockquote	
+7	Henry IV, part 1 | 1henryiv.2.4.html	https://shakespeare.mit.edu/1henryiv/1henryiv.2.4.html	data/raw/shakespeare/1henryiv/1henryiv.2.4.html	data/clean/0007.txt	blockquote	
+8	Henry IV, part 1 | 1henryiv.3.1.html	https://shakespeare.mit.edu/1henryiv/1henryiv.3.1.html	data/raw/shakespeare/1henryiv/1henryiv.3.1.html	data/clean/0008.txt	blockquote	
+9	Henry IV, part 1 | 1henryiv.3.2.html	https://shakespeare.mit.edu/1henryiv/1henryiv.3.2.html	data/raw/shakespeare/1henryiv/1henryiv.3.2.html	data/clean/0009.txt	blockquote	
+10	Henry IV, part 1 | 1henryiv.4.1.html	https://shakespeare.mit.edu/1henryiv/1henryiv.4.1.html	data/raw/shakespeare/1henryiv/1henryiv.4.1.html	data/clean/0010.txt	blockquote	
+11	Henry IV, part 1 | 1henryiv.4.2.html	https://shakespeare.mit.edu/1henryiv/1henryiv.4.2.html	data/raw/shakespeare/1henryiv/1henryiv.4.2.html	data/clean/0011.txt	blockquote	
+12	Henry IV, part 1 | 1henryiv.4.3.html	https://shakespeare.mit.edu/1henryiv/1henryiv.4.3.html	data/raw/shakespeare/1henryiv/1henryiv.4.3.html	data/clean/0012.txt	blockquote	
+13	Henry IV, part 1 | 1henryiv.4.4.html	https://shakespeare.mit.edu/1henryiv/1henryiv.4.4.html	data/raw/shakespeare/1henryiv/1henryiv.4.4.html	data/clean/0013.txt	blockquote	
+14	Henry IV, part 1 | 1henryiv.5.1.html	https://shakespeare.mit.edu/1henryiv/1henryiv.5.1.html	data/raw/shakespeare/1henryiv/1henryiv.5.1.html	data/clean/0014.txt	blockquote	
+15	Henry IV, part 1 | 1henryiv.5.2.html	https://shakespeare.mit.edu/1henryiv/1henryiv.5.2.html	data/raw/shakespeare/1henryiv/1henryiv.5.2.html	data/clean/0015.txt	blockquote	
+16	Henry IV, part 1 | 1henryiv.5.3.html	https://shakespeare.mit.edu/1henryiv/1henryiv.5.3.html	data/raw/shakespeare/1henryiv/1henryiv.5.3.html	data/clean/0016.txt	blockquote	
+17	Henry IV, part 1 | 1henryiv.5.4.html	https://shakespeare.mit.edu/1henryiv/1henryiv.5.4.html	data/raw/shakespeare/1henryiv/1henryiv.5.4.html	data/clean/0017.txt	blockquote	
+18	Henry IV, part 1 | 1henryiv.5.5.html	https://shakespeare.mit.edu/1henryiv/1henryiv.5.5.html	data/raw/shakespeare/1henryiv/1henryiv.5.5.html	data/clean/0018.txt	blockquote	
+19	Henry VI, part 1 | 1henryvi.1.1.html	https://shakespeare.mit.edu/1henryvi/1henryvi.1.1.html	data/raw/shakespeare/1henryvi/1henryvi.1.1.html	data/clean/0019.txt	blockquote	
+20	Henry VI, part 1 | 1henryvi.1.2.html	https://shakespeare.mit.edu/1henryvi/1henryvi.1.2.html	data/raw/shakespeare/1henryvi/1henryvi.1.2.html	data/clean/0020.txt	blockquote	
+21	Henry VI, part 1 | 1henryvi.1.3.html	https://shakespeare.mit.edu/1henryvi/1henryvi.1.3.html	data/raw/shakespeare/1henryvi/1henryvi.1.3.html	data/clean/0021.txt	blockquote	
+22	Henry VI, part 1 | 1henryvi.1.4.html	https://shakespeare.mit.edu/1henryvi/1henryvi.1.4.html	data/raw/shakespeare/1henryvi/1henryvi.1.4.html	data/clean/0022.txt	blockquote	
+23	Henry VI, part 1 | 1henryvi.1.5.html	https://shakespeare.mit.edu/1henryvi/1henryvi.1.5.html	data/raw/shakespeare/1henryvi/1henryvi.1.5.html	data/clean/0023.txt	blockquote	
+24	Henry VI, part 1 | 1henryvi.1.6.html	https://shakespeare.mit.edu/1henryvi/1henryvi.1.6.html	data/raw/shakespeare/1henryvi/1henryvi.1.6.html	data/clean/0024.txt	blockquote	
+25	Henry VI, part 1 | 1henryvi.2.1.html	https://shakespeare.mit.edu/1henryvi/1henryvi.2.1.html	data/raw/shakespeare/1henryvi/1henryvi.2.1.html	data/clean/0025.txt	blockquote	
+26	Henry VI, part 1 | 1henryvi.2.2.html	https://shakespeare.mit.edu/1henryvi/1henryvi.2.2.html	data/raw/shakespeare/1henryvi/1henryvi.2.2.html	data/clean/0026.txt	blockquote	
+27	Henry VI, part 1 | 1henryvi.2.3.html	https://shakespeare.mit.edu/1henryvi/1henryvi.2.3.html	data/raw/shakespeare/1henryvi/1henryvi.2.3.html	data/clean/0027.txt	blockquote	
+28	Henry VI, part 1 | 1henryvi.2.4.html	https://shakespeare.mit.edu/1henryvi/1henryvi.2.4.html	data/raw/shakespeare/1henryvi/1henryvi.2.4.html	data/clean/0028.txt	blockquote	
+29	Henry VI, part 1 | 1henryvi.2.5.html	https://shakespeare.mit.edu/1henryvi/1henryvi.2.5.html	data/raw/shakespeare/1henryvi/1henryvi.2.5.html	data/clean/0029.txt	blockquote	
+30	Henry VI, part 1 | 1henryvi.3.1.html	https://shakespeare.mit.edu/1henryvi/1henryvi.3.1.html	data/raw/shakespeare/1henryvi/1henryvi.3.1.html	data/clean/0030.txt	blockquote	
+31	Henry VI, part 1 | 1henryvi.3.2.html	https://shakespeare.mit.edu/1henryvi/1henryvi.3.2.html	data/raw/shakespeare/1henryvi/1henryvi.3.2.html	data/clean/0031.txt	blockquote	
+32	Henry VI, part 1 | 1henryvi.3.3.html	https://shakespeare.mit.edu/1henryvi/1henryvi.3.3.html	data/raw/shakespeare/1henryvi/1henryvi.3.3.html	data/clean/0032.txt	blockquote	
+33	Henry VI, part 1 | 1henryvi.3.4.html	https://shakespeare.mit.edu/1henryvi/1henryvi.3.4.html	data/raw/shakespeare/1henryvi/1henryvi.3.4.html	data/clean/0033.txt	blockquote	
+34	Henry VI, part 1 | 1henryvi.4.1.html	https://shakespeare.mit.edu/1henryvi/1henryvi.4.1.html	data/raw/shakespeare/1henryvi/1henryvi.4.1.html	data/clean/0034.txt	blockquote	
+35	Henry VI, part 1 | 1henryvi.4.2.html	https://shakespeare.mit.edu/1henryvi/1henryvi.4.2.html	data/raw/shakespeare/1henryvi/1henryvi.4.2.html	data/clean/0035.txt	blockquote	
+36	Henry VI, part 1 | 1henryvi.4.3.html	https://shakespeare.mit.edu/1henryvi/1henryvi.4.3.html	data/raw/shakespeare/1henryvi/1henryvi.4.3.html	data/clean/0036.txt	blockquote	
+37	Henry VI, part 1 | 1henryvi.4.4.html	https://shakespeare.mit.edu/1henryvi/1henryvi.4.4.html	data/raw/shakespeare/1henryvi/1henryvi.4.4.html	data/clean/0037.txt	blockquote	
+38	Henry VI, part 1 | 1henryvi.4.5.html	https://shakespeare.mit.edu/1henryvi/1henryvi.4.5.html	data/raw/shakespeare/1henryvi/1henryvi.4.5.html	data/clean/0038.txt	blockquote	
+39	Henry VI, part 1 | 1henryvi.4.6.html	https://shakespeare.mit.edu/1henryvi/1henryvi.4.6.html	data/raw/shakespeare/1henryvi/1henryvi.4.6.html	data/clean/0039.txt	blockquote	
+40	Henry VI, part 1 | 1henryvi.4.7.html	https://shakespeare.mit.edu/1henryvi/1henryvi.4.7.html	data/raw/shakespeare/1henryvi/1henryvi.4.7.html	data/clean/0040.txt	blockquote	
+41	Henry VI, part 1 | 1henryvi.5.1.html	https://shakespeare.mit.edu/1henryvi/1henryvi.5.1.html	data/raw/shakespeare/1henryvi/1henryvi.5.1.html	data/clean/0041.txt	blockquote	
+42	Henry VI, part 1 | 1henryvi.5.2.html	https://shakespeare.mit.edu/1henryvi/1henryvi.5.2.html	data/raw/shakespeare/1henryvi/1henryvi.5.2.html	data/clean/0042.txt	blockquote	
+43	Henry VI, part 1 | 1henryvi.5.3.html	https://shakespeare.mit.edu/1henryvi/1henryvi.5.3.html	data/raw/shakespeare/1henryvi/1henryvi.5.3.html	data/clean/0043.txt	blockquote	
+44	Henry VI, part 1 | 1henryvi.5.4.html	https://shakespeare.mit.edu/1henryvi/1henryvi.5.4.html	data/raw/shakespeare/1henryvi/1henryvi.5.4.html	data/clean/0044.txt	blockquote	
+45	Henry VI, part 1 | 1henryvi.5.5.html	https://shakespeare.mit.edu/1henryvi/1henryvi.5.5.html	data/raw/shakespeare/1henryvi/1henryvi.5.5.html	data/clean/0045.txt	blockquote	
+46	Henry IV, part 2 | 2henryiv.0.0.html	https://shakespeare.mit.edu/2henryiv/2henryiv.0.0.html	data/raw/shakespeare/2henryiv/2henryiv.0.0.html	data/clean/0046.txt	blockquote	
+47	Henry IV, part 2 | 2henryiv.1.1.html	https://shakespeare.mit.edu/2henryiv/2henryiv.1.1.html	data/raw/shakespeare/2henryiv/2henryiv.1.1.html	data/clean/0047.txt	blockquote	
+48	Henry IV, part 2 | 2henryiv.1.2.html	https://shakespeare.mit.edu/2henryiv/2henryiv.1.2.html	data/raw/shakespeare/2henryiv/2henryiv.1.2.html	data/clean/0048.txt	blockquote	
+49	Henry IV, part 2 | 2henryiv.1.3.html	https://shakespeare.mit.edu/2henryiv/2henryiv.1.3.html	data/raw/shakespeare/2henryiv/2henryiv.1.3.html	data/clean/0049.txt	blockquote	
+50	Henry IV, part 2 | 2henryiv.2.1.html	https://shakespeare.mit.edu/2henryiv/2henryiv.2.1.html	data/raw/shakespeare/2henryiv/2henryiv.2.1.html	data/clean/0050.txt	blockquote	
+51	Henry IV, part 2 | 2henryiv.2.2.html	https://shakespeare.mit.edu/2henryiv/2henryiv.2.2.html	data/raw/shakespeare/2henryiv/2henryiv.2.2.html	data/clean/0051.txt	blockquote	
+52	Henry IV, part 2 | 2henryiv.2.3.html	https://shakespeare.mit.edu/2henryiv/2henryiv.2.3.html	data/raw/shakespeare/2henryiv/2henryiv.2.3.html	data/clean/0052.txt	blockquote	
+53	Henry IV, part 2 | 2henryiv.2.4.html	https://shakespeare.mit.edu/2henryiv/2henryiv.2.4.html	data/raw/shakespeare/2henryiv/2henryiv.2.4.html	data/clean/0053.txt	blockquote	
+54	Henry IV, part 2 | 2henryiv.3.1.html	https://shakespeare.mit.edu/2henryiv/2henryiv.3.1.html	data/raw/shakespeare/2henryiv/2henryiv.3.1.html	data/clean/0054.txt	blockquote	
+55	Henry IV, part 2 | 2henryiv.3.2.html	https://shakespeare.mit.edu/2henryiv/2henryiv.3.2.html	data/raw/shakespeare/2henryiv/2henryiv.3.2.html	data/clean/0055.txt	blockquote	
+56	Henry IV, part 2 | 2henryiv.4.1.html	https://shakespeare.mit.edu/2henryiv/2henryiv.4.1.html	data/raw/shakespeare/2henryiv/2henryiv.4.1.html	data/clean/0056.txt	blockquote	
+57	Henry IV, part 2 | 2henryiv.4.2.html	https://shakespeare.mit.edu/2henryiv/2henryiv.4.2.html	data/raw/shakespeare/2henryiv/2henryiv.4.2.html	data/clean/0057.txt	blockquote	
+58	Henry IV, part 2 | 2henryiv.4.3.html	https://shakespeare.mit.edu/2henryiv/2henryiv.4.3.html	data/raw/shakespeare/2henryiv/2henryiv.4.3.html	data/clean/0058.txt	blockquote	
+59	Henry IV, part 2 | 2henryiv.4.4.html	https://shakespeare.mit.edu/2henryiv/2henryiv.4.4.html	data/raw/shakespeare/2henryiv/2henryiv.4.4.html	data/clean/0059.txt	blockquote	
+60	Henry IV, part 2 | 2henryiv.4.5.html	https://shakespeare.mit.edu/2henryiv/2henryiv.4.5.html	data/raw/shakespeare/2henryiv/2henryiv.4.5.html	data/clean/0060.txt	blockquote	
+61	Henry IV, part 2 | 2henryiv.5.1.html	https://shakespeare.mit.edu/2henryiv/2henryiv.5.1.html	data/raw/shakespeare/2henryiv/2henryiv.5.1.html	data/clean/0061.txt	blockquote	
+62	Henry IV, part 2 | 2henryiv.5.2.html	https://shakespeare.mit.edu/2henryiv/2henryiv.5.2.html	data/raw/shakespeare/2henryiv/2henryiv.5.2.html	data/clean/0062.txt	blockquote	
+63	Henry IV, part 2 | 2henryiv.5.3.html	https://shakespeare.mit.edu/2henryiv/2henryiv.5.3.html	data/raw/shakespeare/2henryiv/2henryiv.5.3.html	data/clean/0063.txt	blockquote	
+64	Henry IV, part 2 | 2henryiv.5.4.html	https://shakespeare.mit.edu/2henryiv/2henryiv.5.4.html	data/raw/shakespeare/2henryiv/2henryiv.5.4.html	data/clean/0064.txt	blockquote	
+65	Henry IV, part 2 | 2henryiv.5.5.html	https://shakespeare.mit.edu/2henryiv/2henryiv.5.5.html	data/raw/shakespeare/2henryiv/2henryiv.5.5.html	data/clean/0065.txt	blockquote	
+66	Henry VI, part 2 | 2henryvi.1.1.html	https://shakespeare.mit.edu/2henryvi/2henryvi.1.1.html	data/raw/shakespeare/2henryvi/2henryvi.1.1.html	data/clean/0066.txt	blockquote	
+67	Henry VI, part 2 | 2henryvi.1.2.html	https://shakespeare.mit.edu/2henryvi/2henryvi.1.2.html	data/raw/shakespeare/2henryvi/2henryvi.1.2.html	data/clean/0067.txt	blockquote	
+68	Henry VI, part 2 | 2henryvi.1.3.html	https://shakespeare.mit.edu/2henryvi/2henryvi.1.3.html	data/raw/shakespeare/2henryvi/2henryvi.1.3.html	data/clean/0068.txt	blockquote	
+69	Henry VI, part 2 | 2henryvi.1.4.html	https://shakespeare.mit.edu/2henryvi/2henryvi.1.4.html	data/raw/shakespeare/2henryvi/2henryvi.1.4.html	data/clean/0069.txt	blockquote	
+70	Henry VI, part 2 | 2henryvi.2.1.html	https://shakespeare.mit.edu/2henryvi/2henryvi.2.1.html	data/raw/shakespeare/2henryvi/2henryvi.2.1.html	data/clean/0070.txt	blockquote	
+71	Henry VI, part 2 | 2henryvi.2.2.html	https://shakespeare.mit.edu/2henryvi/2henryvi.2.2.html	data/raw/shakespeare/2henryvi/2henryvi.2.2.html	data/clean/0071.txt	blockquote	
+72	Henry VI, part 2 | 2henryvi.2.3.html	https://shakespeare.mit.edu/2henryvi/2henryvi.2.3.html	data/raw/shakespeare/2henryvi/2henryvi.2.3.html	data/clean/0072.txt	blockquote	
+73	Henry VI, part 2 | 2henryvi.2.4.html	https://shakespeare.mit.edu/2henryvi/2henryvi.2.4.html	data/raw/shakespeare/2henryvi/2henryvi.2.4.html	data/clean/0073.txt	blockquote	
+74	Henry VI, part 2 | 2henryvi.3.1.html	https://shakespeare.mit.edu/2henryvi/2henryvi.3.1.html	data/raw/shakespeare/2henryvi/2henryvi.3.1.html	data/clean/0074.txt	blockquote	
+75	Henry VI, part 2 | 2henryvi.3.2.html	https://shakespeare.mit.edu/2henryvi/2henryvi.3.2.html	data/raw/shakespeare/2henryvi/2henryvi.3.2.html	data/clean/0075.txt	blockquote	
+76	Henry VI, part 2 | 2henryvi.3.3.html	https://shakespeare.mit.edu/2henryvi/2henryvi.3.3.html	data/raw/shakespeare/2henryvi/2henryvi.3.3.html	data/clean/0076.txt	blockquote	
+77	Henry VI, part 2 | 2henryvi.4.1.html	https://shakespeare.mit.edu/2henryvi/2henryvi.4.1.html	data/raw/shakespeare/2henryvi/2henryvi.4.1.html	data/clean/0077.txt	blockquote	
+78	Henry VI, part 2 | 2henryvi.4.10.html	https://shakespeare.mit.edu/2henryvi/2henryvi.4.10.html	data/raw/shakespeare/2henryvi/2henryvi.4.10.html	data/clean/0078.txt	blockquote	
+79	Henry VI, part 2 | 2henryvi.4.2.html	https://shakespeare.mit.edu/2henryvi/2henryvi.4.2.html	data/raw/shakespeare/2henryvi/2henryvi.4.2.html	data/clean/0079.txt	blockquote	
+80	Henry VI, part 2 | 2henryvi.4.3.html	https://shakespeare.mit.edu/2henryvi/2henryvi.4.3.html	data/raw/shakespeare/2henryvi/2henryvi.4.3.html	data/clean/0080.txt	blockquote	
+81	Henry VI, part 2 | 2henryvi.4.4.html	https://shakespeare.mit.edu/2henryvi/2henryvi.4.4.html	data/raw/shakespeare/2henryvi/2henryvi.4.4.html	data/clean/0081.txt	blockquote	
+82	Henry VI, part 2 | 2henryvi.4.5.html	https://shakespeare.mit.edu/2henryvi/2henryvi.4.5.html	data/raw/shakespeare/2henryvi/2henryvi.4.5.html	data/clean/0082.txt	blockquote	
+83	Henry VI, part 2 | 2henryvi.4.6.html	https://shakespeare.mit.edu/2henryvi/2henryvi.4.6.html	data/raw/shakespeare/2henryvi/2henryvi.4.6.html	data/clean/0083.txt	blockquote	
+84	Henry VI, part 2 | 2henryvi.4.7.html	https://shakespeare.mit.edu/2henryvi/2henryvi.4.7.html	data/raw/shakespeare/2henryvi/2henryvi.4.7.html	data/clean/0084.txt	blockquote	
+85	Henry VI, part 2 | 2henryvi.4.8.html	https://shakespeare.mit.edu/2henryvi/2henryvi.4.8.html	data/raw/shakespeare/2henryvi/2henryvi.4.8.html	data/clean/0085.txt	blockquote	
+86	Henry VI, part 2 | 2henryvi.4.9.html	https://shakespeare.mit.edu/2henryvi/2henryvi.4.9.html	data/raw/shakespeare/2henryvi/2henryvi.4.9.html	data/clean/0086.txt	blockquote	
+87	Henry VI, part 2 | 2henryvi.5.1.html	https://shakespeare.mit.edu/2henryvi/2henryvi.5.1.html	data/raw/shakespeare/2henryvi/2henryvi.5.1.html	data/clean/0087.txt	blockquote	
+88	Henry VI, part 2 | 2henryvi.5.2.html	https://shakespeare.mit.edu/2henryvi/2henryvi.5.2.html	data/raw/shakespeare/2henryvi/2henryvi.5.2.html	data/clean/0088.txt	blockquote	
+89	Henry VI, part 2 | 2henryvi.5.3.html	https://shakespeare.mit.edu/2henryvi/2henryvi.5.3.html	data/raw/shakespeare/2henryvi/2henryvi.5.3.html	data/clean/0089.txt	blockquote	
+90	Henry VI, part 3 | 3henryvi.1.1.html	https://shakespeare.mit.edu/3henryvi/3henryvi.1.1.html	data/raw/shakespeare/3henryvi/3henryvi.1.1.html	data/clean/0090.txt	blockquote	
+91	Henry VI, part 3 | 3henryvi.1.2.html	https://shakespeare.mit.edu/3henryvi/3henryvi.1.2.html	data/raw/shakespeare/3henryvi/3henryvi.1.2.html	data/clean/0091.txt	blockquote	
+92	Henry VI, part 3 | 3henryvi.1.3.html	https://shakespeare.mit.edu/3henryvi/3henryvi.1.3.html	data/raw/shakespeare/3henryvi/3henryvi.1.3.html	data/clean/0092.txt	blockquote	
+93	Henry VI, part 3 | 3henryvi.1.4.html	https://shakespeare.mit.edu/3henryvi/3henryvi.1.4.html	data/raw/shakespeare/3henryvi/3henryvi.1.4.html	data/clean/0093.txt	blockquote	
+94	Henry VI, part 3 | 3henryvi.2.1.html	https://shakespeare.mit.edu/3henryvi/3henryvi.2.1.html	data/raw/shakespeare/3henryvi/3henryvi.2.1.html	data/clean/0094.txt	blockquote	
+95	Henry VI, part 3 | 3henryvi.2.2.html	https://shakespeare.mit.edu/3henryvi/3henryvi.2.2.html	data/raw/shakespeare/3henryvi/3henryvi.2.2.html	data/clean/0095.txt	blockquote	
+96	Henry VI, part 3 | 3henryvi.2.3.html	https://shakespeare.mit.edu/3henryvi/3henryvi.2.3.html	data/raw/shakespeare/3henryvi/3henryvi.2.3.html	data/clean/0096.txt	blockquote	
+97	Henry VI, part 3 | 3henryvi.2.4.html	https://shakespeare.mit.edu/3henryvi/3henryvi.2.4.html	data/raw/shakespeare/3henryvi/3henryvi.2.4.html	data/clean/0097.txt	blockquote	
+98	Henry VI, part 3 | 3henryvi.2.5.html	https://shakespeare.mit.edu/3henryvi/3henryvi.2.5.html	data/raw/shakespeare/3henryvi/3henryvi.2.5.html	data/clean/0098.txt	blockquote	
+99	Henry VI, part 3 | 3henryvi.2.6.html	https://shakespeare.mit.edu/3henryvi/3henryvi.2.6.html	data/raw/shakespeare/3henryvi/3henryvi.2.6.html	data/clean/0099.txt	blockquote	
+100	Henry VI, part 3 | 3henryvi.3.1.html	https://shakespeare.mit.edu/3henryvi/3henryvi.3.1.html	data/raw/shakespeare/3henryvi/3henryvi.3.1.html	data/clean/0100.txt	blockquote	
+101	Henry VI, part 3 | 3henryvi.3.2.html	https://shakespeare.mit.edu/3henryvi/3henryvi.3.2.html	data/raw/shakespeare/3henryvi/3henryvi.3.2.html	data/clean/0101.txt	blockquote	
+102	Henry VI, part 3 | 3henryvi.3.3.html	https://shakespeare.mit.edu/3henryvi/3henryvi.3.3.html	data/raw/shakespeare/3henryvi/3henryvi.3.3.html	data/clean/0102.txt	blockquote	
+103	Henry VI, part 3 | 3henryvi.4.1.html	https://shakespeare.mit.edu/3henryvi/3henryvi.4.1.html	data/raw/shakespeare/3henryvi/3henryvi.4.1.html	data/clean/0103.txt	blockquote	
+104	Henry VI, part 3 | 3henryvi.4.2.html	https://shakespeare.mit.edu/3henryvi/3henryvi.4.2.html	data/raw/shakespeare/3henryvi/3henryvi.4.2.html	data/clean/0104.txt	blockquote	
+105	Henry VI, part 3 | 3henryvi.4.3.html	https://shakespeare.mit.edu/3henryvi/3henryvi.4.3.html	data/raw/shakespeare/3henryvi/3henryvi.4.3.html	data/clean/0105.txt	blockquote	
+106	Henry VI, part 3 | 3henryvi.4.4.html	https://shakespeare.mit.edu/3henryvi/3henryvi.4.4.html	data/raw/shakespeare/3henryvi/3henryvi.4.4.html	data/clean/0106.txt	blockquote	
+107	Henry VI, part 3 | 3henryvi.4.5.html	https://shakespeare.mit.edu/3henryvi/3henryvi.4.5.html	data/raw/shakespeare/3henryvi/3henryvi.4.5.html	data/clean/0107.txt	blockquote	
+108	Henry VI, part 3 | 3henryvi.4.6.html	https://shakespeare.mit.edu/3henryvi/3henryvi.4.6.html	data/raw/shakespeare/3henryvi/3henryvi.4.6.html	data/clean/0108.txt	blockquote	
+109	Henry VI, part 3 | 3henryvi.4.7.html	https://shakespeare.mit.edu/3henryvi/3henryvi.4.7.html	data/raw/shakespeare/3henryvi/3henryvi.4.7.html	data/clean/0109.txt	blockquote	
+110	Henry VI, part 3 | 3henryvi.4.8.html	https://shakespeare.mit.edu/3henryvi/3henryvi.4.8.html	data/raw/shakespeare/3henryvi/3henryvi.4.8.html	data/clean/0110.txt	blockquote	
+111	Henry VI, part 3 | 3henryvi.5.1.html	https://shakespeare.mit.edu/3henryvi/3henryvi.5.1.html	data/raw/shakespeare/3henryvi/3henryvi.5.1.html	data/clean/0111.txt	blockquote	
+112	Henry VI, part 3 | 3henryvi.5.2.html	https://shakespeare.mit.edu/3henryvi/3henryvi.5.2.html	data/raw/shakespeare/3henryvi/3henryvi.5.2.html	data/clean/0112.txt	blockquote	
+113	Henry VI, part 3 | 3henryvi.5.3.html	https://shakespeare.mit.edu/3henryvi/3henryvi.5.3.html	data/raw/shakespeare/3henryvi/3henryvi.5.3.html	data/clean/0113.txt	blockquote	
+114	Henry VI, part 3 | 3henryvi.5.4.html	https://shakespeare.mit.edu/3henryvi/3henryvi.5.4.html	data/raw/shakespeare/3henryvi/3henryvi.5.4.html	data/clean/0114.txt	blockquote	
+115	Henry VI, part 3 | 3henryvi.5.5.html	https://shakespeare.mit.edu/3henryvi/3henryvi.5.5.html	data/raw/shakespeare/3henryvi/3henryvi.5.5.html	data/clean/0115.txt	blockquote	
+116	Henry VI, part 3 | 3henryvi.5.6.html	https://shakespeare.mit.edu/3henryvi/3henryvi.5.6.html	data/raw/shakespeare/3henryvi/3henryvi.5.6.html	data/clean/0116.txt	blockquote	
+117	Henry VI, part 3 | 3henryvi.5.7.html	https://shakespeare.mit.edu/3henryvi/3henryvi.5.7.html	data/raw/shakespeare/3henryvi/3henryvi.5.7.html	data/clean/0117.txt	blockquote	
+118	A Lover's Complaint	https://shakespeare.mit.edu/Poetry/LoversComplaint.html	data/raw/shakespeare/Poetry/LoversComplaint.html	data/clean/0118.txt	blockquote	
+119	The Rape of Lucrece	https://shakespeare.mit.edu/Poetry/RapeOfLucrece.html	data/raw/shakespeare/Poetry/RapeOfLucrece.html	data/clean/0119.txt	blockquote	
+120	Venus and Adonis	https://shakespeare.mit.edu/Poetry/VenusAndAdonis.html	data/raw/shakespeare/Poetry/VenusAndAdonis.html	data/clean/0120.txt	blockquote	EVEN as the sun
+121	Funeral Elegy by W.S.	https://shakespeare.mit.edu/Poetry/elegy.html	data/raw/shakespeare/Poetry/elegy.html	data/clean/0121.txt	table	
+122	The Sonnets | sonnet.C.html	https://shakespeare.mit.edu/Poetry/sonnet.C.html	data/raw/shakespeare/Poetry/sonnet.C.html	data/clean/0122.txt	blockquote	
+123	The Sonnets | sonnet.CI.html	https://shakespeare.mit.edu/Poetry/sonnet.CI.html	data/raw/shakespeare/Poetry/sonnet.CI.html	data/clean/0123.txt	blockquote	
+124	The Sonnets | sonnet.CII.html	https://shakespeare.mit.edu/Poetry/sonnet.CII.html	data/raw/shakespeare/Poetry/sonnet.CII.html	data/clean/0124.txt	blockquote	
+125	The Sonnets | sonnet.CIII.html	https://shakespeare.mit.edu/Poetry/sonnet.CIII.html	data/raw/shakespeare/Poetry/sonnet.CIII.html	data/clean/0125.txt	blockquote	
+126	The Sonnets | sonnet.CIV.html	https://shakespeare.mit.edu/Poetry/sonnet.CIV.html	data/raw/shakespeare/Poetry/sonnet.CIV.html	data/clean/0126.txt	blockquote	
+127	The Sonnets | sonnet.CIX.html	https://shakespeare.mit.edu/Poetry/sonnet.CIX.html	data/raw/shakespeare/Poetry/sonnet.CIX.html	data/clean/0127.txt	blockquote	
+128	The Sonnets | sonnet.CL.html	https://shakespeare.mit.edu/Poetry/sonnet.CL.html	data/raw/shakespeare/Poetry/sonnet.CL.html	data/clean/0128.txt	blockquote	
+129	The Sonnets | sonnet.CLI.html	https://shakespeare.mit.edu/Poetry/sonnet.CLI.html	data/raw/shakespeare/Poetry/sonnet.CLI.html	data/clean/0129.txt	blockquote	
+130	The Sonnets | sonnet.CLII.html	https://shakespeare.mit.edu/Poetry/sonnet.CLII.html	data/raw/shakespeare/Poetry/sonnet.CLII.html	data/clean/0130.txt	blockquote	
+131	The Sonnets | sonnet.CLIII.html	https://shakespeare.mit.edu/Poetry/sonnet.CLIII.html	data/raw/shakespeare/Poetry/sonnet.CLIII.html	data/clean/0131.txt	blockquote	
+132	The Sonnets | sonnet.CLIV.html	https://shakespeare.mit.edu/Poetry/sonnet.CLIV.html	data/raw/shakespeare/Poetry/sonnet.CLIV.html	data/clean/0132.txt	blockquote	
+133	The Sonnets | sonnet.CV.html	https://shakespeare.mit.edu/Poetry/sonnet.CV.html	data/raw/shakespeare/Poetry/sonnet.CV.html	data/clean/0133.txt	blockquote	
+134	The Sonnets | sonnet.CVI.html	https://shakespeare.mit.edu/Poetry/sonnet.CVI.html	data/raw/shakespeare/Poetry/sonnet.CVI.html	data/clean/0134.txt	blockquote	
+135	The Sonnets | sonnet.CVII.html	https://shakespeare.mit.edu/Poetry/sonnet.CVII.html	data/raw/shakespeare/Poetry/sonnet.CVII.html	data/clean/0135.txt	blockquote	
+136	The Sonnets | sonnet.CVIII.html	https://shakespeare.mit.edu/Poetry/sonnet.CVIII.html	data/raw/shakespeare/Poetry/sonnet.CVIII.html	data/clean/0136.txt	blockquote	
+137	The Sonnets | sonnet.CX.html	https://shakespeare.mit.edu/Poetry/sonnet.CX.html	data/raw/shakespeare/Poetry/sonnet.CX.html	data/clean/0137.txt	blockquote	
+138	The Sonnets | sonnet.CXI.html	https://shakespeare.mit.edu/Poetry/sonnet.CXI.html	data/raw/shakespeare/Poetry/sonnet.CXI.html	data/clean/0138.txt	blockquote	
+139	The Sonnets | sonnet.CXII.html	https://shakespeare.mit.edu/Poetry/sonnet.CXII.html	data/raw/shakespeare/Poetry/sonnet.CXII.html	data/clean/0139.txt	blockquote	
+140	The Sonnets | sonnet.CXIII.html	https://shakespeare.mit.edu/Poetry/sonnet.CXIII.html	data/raw/shakespeare/Poetry/sonnet.CXIII.html	data/clean/0140.txt	blockquote	
+141	The Sonnets | sonnet.CXIV.html	https://shakespeare.mit.edu/Poetry/sonnet.CXIV.html	data/raw/shakespeare/Poetry/sonnet.CXIV.html	data/clean/0141.txt	blockquote	
+142	The Sonnets | sonnet.CXIX.html	https://shakespeare.mit.edu/Poetry/sonnet.CXIX.html	data/raw/shakespeare/Poetry/sonnet.CXIX.html	data/clean/0142.txt	blockquote	
+143	The Sonnets | sonnet.CXL.html	https://shakespeare.mit.edu/Poetry/sonnet.CXL.html	data/raw/shakespeare/Poetry/sonnet.CXL.html	data/clean/0143.txt	blockquote	
+144	The Sonnets | sonnet.CXLI.html	https://shakespeare.mit.edu/Poetry/sonnet.CXLI.html	data/raw/shakespeare/Poetry/sonnet.CXLI.html	data/clean/0144.txt	blockquote	
+145	The Sonnets | sonnet.CXLII.html	https://shakespeare.mit.edu/Poetry/sonnet.CXLII.html	data/raw/shakespeare/Poetry/sonnet.CXLII.html	data/clean/0145.txt	blockquote	
+146	The Sonnets | sonnet.CXLIII.html	https://shakespeare.mit.edu/Poetry/sonnet.CXLIII.html	data/raw/shakespeare/Poetry/sonnet.CXLIII.html	data/clean/0146.txt	blockquote	
+147	The Sonnets | sonnet.CXLIV.html	https://shakespeare.mit.edu/Poetry/sonnet.CXLIV.html	data/raw/shakespeare/Poetry/sonnet.CXLIV.html	data/clean/0147.txt	blockquote	
+148	The Sonnets | sonnet.CXLIX.html	https://shakespeare.mit.edu/Poetry/sonnet.CXLIX.html	data/raw/shakespeare/Poetry/sonnet.CXLIX.html	data/clean/0148.txt	blockquote	
+149	The Sonnets | sonnet.CXLV.html	https://shakespeare.mit.edu/Poetry/sonnet.CXLV.html	data/raw/shakespeare/Poetry/sonnet.CXLV.html	data/clean/0149.txt	blockquote	
+150	The Sonnets | sonnet.CXLVI.html	https://shakespeare.mit.edu/Poetry/sonnet.CXLVI.html	data/raw/shakespeare/Poetry/sonnet.CXLVI.html	data/clean/0150.txt	blockquote	
+151	The Sonnets | sonnet.CXLVII.html	https://shakespeare.mit.edu/Poetry/sonnet.CXLVII.html	data/raw/shakespeare/Poetry/sonnet.CXLVII.html	data/clean/0151.txt	blockquote	
+152	The Sonnets | sonnet.CXLVIII.html	https://shakespeare.mit.edu/Poetry/sonnet.CXLVIII.html	data/raw/shakespeare/Poetry/sonnet.CXLVIII.html	data/clean/0152.txt	blockquote	
+153	The Sonnets | sonnet.CXV.html	https://shakespeare.mit.edu/Poetry/sonnet.CXV.html	data/raw/shakespeare/Poetry/sonnet.CXV.html	data/clean/0153.txt	blockquote	
+154	The Sonnets | sonnet.CXVI.html	https://shakespeare.mit.edu/Poetry/sonnet.CXVI.html	data/raw/shakespeare/Poetry/sonnet.CXVI.html	data/clean/0154.txt	blockquote	
+155	The Sonnets | sonnet.CXVII.html	https://shakespeare.mit.edu/Poetry/sonnet.CXVII.html	data/raw/shakespeare/Poetry/sonnet.CXVII.html	data/clean/0155.txt	blockquote	
+156	The Sonnets | sonnet.CXVIII.html	https://shakespeare.mit.edu/Poetry/sonnet.CXVIII.html	data/raw/shakespeare/Poetry/sonnet.CXVIII.html	data/clean/0156.txt	blockquote	
+157	The Sonnets | sonnet.CXX.html	https://shakespeare.mit.edu/Poetry/sonnet.CXX.html	data/raw/shakespeare/Poetry/sonnet.CXX.html	data/clean/0157.txt	blockquote	
+158	The Sonnets | sonnet.CXXI.html	https://shakespeare.mit.edu/Poetry/sonnet.CXXI.html	data/raw/shakespeare/Poetry/sonnet.CXXI.html	data/clean/0158.txt	blockquote	
+159	The Sonnets | sonnet.CXXII.html	https://shakespeare.mit.edu/Poetry/sonnet.CXXII.html	data/raw/shakespeare/Poetry/sonnet.CXXII.html	data/clean/0159.txt	blockquote	
+160	The Sonnets | sonnet.CXXIII.html	https://shakespeare.mit.edu/Poetry/sonnet.CXXIII.html	data/raw/shakespeare/Poetry/sonnet.CXXIII.html	data/clean/0160.txt	blockquote	
+161	The Sonnets | sonnet.CXXIV.html	https://shakespeare.mit.edu/Poetry/sonnet.CXXIV.html	data/raw/shakespeare/Poetry/sonnet.CXXIV.html	data/clean/0161.txt	blockquote	
+162	The Sonnets | sonnet.CXXIX.html	https://shakespeare.mit.edu/Poetry/sonnet.CXXIX.html	data/raw/shakespeare/Poetry/sonnet.CXXIX.html	data/clean/0162.txt	blockquote	
+163	The Sonnets | sonnet.CXXV.html	https://shakespeare.mit.edu/Poetry/sonnet.CXXV.html	data/raw/shakespeare/Poetry/sonnet.CXXV.html	data/clean/0163.txt	blockquote	
+164	The Sonnets | sonnet.CXXVI.html	https://shakespeare.mit.edu/Poetry/sonnet.CXXVI.html	data/raw/shakespeare/Poetry/sonnet.CXXVI.html	data/clean/0164.txt	blockquote	
+165	The Sonnets | sonnet.CXXVII.html	https://shakespeare.mit.edu/Poetry/sonnet.CXXVII.html	data/raw/shakespeare/Poetry/sonnet.CXXVII.html	data/clean/0165.txt	blockquote	
+166	The Sonnets | sonnet.CXXVIII.html	https://shakespeare.mit.edu/Poetry/sonnet.CXXVIII.html	data/raw/shakespeare/Poetry/sonnet.CXXVIII.html	data/clean/0166.txt	blockquote	
+167	The Sonnets | sonnet.CXXX.html	https://shakespeare.mit.edu/Poetry/sonnet.CXXX.html	data/raw/shakespeare/Poetry/sonnet.CXXX.html	data/clean/0167.txt	blockquote	
+168	The Sonnets | sonnet.CXXXI.html	https://shakespeare.mit.edu/Poetry/sonnet.CXXXI.html	data/raw/shakespeare/Poetry/sonnet.CXXXI.html	data/clean/0168.txt	blockquote	
+169	The Sonnets | sonnet.CXXXII.html	https://shakespeare.mit.edu/Poetry/sonnet.CXXXII.html	data/raw/shakespeare/Poetry/sonnet.CXXXII.html	data/clean/0169.txt	blockquote	
+170	The Sonnets | sonnet.CXXXIII.html	https://shakespeare.mit.edu/Poetry/sonnet.CXXXIII.html	data/raw/shakespeare/Poetry/sonnet.CXXXIII.html	data/clean/0170.txt	blockquote	
+171	The Sonnets | sonnet.CXXXIV.html	https://shakespeare.mit.edu/Poetry/sonnet.CXXXIV.html	data/raw/shakespeare/Poetry/sonnet.CXXXIV.html	data/clean/0171.txt	blockquote	
+172	The Sonnets | sonnet.CXXXIX.html	https://shakespeare.mit.edu/Poetry/sonnet.CXXXIX.html	data/raw/shakespeare/Poetry/sonnet.CXXXIX.html	data/clean/0172.txt	blockquote	
+173	The Sonnets | sonnet.CXXXV.html	https://shakespeare.mit.edu/Poetry/sonnet.CXXXV.html	data/raw/shakespeare/Poetry/sonnet.CXXXV.html	data/clean/0173.txt	blockquote	
+174	The Sonnets | sonnet.CXXXVI.html	https://shakespeare.mit.edu/Poetry/sonnet.CXXXVI.html	data/raw/shakespeare/Poetry/sonnet.CXXXVI.html	data/clean/0174.txt	blockquote	
+175	The Sonnets | sonnet.CXXXVII.html	https://shakespeare.mit.edu/Poetry/sonnet.CXXXVII.html	data/raw/shakespeare/Poetry/sonnet.CXXXVII.html	data/clean/0175.txt	blockquote	
+176	The Sonnets | sonnet.CXXXVIII.html	https://shakespeare.mit.edu/Poetry/sonnet.CXXXVIII.html	data/raw/shakespeare/Poetry/sonnet.CXXXVIII.html	data/clean/0176.txt	blockquote	
+177	The Sonnets | sonnet.I.html	https://shakespeare.mit.edu/Poetry/sonnet.I.html	data/raw/shakespeare/Poetry/sonnet.I.html	data/clean/0177.txt	blockquote	
+178	The Sonnets | sonnet.II.html	https://shakespeare.mit.edu/Poetry/sonnet.II.html	data/raw/shakespeare/Poetry/sonnet.II.html	data/clean/0178.txt	blockquote	
+179	The Sonnets | sonnet.III.html	https://shakespeare.mit.edu/Poetry/sonnet.III.html	data/raw/shakespeare/Poetry/sonnet.III.html	data/clean/0179.txt	blockquote	
+180	The Sonnets | sonnet.IV.html	https://shakespeare.mit.edu/Poetry/sonnet.IV.html	data/raw/shakespeare/Poetry/sonnet.IV.html	data/clean/0180.txt	blockquote	
+181	The Sonnets | sonnet.IX.html	https://shakespeare.mit.edu/Poetry/sonnet.IX.html	data/raw/shakespeare/Poetry/sonnet.IX.html	data/clean/0181.txt	blockquote	
+182	The Sonnets | sonnet.L.html	https://shakespeare.mit.edu/Poetry/sonnet.L.html	data/raw/shakespeare/Poetry/sonnet.L.html	data/clean/0182.txt	blockquote	
+183	The Sonnets | sonnet.LI.html	https://shakespeare.mit.edu/Poetry/sonnet.LI.html	data/raw/shakespeare/Poetry/sonnet.LI.html	data/clean/0183.txt	blockquote	
+184	The Sonnets | sonnet.LII.html	https://shakespeare.mit.edu/Poetry/sonnet.LII.html	data/raw/shakespeare/Poetry/sonnet.LII.html	data/clean/0184.txt	blockquote	
+185	The Sonnets | sonnet.LIII.html	https://shakespeare.mit.edu/Poetry/sonnet.LIII.html	data/raw/shakespeare/Poetry/sonnet.LIII.html	data/clean/0185.txt	blockquote	
+186	The Sonnets | sonnet.LIV.html	https://shakespeare.mit.edu/Poetry/sonnet.LIV.html	data/raw/shakespeare/Poetry/sonnet.LIV.html	data/clean/0186.txt	blockquote	
+187	The Sonnets | sonnet.LIX.html	https://shakespeare.mit.edu/Poetry/sonnet.LIX.html	data/raw/shakespeare/Poetry/sonnet.LIX.html	data/clean/0187.txt	blockquote	
+188	The Sonnets | sonnet.LV.html	https://shakespeare.mit.edu/Poetry/sonnet.LV.html	data/raw/shakespeare/Poetry/sonnet.LV.html	data/clean/0188.txt	blockquote	
+189	The Sonnets | sonnet.LVI.html	https://shakespeare.mit.edu/Poetry/sonnet.LVI.html	data/raw/shakespeare/Poetry/sonnet.LVI.html	data/clean/0189.txt	blockquote	
+190	The Sonnets | sonnet.LVII.html	https://shakespeare.mit.edu/Poetry/sonnet.LVII.html	data/raw/shakespeare/Poetry/sonnet.LVII.html	data/clean/0190.txt	blockquote	
+191	The Sonnets | sonnet.LVIII.html	https://shakespeare.mit.edu/Poetry/sonnet.LVIII.html	data/raw/shakespeare/Poetry/sonnet.LVIII.html	data/clean/0191.txt	blockquote	
+192	The Sonnets | sonnet.LX.html	https://shakespeare.mit.edu/Poetry/sonnet.LX.html	data/raw/shakespeare/Poetry/sonnet.LX.html	data/clean/0192.txt	blockquote	
+193	The Sonnets | sonnet.LXI.html	https://shakespeare.mit.edu/Poetry/sonnet.LXI.html	data/raw/shakespeare/Poetry/sonnet.LXI.html	data/clean/0193.txt	blockquote	
+194	The Sonnets | sonnet.LXII.html	https://shakespeare.mit.edu/Poetry/sonnet.LXII.html	data/raw/shakespeare/Poetry/sonnet.LXII.html	data/clean/0194.txt	blockquote	
+195	The Sonnets | sonnet.LXIII.html	https://shakespeare.mit.edu/Poetry/sonnet.LXIII.html	data/raw/shakespeare/Poetry/sonnet.LXIII.html	data/clean/0195.txt	blockquote	
+196	The Sonnets | sonnet.LXIV.html	https://shakespeare.mit.edu/Poetry/sonnet.LXIV.html	data/raw/shakespeare/Poetry/sonnet.LXIV.html	data/clean/0196.txt	blockquote	
+197	The Sonnets | sonnet.LXIX.html	https://shakespeare.mit.edu/Poetry/sonnet.LXIX.html	data/raw/shakespeare/Poetry/sonnet.LXIX.html	data/clean/0197.txt	blockquote	
+198	The Sonnets | sonnet.LXV.html	https://shakespeare.mit.edu/Poetry/sonnet.LXV.html	data/raw/shakespeare/Poetry/sonnet.LXV.html	data/clean/0198.txt	blockquote	
+199	The Sonnets | sonnet.LXVI.html	https://shakespeare.mit.edu/Poetry/sonnet.LXVI.html	data/raw/shakespeare/Poetry/sonnet.LXVI.html	data/clean/0199.txt	blockquote	
+200	The Sonnets | sonnet.LXVII.html	https://shakespeare.mit.edu/Poetry/sonnet.LXVII.html	data/raw/shakespeare/Poetry/sonnet.LXVII.html	data/clean/0200.txt	blockquote	
+201	The Sonnets | sonnet.LXVIII.html	https://shakespeare.mit.edu/Poetry/sonnet.LXVIII.html	data/raw/shakespeare/Poetry/sonnet.LXVIII.html	data/clean/0201.txt	blockquote	
+202	The Sonnets | sonnet.LXX.html	https://shakespeare.mit.edu/Poetry/sonnet.LXX.html	data/raw/shakespeare/Poetry/sonnet.LXX.html	data/clean/0202.txt	blockquote	
+203	The Sonnets | sonnet.LXXI.html	https://shakespeare.mit.edu/Poetry/sonnet.LXXI.html	data/raw/shakespeare/Poetry/sonnet.LXXI.html	data/clean/0203.txt	blockquote	
+204	The Sonnets | sonnet.LXXII.html	https://shakespeare.mit.edu/Poetry/sonnet.LXXII.html	data/raw/shakespeare/Poetry/sonnet.LXXII.html	data/clean/0204.txt	blockquote	
+205	The Sonnets | sonnet.LXXIII.html	https://shakespeare.mit.edu/Poetry/sonnet.LXXIII.html	data/raw/shakespeare/Poetry/sonnet.LXXIII.html	data/clean/0205.txt	blockquote	
+206	The Sonnets | sonnet.LXXIV.html	https://shakespeare.mit.edu/Poetry/sonnet.LXXIV.html	data/raw/shakespeare/Poetry/sonnet.LXXIV.html	data/clean/0206.txt	blockquote	
+207	The Sonnets | sonnet.LXXIX.html	https://shakespeare.mit.edu/Poetry/sonnet.LXXIX.html	data/raw/shakespeare/Poetry/sonnet.LXXIX.html	data/clean/0207.txt	blockquote	
+208	The Sonnets | sonnet.LXXV.html	https://shakespeare.mit.edu/Poetry/sonnet.LXXV.html	data/raw/shakespeare/Poetry/sonnet.LXXV.html	data/clean/0208.txt	blockquote	
+209	The Sonnets | sonnet.LXXVI.html	https://shakespeare.mit.edu/Poetry/sonnet.LXXVI.html	data/raw/shakespeare/Poetry/sonnet.LXXVI.html	data/clean/0209.txt	blockquote	
+210	The Sonnets | sonnet.LXXVII.html	https://shakespeare.mit.edu/Poetry/sonnet.LXXVII.html	data/raw/shakespeare/Poetry/sonnet.LXXVII.html	data/clean/0210.txt	blockquote	
+211	The Sonnets | sonnet.LXXVIII.html	https://shakespeare.mit.edu/Poetry/sonnet.LXXVIII.html	data/raw/shakespeare/Poetry/sonnet.LXXVIII.html	data/clean/0211.txt	blockquote	
+212	The Sonnets | sonnet.LXXX.html	https://shakespeare.mit.edu/Poetry/sonnet.LXXX.html	data/raw/shakespeare/Poetry/sonnet.LXXX.html	data/clean/0212.txt	blockquote	
+213	The Sonnets | sonnet.LXXXI.html	https://shakespeare.mit.edu/Poetry/sonnet.LXXXI.html	data/raw/shakespeare/Poetry/sonnet.LXXXI.html	data/clean/0213.txt	blockquote	
+214	The Sonnets | sonnet.LXXXII.html	https://shakespeare.mit.edu/Poetry/sonnet.LXXXII.html	data/raw/shakespeare/Poetry/sonnet.LXXXII.html	data/clean/0214.txt	blockquote	
+215	The Sonnets | sonnet.LXXXIII.html	https://shakespeare.mit.edu/Poetry/sonnet.LXXXIII.html	data/raw/shakespeare/Poetry/sonnet.LXXXIII.html	data/clean/0215.txt	blockquote	
+216	The Sonnets | sonnet.LXXXIV.html	https://shakespeare.mit.edu/Poetry/sonnet.LXXXIV.html	data/raw/shakespeare/Poetry/sonnet.LXXXIV.html	data/clean/0216.txt	blockquote	
+217	The Sonnets | sonnet.LXXXIX.html	https://shakespeare.mit.edu/Poetry/sonnet.LXXXIX.html	data/raw/shakespeare/Poetry/sonnet.LXXXIX.html	data/clean/0217.txt	blockquote	
+218	The Sonnets | sonnet.LXXXV.html	https://shakespeare.mit.edu/Poetry/sonnet.LXXXV.html	data/raw/shakespeare/Poetry/sonnet.LXXXV.html	data/clean/0218.txt	blockquote	
+219	The Sonnets | sonnet.LXXXVI.html	https://shakespeare.mit.edu/Poetry/sonnet.LXXXVI.html	data/raw/shakespeare/Poetry/sonnet.LXXXVI.html	data/clean/0219.txt	blockquote	
+220	The Sonnets | sonnet.LXXXVII.html	https://shakespeare.mit.edu/Poetry/sonnet.LXXXVII.html	data/raw/shakespeare/Poetry/sonnet.LXXXVII.html	data/clean/0220.txt	blockquote	
+221	The Sonnets | sonnet.LXXXVIII.html	https://shakespeare.mit.edu/Poetry/sonnet.LXXXVIII.html	data/raw/shakespeare/Poetry/sonnet.LXXXVIII.html	data/clean/0221.txt	blockquote	
+222	The Sonnets | sonnet.V.html	https://shakespeare.mit.edu/Poetry/sonnet.V.html	data/raw/shakespeare/Poetry/sonnet.V.html	data/clean/0222.txt	blockquote	
+223	The Sonnets | sonnet.VI.html	https://shakespeare.mit.edu/Poetry/sonnet.VI.html	data/raw/shakespeare/Poetry/sonnet.VI.html	data/clean/0223.txt	blockquote	
+224	The Sonnets | sonnet.VII.html	https://shakespeare.mit.edu/Poetry/sonnet.VII.html	data/raw/shakespeare/Poetry/sonnet.VII.html	data/clean/0224.txt	blockquote	
+225	The Sonnets | sonnet.VIII.html	https://shakespeare.mit.edu/Poetry/sonnet.VIII.html	data/raw/shakespeare/Poetry/sonnet.VIII.html	data/clean/0225.txt	blockquote	
+226	The Sonnets | sonnet.X.html	https://shakespeare.mit.edu/Poetry/sonnet.X.html	data/raw/shakespeare/Poetry/sonnet.X.html	data/clean/0226.txt	blockquote	
+227	The Sonnets | sonnet.XC.html	https://shakespeare.mit.edu/Poetry/sonnet.XC.html	data/raw/shakespeare/Poetry/sonnet.XC.html	data/clean/0227.txt	blockquote	
+228	The Sonnets | sonnet.XCI.html	https://shakespeare.mit.edu/Poetry/sonnet.XCI.html	data/raw/shakespeare/Poetry/sonnet.XCI.html	data/clean/0228.txt	blockquote	
+229	The Sonnets | sonnet.XCII.html	https://shakespeare.mit.edu/Poetry/sonnet.XCII.html	data/raw/shakespeare/Poetry/sonnet.XCII.html	data/clean/0229.txt	blockquote	
+230	The Sonnets | sonnet.XCIII.html	https://shakespeare.mit.edu/Poetry/sonnet.XCIII.html	data/raw/shakespeare/Poetry/sonnet.XCIII.html	data/clean/0230.txt	blockquote	
+231	The Sonnets | sonnet.XCIV.html	https://shakespeare.mit.edu/Poetry/sonnet.XCIV.html	data/raw/shakespeare/Poetry/sonnet.XCIV.html	data/clean/0231.txt	blockquote	
+232	The Sonnets | sonnet.XCIX.html	https://shakespeare.mit.edu/Poetry/sonnet.XCIX.html	data/raw/shakespeare/Poetry/sonnet.XCIX.html	data/clean/0232.txt	blockquote	
+233	The Sonnets | sonnet.XCV.html	https://shakespeare.mit.edu/Poetry/sonnet.XCV.html	data/raw/shakespeare/Poetry/sonnet.XCV.html	data/clean/0233.txt	blockquote	
+234	The Sonnets | sonnet.XCVI.html	https://shakespeare.mit.edu/Poetry/sonnet.XCVI.html	data/raw/shakespeare/Poetry/sonnet.XCVI.html	data/clean/0234.txt	blockquote	
+235	The Sonnets | sonnet.XCVII.html	https://shakespeare.mit.edu/Poetry/sonnet.XCVII.html	data/raw/shakespeare/Poetry/sonnet.XCVII.html	data/clean/0235.txt	blockquote	
+236	The Sonnets | sonnet.XCVIII.html	https://shakespeare.mit.edu/Poetry/sonnet.XCVIII.html	data/raw/shakespeare/Poetry/sonnet.XCVIII.html	data/clean/0236.txt	blockquote	
+237	The Sonnets | sonnet.XI.html	https://shakespeare.mit.edu/Poetry/sonnet.XI.html	data/raw/shakespeare/Poetry/sonnet.XI.html	data/clean/0237.txt	blockquote	
+238	The Sonnets | sonnet.XII.html	https://shakespeare.mit.edu/Poetry/sonnet.XII.html	data/raw/shakespeare/Poetry/sonnet.XII.html	data/clean/0238.txt	blockquote	
+239	The Sonnets | sonnet.XIII.html	https://shakespeare.mit.edu/Poetry/sonnet.XIII.html	data/raw/shakespeare/Poetry/sonnet.XIII.html	data/clean/0239.txt	blockquote	
+240	The Sonnets | sonnet.XIV.html	https://shakespeare.mit.edu/Poetry/sonnet.XIV.html	data/raw/shakespeare/Poetry/sonnet.XIV.html	data/clean/0240.txt	blockquote	
+241	The Sonnets | sonnet.XIX.html	https://shakespeare.mit.edu/Poetry/sonnet.XIX.html	data/raw/shakespeare/Poetry/sonnet.XIX.html	data/clean/0241.txt	blockquote	
+242	The Sonnets | sonnet.XL.html	https://shakespeare.mit.edu/Poetry/sonnet.XL.html	data/raw/shakespeare/Poetry/sonnet.XL.html	data/clean/0242.txt	blockquote	
+243	The Sonnets | sonnet.XLI.html	https://shakespeare.mit.edu/Poetry/sonnet.XLI.html	data/raw/shakespeare/Poetry/sonnet.XLI.html	data/clean/0243.txt	blockquote	
+244	The Sonnets | sonnet.XLII.html	https://shakespeare.mit.edu/Poetry/sonnet.XLII.html	data/raw/shakespeare/Poetry/sonnet.XLII.html	data/clean/0244.txt	blockquote	
+245	The Sonnets | sonnet.XLIII.html	https://shakespeare.mit.edu/Poetry/sonnet.XLIII.html	data/raw/shakespeare/Poetry/sonnet.XLIII.html	data/clean/0245.txt	blockquote	
+246	The Sonnets | sonnet.XLIV.html	https://shakespeare.mit.edu/Poetry/sonnet.XLIV.html	data/raw/shakespeare/Poetry/sonnet.XLIV.html	data/clean/0246.txt	blockquote	
+247	The Sonnets | sonnet.XLIX.html	https://shakespeare.mit.edu/Poetry/sonnet.XLIX.html	data/raw/shakespeare/Poetry/sonnet.XLIX.html	data/clean/0247.txt	blockquote	
+248	The Sonnets | sonnet.XLV.html	https://shakespeare.mit.edu/Poetry/sonnet.XLV.html	data/raw/shakespeare/Poetry/sonnet.XLV.html	data/clean/0248.txt	blockquote	
+249	The Sonnets | sonnet.XLVI.html	https://shakespeare.mit.edu/Poetry/sonnet.XLVI.html	data/raw/shakespeare/Poetry/sonnet.XLVI.html	data/clean/0249.txt	blockquote	
+250	The Sonnets | sonnet.XLVII.html	https://shakespeare.mit.edu/Poetry/sonnet.XLVII.html	data/raw/shakespeare/Poetry/sonnet.XLVII.html	data/clean/0250.txt	blockquote	
+251	The Sonnets | sonnet.XLVIII.html	https://shakespeare.mit.edu/Poetry/sonnet.XLVIII.html	data/raw/shakespeare/Poetry/sonnet.XLVIII.html	data/clean/0251.txt	blockquote	
+252	The Sonnets | sonnet.XV.html	https://shakespeare.mit.edu/Poetry/sonnet.XV.html	data/raw/shakespeare/Poetry/sonnet.XV.html	data/clean/0252.txt	blockquote	
+253	The Sonnets | sonnet.XVI.html	https://shakespeare.mit.edu/Poetry/sonnet.XVI.html	data/raw/shakespeare/Poetry/sonnet.XVI.html	data/clean/0253.txt	blockquote	
+254	The Sonnets | sonnet.XVII.html	https://shakespeare.mit.edu/Poetry/sonnet.XVII.html	data/raw/shakespeare/Poetry/sonnet.XVII.html	data/clean/0254.txt	blockquote	
+255	The Sonnets | sonnet.XVIII.html	https://shakespeare.mit.edu/Poetry/sonnet.XVIII.html	data/raw/shakespeare/Poetry/sonnet.XVIII.html	data/clean/0255.txt	blockquote	
+256	The Sonnets | sonnet.XX.html	https://shakespeare.mit.edu/Poetry/sonnet.XX.html	data/raw/shakespeare/Poetry/sonnet.XX.html	data/clean/0256.txt	blockquote	
+257	The Sonnets | sonnet.XXI.html	https://shakespeare.mit.edu/Poetry/sonnet.XXI.html	data/raw/shakespeare/Poetry/sonnet.XXI.html	data/clean/0257.txt	blockquote	
+258	The Sonnets | sonnet.XXII.html	https://shakespeare.mit.edu/Poetry/sonnet.XXII.html	data/raw/shakespeare/Poetry/sonnet.XXII.html	data/clean/0258.txt	blockquote	
+259	The Sonnets | sonnet.XXIII.html	https://shakespeare.mit.edu/Poetry/sonnet.XXIII.html	data/raw/shakespeare/Poetry/sonnet.XXIII.html	data/clean/0259.txt	blockquote	
+260	The Sonnets | sonnet.XXIV.html	https://shakespeare.mit.edu/Poetry/sonnet.XXIV.html	data/raw/shakespeare/Poetry/sonnet.XXIV.html	data/clean/0260.txt	blockquote	
+261	The Sonnets | sonnet.XXIX.html	https://shakespeare.mit.edu/Poetry/sonnet.XXIX.html	data/raw/shakespeare/Poetry/sonnet.XXIX.html	data/clean/0261.txt	blockquote	
+262	The Sonnets | sonnet.XXV.html	https://shakespeare.mit.edu/Poetry/sonnet.XXV.html	data/raw/shakespeare/Poetry/sonnet.XXV.html	data/clean/0262.txt	blockquote	
+263	The Sonnets | sonnet.XXVI.html	https://shakespeare.mit.edu/Poetry/sonnet.XXVI.html	data/raw/shakespeare/Poetry/sonnet.XXVI.html	data/clean/0263.txt	blockquote	
+264	The Sonnets | sonnet.XXVII.html	https://shakespeare.mit.edu/Poetry/sonnet.XXVII.html	data/raw/shakespeare/Poetry/sonnet.XXVII.html	data/clean/0264.txt	blockquote	
+265	The Sonnets | sonnet.XXVIII.html	https://shakespeare.mit.edu/Poetry/sonnet.XXVIII.html	data/raw/shakespeare/Poetry/sonnet.XXVIII.html	data/clean/0265.txt	blockquote	
+266	The Sonnets | sonnet.XXX.html	https://shakespeare.mit.edu/Poetry/sonnet.XXX.html	data/raw/shakespeare/Poetry/sonnet.XXX.html	data/clean/0266.txt	blockquote	
+267	The Sonnets | sonnet.XXXI.html	https://shakespeare.mit.edu/Poetry/sonnet.XXXI.html	data/raw/shakespeare/Poetry/sonnet.XXXI.html	data/clean/0267.txt	blockquote	
+268	The Sonnets | sonnet.XXXII.html	https://shakespeare.mit.edu/Poetry/sonnet.XXXII.html	data/raw/shakespeare/Poetry/sonnet.XXXII.html	data/clean/0268.txt	blockquote	
+269	The Sonnets | sonnet.XXXIII.html	https://shakespeare.mit.edu/Poetry/sonnet.XXXIII.html	data/raw/shakespeare/Poetry/sonnet.XXXIII.html	data/clean/0269.txt	blockquote	
+270	The Sonnets | sonnet.XXXIV.html	https://shakespeare.mit.edu/Poetry/sonnet.XXXIV.html	data/raw/shakespeare/Poetry/sonnet.XXXIV.html	data/clean/0270.txt	blockquote	
+271	The Sonnets | sonnet.XXXIX.html	https://shakespeare.mit.edu/Poetry/sonnet.XXXIX.html	data/raw/shakespeare/Poetry/sonnet.XXXIX.html	data/clean/0271.txt	blockquote	
+272	The Sonnets | sonnet.XXXV.html	https://shakespeare.mit.edu/Poetry/sonnet.XXXV.html	data/raw/shakespeare/Poetry/sonnet.XXXV.html	data/clean/0272.txt	blockquote	
+273	The Sonnets | sonnet.XXXVI.html	https://shakespeare.mit.edu/Poetry/sonnet.XXXVI.html	data/raw/shakespeare/Poetry/sonnet.XXXVI.html	data/clean/0273.txt	blockquote	
+274	The Sonnets | sonnet.XXXVII.html	https://shakespeare.mit.edu/Poetry/sonnet.XXXVII.html	data/raw/shakespeare/Poetry/sonnet.XXXVII.html	data/clean/0274.txt	blockquote	
+275	The Sonnets | sonnet.XXXVIII.html	https://shakespeare.mit.edu/Poetry/sonnet.XXXVIII.html	data/raw/shakespeare/Poetry/sonnet.XXXVIII.html	data/clean/0275.txt	blockquote	
+276	All's Well That Ends Well | allswell.1.1.html	https://shakespeare.mit.edu/allswell/allswell.1.1.html	data/raw/shakespeare/allswell/allswell.1.1.html	data/clean/0276.txt	blockquote	
+277	All's Well That Ends Well | allswell.1.2.html	https://shakespeare.mit.edu/allswell/allswell.1.2.html	data/raw/shakespeare/allswell/allswell.1.2.html	data/clean/0277.txt	blockquote	
+278	All's Well That Ends Well | allswell.1.3.html	https://shakespeare.mit.edu/allswell/allswell.1.3.html	data/raw/shakespeare/allswell/allswell.1.3.html	data/clean/0278.txt	blockquote	
+279	All's Well That Ends Well | allswell.2.1.html	https://shakespeare.mit.edu/allswell/allswell.2.1.html	data/raw/shakespeare/allswell/allswell.2.1.html	data/clean/0279.txt	blockquote	
+280	All's Well That Ends Well | allswell.2.2.html	https://shakespeare.mit.edu/allswell/allswell.2.2.html	data/raw/shakespeare/allswell/allswell.2.2.html	data/clean/0280.txt	blockquote	
+281	All's Well That Ends Well | allswell.2.3.html	https://shakespeare.mit.edu/allswell/allswell.2.3.html	data/raw/shakespeare/allswell/allswell.2.3.html	data/clean/0281.txt	blockquote	
+282	All's Well That Ends Well | allswell.2.4.html	https://shakespeare.mit.edu/allswell/allswell.2.4.html	data/raw/shakespeare/allswell/allswell.2.4.html	data/clean/0282.txt	blockquote	
+283	All's Well That Ends Well | allswell.2.5.html	https://shakespeare.mit.edu/allswell/allswell.2.5.html	data/raw/shakespeare/allswell/allswell.2.5.html	data/clean/0283.txt	blockquote	
+284	All's Well That Ends Well | allswell.3.1.html	https://shakespeare.mit.edu/allswell/allswell.3.1.html	data/raw/shakespeare/allswell/allswell.3.1.html	data/clean/0284.txt	blockquote	
+285	All's Well That Ends Well | allswell.3.2.html	https://shakespeare.mit.edu/allswell/allswell.3.2.html	data/raw/shakespeare/allswell/allswell.3.2.html	data/clean/0285.txt	blockquote	
+286	All's Well That Ends Well | allswell.3.3.html	https://shakespeare.mit.edu/allswell/allswell.3.3.html	data/raw/shakespeare/allswell/allswell.3.3.html	data/clean/0286.txt	blockquote	
+287	All's Well That Ends Well | allswell.3.4.html	https://shakespeare.mit.edu/allswell/allswell.3.4.html	data/raw/shakespeare/allswell/allswell.3.4.html	data/clean/0287.txt	blockquote	
+288	All's Well That Ends Well | allswell.3.5.html	https://shakespeare.mit.edu/allswell/allswell.3.5.html	data/raw/shakespeare/allswell/allswell.3.5.html	data/clean/0288.txt	blockquote	
+289	All's Well That Ends Well | allswell.3.6.html	https://shakespeare.mit.edu/allswell/allswell.3.6.html	data/raw/shakespeare/allswell/allswell.3.6.html	data/clean/0289.txt	blockquote	
+290	All's Well That Ends Well | allswell.3.7.html	https://shakespeare.mit.edu/allswell/allswell.3.7.html	data/raw/shakespeare/allswell/allswell.3.7.html	data/clean/0290.txt	blockquote	
+291	All's Well That Ends Well | allswell.4.1.html	https://shakespeare.mit.edu/allswell/allswell.4.1.html	data/raw/shakespeare/allswell/allswell.4.1.html	data/clean/0291.txt	blockquote	
+292	All's Well That Ends Well | allswell.4.2.html	https://shakespeare.mit.edu/allswell/allswell.4.2.html	data/raw/shakespeare/allswell/allswell.4.2.html	data/clean/0292.txt	blockquote	
+293	All's Well That Ends Well | allswell.4.3.html	https://shakespeare.mit.edu/allswell/allswell.4.3.html	data/raw/shakespeare/allswell/allswell.4.3.html	data/clean/0293.txt	blockquote	
+294	All's Well That Ends Well | allswell.4.4.html	https://shakespeare.mit.edu/allswell/allswell.4.4.html	data/raw/shakespeare/allswell/allswell.4.4.html	data/clean/0294.txt	blockquote	
+295	All's Well That Ends Well | allswell.4.5.html	https://shakespeare.mit.edu/allswell/allswell.4.5.html	data/raw/shakespeare/allswell/allswell.4.5.html	data/clean/0295.txt	blockquote	
+296	All's Well That Ends Well | allswell.5.1.html	https://shakespeare.mit.edu/allswell/allswell.5.1.html	data/raw/shakespeare/allswell/allswell.5.1.html	data/clean/0296.txt	blockquote	
+297	All's Well That Ends Well | allswell.5.2.html	https://shakespeare.mit.edu/allswell/allswell.5.2.html	data/raw/shakespeare/allswell/allswell.5.2.html	data/clean/0297.txt	blockquote	
+298	All's Well That Ends Well | allswell.5.3.html	https://shakespeare.mit.edu/allswell/allswell.5.3.html	data/raw/shakespeare/allswell/allswell.5.3.html	data/clean/0298.txt	blockquote	
+299	As You Like It | asyoulikeit.1.1.html	https://shakespeare.mit.edu/asyoulikeit/asyoulikeit.1.1.html	data/raw/shakespeare/asyoulikeit/asyoulikeit.1.1.html	data/clean/0299.txt	blockquote	
+300	As You Like It | asyoulikeit.1.2.html	https://shakespeare.mit.edu/asyoulikeit/asyoulikeit.1.2.html	data/raw/shakespeare/asyoulikeit/asyoulikeit.1.2.html	data/clean/0300.txt	blockquote	
+301	As You Like It | asyoulikeit.1.3.html	https://shakespeare.mit.edu/asyoulikeit/asyoulikeit.1.3.html	data/raw/shakespeare/asyoulikeit/asyoulikeit.1.3.html	data/clean/0301.txt	blockquote	
+302	As You Like It | asyoulikeit.2.1.html	https://shakespeare.mit.edu/asyoulikeit/asyoulikeit.2.1.html	data/raw/shakespeare/asyoulikeit/asyoulikeit.2.1.html	data/clean/0302.txt	blockquote	
+303	As You Like It | asyoulikeit.2.2.html	https://shakespeare.mit.edu/asyoulikeit/asyoulikeit.2.2.html	data/raw/shakespeare/asyoulikeit/asyoulikeit.2.2.html	data/clean/0303.txt	blockquote	
+304	As You Like It | asyoulikeit.2.3.html	https://shakespeare.mit.edu/asyoulikeit/asyoulikeit.2.3.html	data/raw/shakespeare/asyoulikeit/asyoulikeit.2.3.html	data/clean/0304.txt	blockquote	
+305	As You Like It | asyoulikeit.2.4.html	https://shakespeare.mit.edu/asyoulikeit/asyoulikeit.2.4.html	data/raw/shakespeare/asyoulikeit/asyoulikeit.2.4.html	data/clean/0305.txt	blockquote	
+306	As You Like It | asyoulikeit.2.5.html	https://shakespeare.mit.edu/asyoulikeit/asyoulikeit.2.5.html	data/raw/shakespeare/asyoulikeit/asyoulikeit.2.5.html	data/clean/0306.txt	blockquote	
+307	As You Like It | asyoulikeit.2.6.html	https://shakespeare.mit.edu/asyoulikeit/asyoulikeit.2.6.html	data/raw/shakespeare/asyoulikeit/asyoulikeit.2.6.html	data/clean/0307.txt	blockquote	
+308	As You Like It | asyoulikeit.2.7.html	https://shakespeare.mit.edu/asyoulikeit/asyoulikeit.2.7.html	data/raw/shakespeare/asyoulikeit/asyoulikeit.2.7.html	data/clean/0308.txt	blockquote	
+309	As You Like It | asyoulikeit.3.1.html	https://shakespeare.mit.edu/asyoulikeit/asyoulikeit.3.1.html	data/raw/shakespeare/asyoulikeit/asyoulikeit.3.1.html	data/clean/0309.txt	blockquote	
+310	As You Like It | asyoulikeit.3.2.html	https://shakespeare.mit.edu/asyoulikeit/asyoulikeit.3.2.html	data/raw/shakespeare/asyoulikeit/asyoulikeit.3.2.html	data/clean/0310.txt	blockquote	
+311	As You Like It | asyoulikeit.3.3.html	https://shakespeare.mit.edu/asyoulikeit/asyoulikeit.3.3.html	data/raw/shakespeare/asyoulikeit/asyoulikeit.3.3.html	data/clean/0311.txt	blockquote	
+312	As You Like It | asyoulikeit.3.4.html	https://shakespeare.mit.edu/asyoulikeit/asyoulikeit.3.4.html	data/raw/shakespeare/asyoulikeit/asyoulikeit.3.4.html	data/clean/0312.txt	blockquote	
+313	As You Like It | asyoulikeit.3.5.html	https://shakespeare.mit.edu/asyoulikeit/asyoulikeit.3.5.html	data/raw/shakespeare/asyoulikeit/asyoulikeit.3.5.html	data/clean/0313.txt	blockquote	
+314	As You Like It | asyoulikeit.4.1.html	https://shakespeare.mit.edu/asyoulikeit/asyoulikeit.4.1.html	data/raw/shakespeare/asyoulikeit/asyoulikeit.4.1.html	data/clean/0314.txt	blockquote	
+315	As You Like It | asyoulikeit.4.2.html	https://shakespeare.mit.edu/asyoulikeit/asyoulikeit.4.2.html	data/raw/shakespeare/asyoulikeit/asyoulikeit.4.2.html	data/clean/0315.txt	blockquote	
+316	As You Like It | asyoulikeit.4.3.html	https://shakespeare.mit.edu/asyoulikeit/asyoulikeit.4.3.html	data/raw/shakespeare/asyoulikeit/asyoulikeit.4.3.html	data/clean/0316.txt	blockquote	
+317	As You Like It | asyoulikeit.5.1.html	https://shakespeare.mit.edu/asyoulikeit/asyoulikeit.5.1.html	data/raw/shakespeare/asyoulikeit/asyoulikeit.5.1.html	data/clean/0317.txt	blockquote	
+318	As You Like It | asyoulikeit.5.2.html	https://shakespeare.mit.edu/asyoulikeit/asyoulikeit.5.2.html	data/raw/shakespeare/asyoulikeit/asyoulikeit.5.2.html	data/clean/0318.txt	blockquote	
+319	As You Like It | asyoulikeit.5.3.html	https://shakespeare.mit.edu/asyoulikeit/asyoulikeit.5.3.html	data/raw/shakespeare/asyoulikeit/asyoulikeit.5.3.html	data/clean/0319.txt	blockquote	
+320	As You Like It | asyoulikeit.5.4.html	https://shakespeare.mit.edu/asyoulikeit/asyoulikeit.5.4.html	data/raw/shakespeare/asyoulikeit/asyoulikeit.5.4.html	data/clean/0320.txt	blockquote	
+321	Antony and Cleopatra | cleopatra.1.1.html	https://shakespeare.mit.edu/cleopatra/cleopatra.1.1.html	data/raw/shakespeare/cleopatra/cleopatra.1.1.html	data/clean/0321.txt	blockquote	
+322	Antony and Cleopatra | cleopatra.1.2.html	https://shakespeare.mit.edu/cleopatra/cleopatra.1.2.html	data/raw/shakespeare/cleopatra/cleopatra.1.2.html	data/clean/0322.txt	blockquote	
+323	Antony and Cleopatra | cleopatra.1.3.html	https://shakespeare.mit.edu/cleopatra/cleopatra.1.3.html	data/raw/shakespeare/cleopatra/cleopatra.1.3.html	data/clean/0323.txt	blockquote	
+324	Antony and Cleopatra | cleopatra.1.4.html	https://shakespeare.mit.edu/cleopatra/cleopatra.1.4.html	data/raw/shakespeare/cleopatra/cleopatra.1.4.html	data/clean/0324.txt	blockquote	
+325	Antony and Cleopatra | cleopatra.1.5.html	https://shakespeare.mit.edu/cleopatra/cleopatra.1.5.html	data/raw/shakespeare/cleopatra/cleopatra.1.5.html	data/clean/0325.txt	blockquote	
+326	Antony and Cleopatra | cleopatra.2.1.html	https://shakespeare.mit.edu/cleopatra/cleopatra.2.1.html	data/raw/shakespeare/cleopatra/cleopatra.2.1.html	data/clean/0326.txt	blockquote	
+327	Antony and Cleopatra | cleopatra.2.2.html	https://shakespeare.mit.edu/cleopatra/cleopatra.2.2.html	data/raw/shakespeare/cleopatra/cleopatra.2.2.html	data/clean/0327.txt	blockquote	
+328	Antony and Cleopatra | cleopatra.2.3.html	https://shakespeare.mit.edu/cleopatra/cleopatra.2.3.html	data/raw/shakespeare/cleopatra/cleopatra.2.3.html	data/clean/0328.txt	blockquote	
+329	Antony and Cleopatra | cleopatra.2.4.html	https://shakespeare.mit.edu/cleopatra/cleopatra.2.4.html	data/raw/shakespeare/cleopatra/cleopatra.2.4.html	data/clean/0329.txt	blockquote	
+330	Antony and Cleopatra | cleopatra.2.5.html	https://shakespeare.mit.edu/cleopatra/cleopatra.2.5.html	data/raw/shakespeare/cleopatra/cleopatra.2.5.html	data/clean/0330.txt	blockquote	
+331	Antony and Cleopatra | cleopatra.2.6.html	https://shakespeare.mit.edu/cleopatra/cleopatra.2.6.html	data/raw/shakespeare/cleopatra/cleopatra.2.6.html	data/clean/0331.txt	blockquote	
+332	Antony and Cleopatra | cleopatra.2.7.html	https://shakespeare.mit.edu/cleopatra/cleopatra.2.7.html	data/raw/shakespeare/cleopatra/cleopatra.2.7.html	data/clean/0332.txt	blockquote	
+333	Antony and Cleopatra | cleopatra.3.1.html	https://shakespeare.mit.edu/cleopatra/cleopatra.3.1.html	data/raw/shakespeare/cleopatra/cleopatra.3.1.html	data/clean/0333.txt	blockquote	
+334	Antony and Cleopatra | cleopatra.3.10.html	https://shakespeare.mit.edu/cleopatra/cleopatra.3.10.html	data/raw/shakespeare/cleopatra/cleopatra.3.10.html	data/clean/0334.txt	blockquote	
+335	Antony and Cleopatra | cleopatra.3.11.html	https://shakespeare.mit.edu/cleopatra/cleopatra.3.11.html	data/raw/shakespeare/cleopatra/cleopatra.3.11.html	data/clean/0335.txt	blockquote	
+336	Antony and Cleopatra | cleopatra.3.12.html	https://shakespeare.mit.edu/cleopatra/cleopatra.3.12.html	data/raw/shakespeare/cleopatra/cleopatra.3.12.html	data/clean/0336.txt	blockquote	
+337	Antony and Cleopatra | cleopatra.3.13.html	https://shakespeare.mit.edu/cleopatra/cleopatra.3.13.html	data/raw/shakespeare/cleopatra/cleopatra.3.13.html	data/clean/0337.txt	blockquote	
+338	Antony and Cleopatra | cleopatra.3.2.html	https://shakespeare.mit.edu/cleopatra/cleopatra.3.2.html	data/raw/shakespeare/cleopatra/cleopatra.3.2.html	data/clean/0338.txt	blockquote	
+339	Antony and Cleopatra | cleopatra.3.3.html	https://shakespeare.mit.edu/cleopatra/cleopatra.3.3.html	data/raw/shakespeare/cleopatra/cleopatra.3.3.html	data/clean/0339.txt	blockquote	
+340	Antony and Cleopatra | cleopatra.3.4.html	https://shakespeare.mit.edu/cleopatra/cleopatra.3.4.html	data/raw/shakespeare/cleopatra/cleopatra.3.4.html	data/clean/0340.txt	blockquote	
+341	Antony and Cleopatra | cleopatra.3.5.html	https://shakespeare.mit.edu/cleopatra/cleopatra.3.5.html	data/raw/shakespeare/cleopatra/cleopatra.3.5.html	data/clean/0341.txt	blockquote	
+342	Antony and Cleopatra | cleopatra.3.6.html	https://shakespeare.mit.edu/cleopatra/cleopatra.3.6.html	data/raw/shakespeare/cleopatra/cleopatra.3.6.html	data/clean/0342.txt	blockquote	
+343	Antony and Cleopatra | cleopatra.3.7.html	https://shakespeare.mit.edu/cleopatra/cleopatra.3.7.html	data/raw/shakespeare/cleopatra/cleopatra.3.7.html	data/clean/0343.txt	blockquote	
+344	Antony and Cleopatra | cleopatra.3.8.html	https://shakespeare.mit.edu/cleopatra/cleopatra.3.8.html	data/raw/shakespeare/cleopatra/cleopatra.3.8.html	data/clean/0344.txt	blockquote	
+345	Antony and Cleopatra | cleopatra.3.9.html	https://shakespeare.mit.edu/cleopatra/cleopatra.3.9.html	data/raw/shakespeare/cleopatra/cleopatra.3.9.html	data/clean/0345.txt	blockquote	
+346	Antony and Cleopatra | cleopatra.4.1.html	https://shakespeare.mit.edu/cleopatra/cleopatra.4.1.html	data/raw/shakespeare/cleopatra/cleopatra.4.1.html	data/clean/0346.txt	blockquote	
+347	Antony and Cleopatra | cleopatra.4.10.html	https://shakespeare.mit.edu/cleopatra/cleopatra.4.10.html	data/raw/shakespeare/cleopatra/cleopatra.4.10.html	data/clean/0347.txt	blockquote	
+348	Antony and Cleopatra | cleopatra.4.11.html	https://shakespeare.mit.edu/cleopatra/cleopatra.4.11.html	data/raw/shakespeare/cleopatra/cleopatra.4.11.html	data/clean/0348.txt	blockquote	
+349	Antony and Cleopatra | cleopatra.4.12.html	https://shakespeare.mit.edu/cleopatra/cleopatra.4.12.html	data/raw/shakespeare/cleopatra/cleopatra.4.12.html	data/clean/0349.txt	blockquote	
+350	Antony and Cleopatra | cleopatra.4.13.html	https://shakespeare.mit.edu/cleopatra/cleopatra.4.13.html	data/raw/shakespeare/cleopatra/cleopatra.4.13.html	data/clean/0350.txt	blockquote	
+351	Antony and Cleopatra | cleopatra.4.14.html	https://shakespeare.mit.edu/cleopatra/cleopatra.4.14.html	data/raw/shakespeare/cleopatra/cleopatra.4.14.html	data/clean/0351.txt	blockquote	
+352	Antony and Cleopatra | cleopatra.4.15.html	https://shakespeare.mit.edu/cleopatra/cleopatra.4.15.html	data/raw/shakespeare/cleopatra/cleopatra.4.15.html	data/clean/0352.txt	blockquote	
+353	Antony and Cleopatra | cleopatra.4.2.html	https://shakespeare.mit.edu/cleopatra/cleopatra.4.2.html	data/raw/shakespeare/cleopatra/cleopatra.4.2.html	data/clean/0353.txt	blockquote	
+354	Antony and Cleopatra | cleopatra.4.3.html	https://shakespeare.mit.edu/cleopatra/cleopatra.4.3.html	data/raw/shakespeare/cleopatra/cleopatra.4.3.html	data/clean/0354.txt	blockquote	
+355	Antony and Cleopatra | cleopatra.4.4.html	https://shakespeare.mit.edu/cleopatra/cleopatra.4.4.html	data/raw/shakespeare/cleopatra/cleopatra.4.4.html	data/clean/0355.txt	blockquote	
+356	Antony and Cleopatra | cleopatra.4.5.html	https://shakespeare.mit.edu/cleopatra/cleopatra.4.5.html	data/raw/shakespeare/cleopatra/cleopatra.4.5.html	data/clean/0356.txt	blockquote	
+357	Antony and Cleopatra | cleopatra.4.6.html	https://shakespeare.mit.edu/cleopatra/cleopatra.4.6.html	data/raw/shakespeare/cleopatra/cleopatra.4.6.html	data/clean/0357.txt	blockquote	
+358	Antony and Cleopatra | cleopatra.4.7.html	https://shakespeare.mit.edu/cleopatra/cleopatra.4.7.html	data/raw/shakespeare/cleopatra/cleopatra.4.7.html	data/clean/0358.txt	blockquote	
+359	Antony and Cleopatra | cleopatra.4.8.html	https://shakespeare.mit.edu/cleopatra/cleopatra.4.8.html	data/raw/shakespeare/cleopatra/cleopatra.4.8.html	data/clean/0359.txt	blockquote	
+360	Antony and Cleopatra | cleopatra.4.9.html	https://shakespeare.mit.edu/cleopatra/cleopatra.4.9.html	data/raw/shakespeare/cleopatra/cleopatra.4.9.html	data/clean/0360.txt	blockquote	
+361	Antony and Cleopatra | cleopatra.5.1.html	https://shakespeare.mit.edu/cleopatra/cleopatra.5.1.html	data/raw/shakespeare/cleopatra/cleopatra.5.1.html	data/clean/0361.txt	blockquote	
+362	Antony and Cleopatra | cleopatra.5.2.html	https://shakespeare.mit.edu/cleopatra/cleopatra.5.2.html	data/raw/shakespeare/cleopatra/cleopatra.5.2.html	data/clean/0362.txt	blockquote	
+363	The Comedy of Errors | comedy_errors.1.1.html	https://shakespeare.mit.edu/comedy_errors/comedy_errors.1.1.html	data/raw/shakespeare/comedy_errors/comedy_errors.1.1.html	data/clean/0363.txt	blockquote	
+364	The Comedy of Errors | comedy_errors.1.2.html	https://shakespeare.mit.edu/comedy_errors/comedy_errors.1.2.html	data/raw/shakespeare/comedy_errors/comedy_errors.1.2.html	data/clean/0364.txt	blockquote	
+365	The Comedy of Errors | comedy_errors.2.1.html	https://shakespeare.mit.edu/comedy_errors/comedy_errors.2.1.html	data/raw/shakespeare/comedy_errors/comedy_errors.2.1.html	data/clean/0365.txt	blockquote	
+366	The Comedy of Errors | comedy_errors.2.2.html	https://shakespeare.mit.edu/comedy_errors/comedy_errors.2.2.html	data/raw/shakespeare/comedy_errors/comedy_errors.2.2.html	data/clean/0366.txt	blockquote	
+367	The Comedy of Errors | comedy_errors.3.1.html	https://shakespeare.mit.edu/comedy_errors/comedy_errors.3.1.html	data/raw/shakespeare/comedy_errors/comedy_errors.3.1.html	data/clean/0367.txt	blockquote	
+368	The Comedy of Errors | comedy_errors.3.2.html	https://shakespeare.mit.edu/comedy_errors/comedy_errors.3.2.html	data/raw/shakespeare/comedy_errors/comedy_errors.3.2.html	data/clean/0368.txt	blockquote	
+369	The Comedy of Errors | comedy_errors.4.1.html	https://shakespeare.mit.edu/comedy_errors/comedy_errors.4.1.html	data/raw/shakespeare/comedy_errors/comedy_errors.4.1.html	data/clean/0369.txt	blockquote	
+370	The Comedy of Errors | comedy_errors.4.2.html	https://shakespeare.mit.edu/comedy_errors/comedy_errors.4.2.html	data/raw/shakespeare/comedy_errors/comedy_errors.4.2.html	data/clean/0370.txt	blockquote	
+371	The Comedy of Errors | comedy_errors.4.3.html	https://shakespeare.mit.edu/comedy_errors/comedy_errors.4.3.html	data/raw/shakespeare/comedy_errors/comedy_errors.4.3.html	data/clean/0371.txt	blockquote	
+372	The Comedy of Errors | comedy_errors.4.4.html	https://shakespeare.mit.edu/comedy_errors/comedy_errors.4.4.html	data/raw/shakespeare/comedy_errors/comedy_errors.4.4.html	data/clean/0372.txt	blockquote	
+373	The Comedy of Errors | comedy_errors.5.1.html	https://shakespeare.mit.edu/comedy_errors/comedy_errors.5.1.html	data/raw/shakespeare/comedy_errors/comedy_errors.5.1.html	data/clean/0373.txt	blockquote	
+374	Coriolanus | coriolanus.1.1.html	https://shakespeare.mit.edu/coriolanus/coriolanus.1.1.html	data/raw/shakespeare/coriolanus/coriolanus.1.1.html	data/clean/0374.txt	blockquote	
+375	Coriolanus | coriolanus.1.10.html	https://shakespeare.mit.edu/coriolanus/coriolanus.1.10.html	data/raw/shakespeare/coriolanus/coriolanus.1.10.html	data/clean/0375.txt	blockquote	
+376	Coriolanus | coriolanus.1.2.html	https://shakespeare.mit.edu/coriolanus/coriolanus.1.2.html	data/raw/shakespeare/coriolanus/coriolanus.1.2.html	data/clean/0376.txt	blockquote	
+377	Coriolanus | coriolanus.1.3.html	https://shakespeare.mit.edu/coriolanus/coriolanus.1.3.html	data/raw/shakespeare/coriolanus/coriolanus.1.3.html	data/clean/0377.txt	blockquote	
+378	Coriolanus | coriolanus.1.4.html	https://shakespeare.mit.edu/coriolanus/coriolanus.1.4.html	data/raw/shakespeare/coriolanus/coriolanus.1.4.html	data/clean/0378.txt	blockquote	
+379	Coriolanus | coriolanus.1.5.html	https://shakespeare.mit.edu/coriolanus/coriolanus.1.5.html	data/raw/shakespeare/coriolanus/coriolanus.1.5.html	data/clean/0379.txt	blockquote	
+380	Coriolanus | coriolanus.1.6.html	https://shakespeare.mit.edu/coriolanus/coriolanus.1.6.html	data/raw/shakespeare/coriolanus/coriolanus.1.6.html	data/clean/0380.txt	blockquote	
+381	Coriolanus | coriolanus.1.7.html	https://shakespeare.mit.edu/coriolanus/coriolanus.1.7.html	data/raw/shakespeare/coriolanus/coriolanus.1.7.html	data/clean/0381.txt	blockquote	
+382	Coriolanus | coriolanus.1.8.html	https://shakespeare.mit.edu/coriolanus/coriolanus.1.8.html	data/raw/shakespeare/coriolanus/coriolanus.1.8.html	data/clean/0382.txt	blockquote	
+383	Coriolanus | coriolanus.1.9.html	https://shakespeare.mit.edu/coriolanus/coriolanus.1.9.html	data/raw/shakespeare/coriolanus/coriolanus.1.9.html	data/clean/0383.txt	blockquote	
+384	Coriolanus | coriolanus.2.1.html	https://shakespeare.mit.edu/coriolanus/coriolanus.2.1.html	data/raw/shakespeare/coriolanus/coriolanus.2.1.html	data/clean/0384.txt	blockquote	
+385	Coriolanus | coriolanus.2.2.html	https://shakespeare.mit.edu/coriolanus/coriolanus.2.2.html	data/raw/shakespeare/coriolanus/coriolanus.2.2.html	data/clean/0385.txt	blockquote	
+386	Coriolanus | coriolanus.2.3.html	https://shakespeare.mit.edu/coriolanus/coriolanus.2.3.html	data/raw/shakespeare/coriolanus/coriolanus.2.3.html	data/clean/0386.txt	blockquote	
+387	Coriolanus | coriolanus.3.1.html	https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html	data/raw/shakespeare/coriolanus/coriolanus.3.1.html	data/clean/0387.txt	blockquote	
+388	Coriolanus | coriolanus.3.2.html	https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html	data/raw/shakespeare/coriolanus/coriolanus.3.2.html	data/clean/0388.txt	blockquote	
+389	Coriolanus | coriolanus.3.3.html	https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html	data/raw/shakespeare/coriolanus/coriolanus.3.3.html	data/clean/0389.txt	blockquote	
+390	Coriolanus | coriolanus.4.1.html	https://shakespeare.mit.edu/coriolanus/coriolanus.4.1.html	data/raw/shakespeare/coriolanus/coriolanus.4.1.html	data/clean/0390.txt	blockquote	
+391	Coriolanus | coriolanus.4.2.html	https://shakespeare.mit.edu/coriolanus/coriolanus.4.2.html	data/raw/shakespeare/coriolanus/coriolanus.4.2.html	data/clean/0391.txt	blockquote	
+392	Coriolanus | coriolanus.4.3.html	https://shakespeare.mit.edu/coriolanus/coriolanus.4.3.html	data/raw/shakespeare/coriolanus/coriolanus.4.3.html	data/clean/0392.txt	blockquote	
+393	Coriolanus | coriolanus.4.4.html	https://shakespeare.mit.edu/coriolanus/coriolanus.4.4.html	data/raw/shakespeare/coriolanus/coriolanus.4.4.html	data/clean/0393.txt	blockquote	
+394	Coriolanus | coriolanus.4.5.html	https://shakespeare.mit.edu/coriolanus/coriolanus.4.5.html	data/raw/shakespeare/coriolanus/coriolanus.4.5.html	data/clean/0394.txt	blockquote	
+395	Coriolanus | coriolanus.4.6.html	https://shakespeare.mit.edu/coriolanus/coriolanus.4.6.html	data/raw/shakespeare/coriolanus/coriolanus.4.6.html	data/clean/0395.txt	blockquote	
+396	Coriolanus | coriolanus.4.7.html	https://shakespeare.mit.edu/coriolanus/coriolanus.4.7.html	data/raw/shakespeare/coriolanus/coriolanus.4.7.html	data/clean/0396.txt	blockquote	
+397	Coriolanus | coriolanus.5.1.html	https://shakespeare.mit.edu/coriolanus/coriolanus.5.1.html	data/raw/shakespeare/coriolanus/coriolanus.5.1.html	data/clean/0397.txt	blockquote	
+398	Coriolanus | coriolanus.5.2.html	https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html	data/raw/shakespeare/coriolanus/coriolanus.5.2.html	data/clean/0398.txt	blockquote	
+399	Coriolanus | coriolanus.5.3.html	https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html	data/raw/shakespeare/coriolanus/coriolanus.5.3.html	data/clean/0399.txt	blockquote	
+400	Coriolanus | coriolanus.5.4.html	https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html	data/raw/shakespeare/coriolanus/coriolanus.5.4.html	data/clean/0400.txt	blockquote	
+401	Coriolanus | coriolanus.5.5.html	https://shakespeare.mit.edu/coriolanus/coriolanus.5.5.html	data/raw/shakespeare/coriolanus/coriolanus.5.5.html	data/clean/0401.txt	blockquote	
+402	Coriolanus | coriolanus.5.6.html	https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html	data/raw/shakespeare/coriolanus/coriolanus.5.6.html	data/clean/0402.txt	blockquote	
+403	Cymbeline | cymbeline.1.1.html	https://shakespeare.mit.edu/cymbeline/cymbeline.1.1.html	data/raw/shakespeare/cymbeline/cymbeline.1.1.html	data/clean/0403.txt	blockquote	
+404	Cymbeline | cymbeline.1.2.html	https://shakespeare.mit.edu/cymbeline/cymbeline.1.2.html	data/raw/shakespeare/cymbeline/cymbeline.1.2.html	data/clean/0404.txt	blockquote	
+405	Cymbeline | cymbeline.1.3.html	https://shakespeare.mit.edu/cymbeline/cymbeline.1.3.html	data/raw/shakespeare/cymbeline/cymbeline.1.3.html	data/clean/0405.txt	blockquote	
+406	Cymbeline | cymbeline.1.4.html	https://shakespeare.mit.edu/cymbeline/cymbeline.1.4.html	data/raw/shakespeare/cymbeline/cymbeline.1.4.html	data/clean/0406.txt	blockquote	
+407	Cymbeline | cymbeline.1.5.html	https://shakespeare.mit.edu/cymbeline/cymbeline.1.5.html	data/raw/shakespeare/cymbeline/cymbeline.1.5.html	data/clean/0407.txt	blockquote	
+408	Cymbeline | cymbeline.1.6.html	https://shakespeare.mit.edu/cymbeline/cymbeline.1.6.html	data/raw/shakespeare/cymbeline/cymbeline.1.6.html	data/clean/0408.txt	blockquote	
+409	Cymbeline | cymbeline.2.1.html	https://shakespeare.mit.edu/cymbeline/cymbeline.2.1.html	data/raw/shakespeare/cymbeline/cymbeline.2.1.html	data/clean/0409.txt	blockquote	
+410	Cymbeline | cymbeline.2.2.html	https://shakespeare.mit.edu/cymbeline/cymbeline.2.2.html	data/raw/shakespeare/cymbeline/cymbeline.2.2.html	data/clean/0410.txt	blockquote	
+411	Cymbeline | cymbeline.2.4.html	https://shakespeare.mit.edu/cymbeline/cymbeline.2.4.html	data/raw/shakespeare/cymbeline/cymbeline.2.4.html	data/clean/0411.txt	blockquote	
+412	Cymbeline | cymbeline.2.5.html	https://shakespeare.mit.edu/cymbeline/cymbeline.2.5.html	data/raw/shakespeare/cymbeline/cymbeline.2.5.html	data/clean/0412.txt	blockquote	
+413	Cymbeline | cymbeline.3.1.html	https://shakespeare.mit.edu/cymbeline/cymbeline.3.1.html	data/raw/shakespeare/cymbeline/cymbeline.3.1.html	data/clean/0413.txt	blockquote	
+414	Cymbeline | cymbeline.3.2.html	https://shakespeare.mit.edu/cymbeline/cymbeline.3.2.html	data/raw/shakespeare/cymbeline/cymbeline.3.2.html	data/clean/0414.txt	blockquote	
+415	Cymbeline | cymbeline.3.3.html	https://shakespeare.mit.edu/cymbeline/cymbeline.3.3.html	data/raw/shakespeare/cymbeline/cymbeline.3.3.html	data/clean/0415.txt	blockquote	
+416	Cymbeline | cymbeline.3.4.html	https://shakespeare.mit.edu/cymbeline/cymbeline.3.4.html	data/raw/shakespeare/cymbeline/cymbeline.3.4.html	data/clean/0416.txt	blockquote	
+417	Cymbeline | cymbeline.3.5.html	https://shakespeare.mit.edu/cymbeline/cymbeline.3.5.html	data/raw/shakespeare/cymbeline/cymbeline.3.5.html	data/clean/0417.txt	blockquote	
+418	Cymbeline | cymbeline.3.6.html	https://shakespeare.mit.edu/cymbeline/cymbeline.3.6.html	data/raw/shakespeare/cymbeline/cymbeline.3.6.html	data/clean/0418.txt	blockquote	
+419	Cymbeline | cymbeline.3.7.html	https://shakespeare.mit.edu/cymbeline/cymbeline.3.7.html	data/raw/shakespeare/cymbeline/cymbeline.3.7.html	data/clean/0419.txt	blockquote	
+420	Cymbeline | cymbeline.4.1.html	https://shakespeare.mit.edu/cymbeline/cymbeline.4.1.html	data/raw/shakespeare/cymbeline/cymbeline.4.1.html	data/clean/0420.txt	blockquote	
+421	Cymbeline | cymbeline.4.2.html	https://shakespeare.mit.edu/cymbeline/cymbeline.4.2.html	data/raw/shakespeare/cymbeline/cymbeline.4.2.html	data/clean/0421.txt	blockquote	
+422	Cymbeline | cymbeline.4.3.html	https://shakespeare.mit.edu/cymbeline/cymbeline.4.3.html	data/raw/shakespeare/cymbeline/cymbeline.4.3.html	data/clean/0422.txt	blockquote	
+423	Cymbeline | cymbeline.4.4.html	https://shakespeare.mit.edu/cymbeline/cymbeline.4.4.html	data/raw/shakespeare/cymbeline/cymbeline.4.4.html	data/clean/0423.txt	blockquote	
+424	Cymbeline | cymbeline.5.1.html	https://shakespeare.mit.edu/cymbeline/cymbeline.5.1.html	data/raw/shakespeare/cymbeline/cymbeline.5.1.html	data/clean/0424.txt	blockquote	
+425	Cymbeline | cymbeline.5.2.html	https://shakespeare.mit.edu/cymbeline/cymbeline.5.2.html	data/raw/shakespeare/cymbeline/cymbeline.5.2.html	data/clean/0425.txt	blockquote	
+426	Cymbeline | cymbeline.5.3.html	https://shakespeare.mit.edu/cymbeline/cymbeline.5.3.html	data/raw/shakespeare/cymbeline/cymbeline.5.3.html	data/clean/0426.txt	blockquote	
+427	Cymbeline | cymbeline.5.4.html	https://shakespeare.mit.edu/cymbeline/cymbeline.5.4.html	data/raw/shakespeare/cymbeline/cymbeline.5.4.html	data/clean/0427.txt	blockquote	
+428	Cymbeline | cymbeline.5.5.html	https://shakespeare.mit.edu/cymbeline/cymbeline.5.5.html	data/raw/shakespeare/cymbeline/cymbeline.5.5.html	data/clean/0428.txt	blockquote	
+429	Hamlet | hamlet.1.1.html	https://shakespeare.mit.edu/hamlet/hamlet.1.1.html	data/raw/shakespeare/hamlet/hamlet.1.1.html	data/clean/0429.txt	blockquote	
+430	Hamlet | hamlet.1.2.html	https://shakespeare.mit.edu/hamlet/hamlet.1.2.html	data/raw/shakespeare/hamlet/hamlet.1.2.html	data/clean/0430.txt	blockquote	
+431	Hamlet | hamlet.1.3.html	https://shakespeare.mit.edu/hamlet/hamlet.1.3.html	data/raw/shakespeare/hamlet/hamlet.1.3.html	data/clean/0431.txt	blockquote	
+432	Hamlet | hamlet.1.4.html	https://shakespeare.mit.edu/hamlet/hamlet.1.4.html	data/raw/shakespeare/hamlet/hamlet.1.4.html	data/clean/0432.txt	blockquote	
+433	Hamlet | hamlet.1.5.html	https://shakespeare.mit.edu/hamlet/hamlet.1.5.html	data/raw/shakespeare/hamlet/hamlet.1.5.html	data/clean/0433.txt	blockquote	
+434	Hamlet | hamlet.2.1.html	https://shakespeare.mit.edu/hamlet/hamlet.2.1.html	data/raw/shakespeare/hamlet/hamlet.2.1.html	data/clean/0434.txt	blockquote	
+435	Hamlet | hamlet.2.2.html	https://shakespeare.mit.edu/hamlet/hamlet.2.2.html	data/raw/shakespeare/hamlet/hamlet.2.2.html	data/clean/0435.txt	blockquote	
+436	Hamlet | hamlet.3.1.html	https://shakespeare.mit.edu/hamlet/hamlet.3.1.html	data/raw/shakespeare/hamlet/hamlet.3.1.html	data/clean/0436.txt	blockquote	
+437	Hamlet | hamlet.3.2.html	https://shakespeare.mit.edu/hamlet/hamlet.3.2.html	data/raw/shakespeare/hamlet/hamlet.3.2.html	data/clean/0437.txt	blockquote	
+438	Hamlet | hamlet.3.3.html	https://shakespeare.mit.edu/hamlet/hamlet.3.3.html	data/raw/shakespeare/hamlet/hamlet.3.3.html	data/clean/0438.txt	blockquote	
+439	Hamlet | hamlet.3.4.html	https://shakespeare.mit.edu/hamlet/hamlet.3.4.html	data/raw/shakespeare/hamlet/hamlet.3.4.html	data/clean/0439.txt	blockquote	
+440	Hamlet | hamlet.4.1.html	https://shakespeare.mit.edu/hamlet/hamlet.4.1.html	data/raw/shakespeare/hamlet/hamlet.4.1.html	data/clean/0440.txt	blockquote	
+441	Hamlet | hamlet.4.2.html	https://shakespeare.mit.edu/hamlet/hamlet.4.2.html	data/raw/shakespeare/hamlet/hamlet.4.2.html	data/clean/0441.txt	blockquote	
+442	Hamlet | hamlet.4.3.html	https://shakespeare.mit.edu/hamlet/hamlet.4.3.html	data/raw/shakespeare/hamlet/hamlet.4.3.html	data/clean/0442.txt	blockquote	
+443	Hamlet | hamlet.4.4.html	https://shakespeare.mit.edu/hamlet/hamlet.4.4.html	data/raw/shakespeare/hamlet/hamlet.4.4.html	data/clean/0443.txt	blockquote	
+444	Hamlet | hamlet.4.5.html	https://shakespeare.mit.edu/hamlet/hamlet.4.5.html	data/raw/shakespeare/hamlet/hamlet.4.5.html	data/clean/0444.txt	blockquote	
+445	Hamlet | hamlet.4.6.html	https://shakespeare.mit.edu/hamlet/hamlet.4.6.html	data/raw/shakespeare/hamlet/hamlet.4.6.html	data/clean/0445.txt	blockquote	
+446	Hamlet | hamlet.4.7.html	https://shakespeare.mit.edu/hamlet/hamlet.4.7.html	data/raw/shakespeare/hamlet/hamlet.4.7.html	data/clean/0446.txt	blockquote	
+447	Hamlet | hamlet.5.1.html	https://shakespeare.mit.edu/hamlet/hamlet.5.1.html	data/raw/shakespeare/hamlet/hamlet.5.1.html	data/clean/0447.txt	blockquote	
+448	Hamlet | hamlet.5.2.html	https://shakespeare.mit.edu/hamlet/hamlet.5.2.html	data/raw/shakespeare/hamlet/hamlet.5.2.html	data/clean/0448.txt	blockquote	
+449	Henry V | henryv.1.0.html	https://shakespeare.mit.edu/henryv/henryv.1.0.html	data/raw/shakespeare/henryv/henryv.1.0.html	data/clean/0449.txt	blockquote	
+450	Henry V | henryv.1.1.html	https://shakespeare.mit.edu/henryv/henryv.1.1.html	data/raw/shakespeare/henryv/henryv.1.1.html	data/clean/0450.txt	blockquote	
+451	Henry V | henryv.1.2.html	https://shakespeare.mit.edu/henryv/henryv.1.2.html	data/raw/shakespeare/henryv/henryv.1.2.html	data/clean/0451.txt	blockquote	
+452	Henry V | henryv.2.0.html	https://shakespeare.mit.edu/henryv/henryv.2.0.html	data/raw/shakespeare/henryv/henryv.2.0.html	data/clean/0452.txt	blockquote	
+453	Henry V | henryv.2.1.html	https://shakespeare.mit.edu/henryv/henryv.2.1.html	data/raw/shakespeare/henryv/henryv.2.1.html	data/clean/0453.txt	blockquote	
+454	Henry V | henryv.2.2.html	https://shakespeare.mit.edu/henryv/henryv.2.2.html	data/raw/shakespeare/henryv/henryv.2.2.html	data/clean/0454.txt	blockquote	
+455	Henry V | henryv.2.3.html	https://shakespeare.mit.edu/henryv/henryv.2.3.html	data/raw/shakespeare/henryv/henryv.2.3.html	data/clean/0455.txt	blockquote	
+456	Henry V | henryv.2.4.html	https://shakespeare.mit.edu/henryv/henryv.2.4.html	data/raw/shakespeare/henryv/henryv.2.4.html	data/clean/0456.txt	blockquote	
+457	Henry V | henryv.3.0.html	https://shakespeare.mit.edu/henryv/henryv.3.0.html	data/raw/shakespeare/henryv/henryv.3.0.html	data/clean/0457.txt	blockquote	
+458	Henry V | henryv.3.1.html	https://shakespeare.mit.edu/henryv/henryv.3.1.html	data/raw/shakespeare/henryv/henryv.3.1.html	data/clean/0458.txt	blockquote	
+459	Henry V | henryv.3.2.html	https://shakespeare.mit.edu/henryv/henryv.3.2.html	data/raw/shakespeare/henryv/henryv.3.2.html	data/clean/0459.txt	blockquote	
+460	Henry V | henryv.3.3.html	https://shakespeare.mit.edu/henryv/henryv.3.3.html	data/raw/shakespeare/henryv/henryv.3.3.html	data/clean/0460.txt	blockquote	
+461	Henry V | henryv.3.4.html	https://shakespeare.mit.edu/henryv/henryv.3.4.html	data/raw/shakespeare/henryv/henryv.3.4.html	data/clean/0461.txt	blockquote	
+462	Henry V | henryv.3.5.html	https://shakespeare.mit.edu/henryv/henryv.3.5.html	data/raw/shakespeare/henryv/henryv.3.5.html	data/clean/0462.txt	blockquote	
+463	Henry V | henryv.3.6.html	https://shakespeare.mit.edu/henryv/henryv.3.6.html	data/raw/shakespeare/henryv/henryv.3.6.html	data/clean/0463.txt	blockquote	
+464	Henry V | henryv.3.7.html	https://shakespeare.mit.edu/henryv/henryv.3.7.html	data/raw/shakespeare/henryv/henryv.3.7.html	data/clean/0464.txt	blockquote	
+465	Henry V | henryv.4.0.html	https://shakespeare.mit.edu/henryv/henryv.4.0.html	data/raw/shakespeare/henryv/henryv.4.0.html	data/clean/0465.txt	blockquote	
+466	Henry V | henryv.4.1.html	https://shakespeare.mit.edu/henryv/henryv.4.1.html	data/raw/shakespeare/henryv/henryv.4.1.html	data/clean/0466.txt	blockquote	
+467	Henry V | henryv.4.2.html	https://shakespeare.mit.edu/henryv/henryv.4.2.html	data/raw/shakespeare/henryv/henryv.4.2.html	data/clean/0467.txt	blockquote	
+468	Henry V | henryv.4.3.html	https://shakespeare.mit.edu/henryv/henryv.4.3.html	data/raw/shakespeare/henryv/henryv.4.3.html	data/clean/0468.txt	blockquote	
+469	Henry V | henryv.4.4.html	https://shakespeare.mit.edu/henryv/henryv.4.4.html	data/raw/shakespeare/henryv/henryv.4.4.html	data/clean/0469.txt	blockquote	
+470	Henry V | henryv.4.5.html	https://shakespeare.mit.edu/henryv/henryv.4.5.html	data/raw/shakespeare/henryv/henryv.4.5.html	data/clean/0470.txt	blockquote	
+471	Henry V | henryv.4.6.html	https://shakespeare.mit.edu/henryv/henryv.4.6.html	data/raw/shakespeare/henryv/henryv.4.6.html	data/clean/0471.txt	blockquote	
+472	Henry V | henryv.4.7.html	https://shakespeare.mit.edu/henryv/henryv.4.7.html	data/raw/shakespeare/henryv/henryv.4.7.html	data/clean/0472.txt	blockquote	
+473	Henry V | henryv.4.8.html	https://shakespeare.mit.edu/henryv/henryv.4.8.html	data/raw/shakespeare/henryv/henryv.4.8.html	data/clean/0473.txt	blockquote	
+474	Henry V | henryv.5.0.html	https://shakespeare.mit.edu/henryv/henryv.5.0.html	data/raw/shakespeare/henryv/henryv.5.0.html	data/clean/0474.txt	blockquote	
+475	Henry V | henryv.5.1.html	https://shakespeare.mit.edu/henryv/henryv.5.1.html	data/raw/shakespeare/henryv/henryv.5.1.html	data/clean/0475.txt	blockquote	
+476	Henry V | henryv.5.2.html	https://shakespeare.mit.edu/henryv/henryv.5.2.html	data/raw/shakespeare/henryv/henryv.5.2.html	data/clean/0476.txt	blockquote	
+477	Henry VIII | henryviii.1.0.html	https://shakespeare.mit.edu/henryviii/henryviii.1.0.html	data/raw/shakespeare/henryviii/henryviii.1.0.html	data/clean/0477.txt	blockquote	
+478	Henry VIII | henryviii.1.1.html	https://shakespeare.mit.edu/henryviii/henryviii.1.1.html	data/raw/shakespeare/henryviii/henryviii.1.1.html	data/clean/0478.txt	blockquote	
+479	Henry VIII | henryviii.1.2.html	https://shakespeare.mit.edu/henryviii/henryviii.1.2.html	data/raw/shakespeare/henryviii/henryviii.1.2.html	data/clean/0479.txt	blockquote	
+480	Henry VIII | henryviii.1.3.html	https://shakespeare.mit.edu/henryviii/henryviii.1.3.html	data/raw/shakespeare/henryviii/henryviii.1.3.html	data/clean/0480.txt	blockquote	
+481	Henry VIII | henryviii.1.4.html	https://shakespeare.mit.edu/henryviii/henryviii.1.4.html	data/raw/shakespeare/henryviii/henryviii.1.4.html	data/clean/0481.txt	blockquote	
+482	Henry VIII | henryviii.2.1.html	https://shakespeare.mit.edu/henryviii/henryviii.2.1.html	data/raw/shakespeare/henryviii/henryviii.2.1.html	data/clean/0482.txt	blockquote	
+483	Henry VIII | henryviii.2.2.html	https://shakespeare.mit.edu/henryviii/henryviii.2.2.html	data/raw/shakespeare/henryviii/henryviii.2.2.html	data/clean/0483.txt	blockquote	
+484	Henry VIII | henryviii.2.3.html	https://shakespeare.mit.edu/henryviii/henryviii.2.3.html	data/raw/shakespeare/henryviii/henryviii.2.3.html	data/clean/0484.txt	blockquote	
+485	Henry VIII | henryviii.2.4.html	https://shakespeare.mit.edu/henryviii/henryviii.2.4.html	data/raw/shakespeare/henryviii/henryviii.2.4.html	data/clean/0485.txt	blockquote	
+486	Henry VIII | henryviii.3.1.html	https://shakespeare.mit.edu/henryviii/henryviii.3.1.html	data/raw/shakespeare/henryviii/henryviii.3.1.html	data/clean/0486.txt	blockquote	
+487	Henry VIII | henryviii.3.2.html	https://shakespeare.mit.edu/henryviii/henryviii.3.2.html	data/raw/shakespeare/henryviii/henryviii.3.2.html	data/clean/0487.txt	blockquote	
+488	Henry VIII | henryviii.4.1.html	https://shakespeare.mit.edu/henryviii/henryviii.4.1.html	data/raw/shakespeare/henryviii/henryviii.4.1.html	data/clean/0488.txt	blockquote	
+489	Henry VIII | henryviii.4.2.html	https://shakespeare.mit.edu/henryviii/henryviii.4.2.html	data/raw/shakespeare/henryviii/henryviii.4.2.html	data/clean/0489.txt	blockquote	
+490	Henry VIII | henryviii.5.1.html	https://shakespeare.mit.edu/henryviii/henryviii.5.1.html	data/raw/shakespeare/henryviii/henryviii.5.1.html	data/clean/0490.txt	blockquote	
+491	Henry VIII | henryviii.5.2.html	https://shakespeare.mit.edu/henryviii/henryviii.5.2.html	data/raw/shakespeare/henryviii/henryviii.5.2.html	data/clean/0491.txt	blockquote	
+492	Henry VIII | henryviii.5.3.html	https://shakespeare.mit.edu/henryviii/henryviii.5.3.html	data/raw/shakespeare/henryviii/henryviii.5.3.html	data/clean/0492.txt	blockquote	
+493	Henry VIII | henryviii.5.4.html	https://shakespeare.mit.edu/henryviii/henryviii.5.4.html	data/raw/shakespeare/henryviii/henryviii.5.4.html	data/clean/0493.txt	blockquote	
+494	Henry VIII | henryviii.5.5.html	https://shakespeare.mit.edu/henryviii/henryviii.5.5.html	data/raw/shakespeare/henryviii/henryviii.5.5.html	data/clean/0494.txt	blockquote	
+495	King John | john.1.1.html	https://shakespeare.mit.edu/john/john.1.1.html	data/raw/shakespeare/john/john.1.1.html	data/clean/0495.txt	blockquote	
+496	King John | john.2.1.html	https://shakespeare.mit.edu/john/john.2.1.html	data/raw/shakespeare/john/john.2.1.html	data/clean/0496.txt	blockquote	
+497	King John | john.3.1.html	https://shakespeare.mit.edu/john/john.3.1.html	data/raw/shakespeare/john/john.3.1.html	data/clean/0497.txt	blockquote	
+498	King John | john.3.2.html	https://shakespeare.mit.edu/john/john.3.2.html	data/raw/shakespeare/john/john.3.2.html	data/clean/0498.txt	blockquote	
+499	King John | john.3.3.html	https://shakespeare.mit.edu/john/john.3.3.html	data/raw/shakespeare/john/john.3.3.html	data/clean/0499.txt	blockquote	
+500	King John | john.3.4.html	https://shakespeare.mit.edu/john/john.3.4.html	data/raw/shakespeare/john/john.3.4.html	data/clean/0500.txt	blockquote	
+501	King John | john.4.1.html	https://shakespeare.mit.edu/john/john.4.1.html	data/raw/shakespeare/john/john.4.1.html	data/clean/0501.txt	blockquote	
+502	King John | john.4.2.html	https://shakespeare.mit.edu/john/john.4.2.html	data/raw/shakespeare/john/john.4.2.html	data/clean/0502.txt	blockquote	
+503	King John | john.4.3.html	https://shakespeare.mit.edu/john/john.4.3.html	data/raw/shakespeare/john/john.4.3.html	data/clean/0503.txt	blockquote	
+504	King John | john.5.1.html	https://shakespeare.mit.edu/john/john.5.1.html	data/raw/shakespeare/john/john.5.1.html	data/clean/0504.txt	blockquote	
+505	King John | john.5.2.html	https://shakespeare.mit.edu/john/john.5.2.html	data/raw/shakespeare/john/john.5.2.html	data/clean/0505.txt	blockquote	
+506	King John | john.5.3.html	https://shakespeare.mit.edu/john/john.5.3.html	data/raw/shakespeare/john/john.5.3.html	data/clean/0506.txt	blockquote	
+507	King John | john.5.4.html	https://shakespeare.mit.edu/john/john.5.4.html	data/raw/shakespeare/john/john.5.4.html	data/clean/0507.txt	blockquote	
+508	King John | john.5.5.html	https://shakespeare.mit.edu/john/john.5.5.html	data/raw/shakespeare/john/john.5.5.html	data/clean/0508.txt	blockquote	
+509	King John | john.5.6.html	https://shakespeare.mit.edu/john/john.5.6.html	data/raw/shakespeare/john/john.5.6.html	data/clean/0509.txt	blockquote	
+510	King John | john.5.7.html	https://shakespeare.mit.edu/john/john.5.7.html	data/raw/shakespeare/john/john.5.7.html	data/clean/0510.txt	blockquote	
+511	Julius Caesar | julius_caesar.1.1.html	https://shakespeare.mit.edu/julius_caesar/julius_caesar.1.1.html	data/raw/shakespeare/julius_caesar/julius_caesar.1.1.html	data/clean/0511.txt	blockquote	
+512	Julius Caesar | julius_caesar.1.2.html	https://shakespeare.mit.edu/julius_caesar/julius_caesar.1.2.html	data/raw/shakespeare/julius_caesar/julius_caesar.1.2.html	data/clean/0512.txt	blockquote	
+513	Julius Caesar | julius_caesar.1.3.html	https://shakespeare.mit.edu/julius_caesar/julius_caesar.1.3.html	data/raw/shakespeare/julius_caesar/julius_caesar.1.3.html	data/clean/0513.txt	blockquote	
+514	Julius Caesar | julius_caesar.2.1.html	https://shakespeare.mit.edu/julius_caesar/julius_caesar.2.1.html	data/raw/shakespeare/julius_caesar/julius_caesar.2.1.html	data/clean/0514.txt	blockquote	
+515	Julius Caesar | julius_caesar.2.2.html	https://shakespeare.mit.edu/julius_caesar/julius_caesar.2.2.html	data/raw/shakespeare/julius_caesar/julius_caesar.2.2.html	data/clean/0515.txt	blockquote	
+516	Julius Caesar | julius_caesar.2.3.html	https://shakespeare.mit.edu/julius_caesar/julius_caesar.2.3.html	data/raw/shakespeare/julius_caesar/julius_caesar.2.3.html	data/clean/0516.txt	blockquote	
+517	Julius Caesar | julius_caesar.2.4.html	https://shakespeare.mit.edu/julius_caesar/julius_caesar.2.4.html	data/raw/shakespeare/julius_caesar/julius_caesar.2.4.html	data/clean/0517.txt	blockquote	
+518	Julius Caesar | julius_caesar.3.1.html	https://shakespeare.mit.edu/julius_caesar/julius_caesar.3.1.html	data/raw/shakespeare/julius_caesar/julius_caesar.3.1.html	data/clean/0518.txt	blockquote	
+519	Julius Caesar | julius_caesar.3.2.html	https://shakespeare.mit.edu/julius_caesar/julius_caesar.3.2.html	data/raw/shakespeare/julius_caesar/julius_caesar.3.2.html	data/clean/0519.txt	blockquote	
+520	Julius Caesar | julius_caesar.3.3.html	https://shakespeare.mit.edu/julius_caesar/julius_caesar.3.3.html	data/raw/shakespeare/julius_caesar/julius_caesar.3.3.html	data/clean/0520.txt	blockquote	
+521	Julius Caesar | julius_caesar.4.1.html	https://shakespeare.mit.edu/julius_caesar/julius_caesar.4.1.html	data/raw/shakespeare/julius_caesar/julius_caesar.4.1.html	data/clean/0521.txt	blockquote	
+522	Julius Caesar | julius_caesar.4.2.html	https://shakespeare.mit.edu/julius_caesar/julius_caesar.4.2.html	data/raw/shakespeare/julius_caesar/julius_caesar.4.2.html	data/clean/0522.txt	blockquote	
+523	Julius Caesar | julius_caesar.4.3.html	https://shakespeare.mit.edu/julius_caesar/julius_caesar.4.3.html	data/raw/shakespeare/julius_caesar/julius_caesar.4.3.html	data/clean/0523.txt	blockquote	
+524	Julius Caesar | julius_caesar.5.1.html	https://shakespeare.mit.edu/julius_caesar/julius_caesar.5.1.html	data/raw/shakespeare/julius_caesar/julius_caesar.5.1.html	data/clean/0524.txt	blockquote	
+525	Julius Caesar | julius_caesar.5.2.html	https://shakespeare.mit.edu/julius_caesar/julius_caesar.5.2.html	data/raw/shakespeare/julius_caesar/julius_caesar.5.2.html	data/clean/0525.txt	blockquote	
+526	Julius Caesar | julius_caesar.5.3.html	https://shakespeare.mit.edu/julius_caesar/julius_caesar.5.3.html	data/raw/shakespeare/julius_caesar/julius_caesar.5.3.html	data/clean/0526.txt	blockquote	
+527	Julius Caesar | julius_caesar.5.4.html	https://shakespeare.mit.edu/julius_caesar/julius_caesar.5.4.html	data/raw/shakespeare/julius_caesar/julius_caesar.5.4.html	data/clean/0527.txt	blockquote	
+528	Julius Caesar | julius_caesar.5.5.html	https://shakespeare.mit.edu/julius_caesar/julius_caesar.5.5.html	data/raw/shakespeare/julius_caesar/julius_caesar.5.5.html	data/clean/0528.txt	blockquote	
+529	King Lear | lear.1.1.html	https://shakespeare.mit.edu/lear/lear.1.1.html	data/raw/shakespeare/lear/lear.1.1.html	data/clean/0529.txt	blockquote	
+530	King Lear | lear.1.2.html	https://shakespeare.mit.edu/lear/lear.1.2.html	data/raw/shakespeare/lear/lear.1.2.html	data/clean/0530.txt	blockquote	
+531	King Lear | lear.1.3.html	https://shakespeare.mit.edu/lear/lear.1.3.html	data/raw/shakespeare/lear/lear.1.3.html	data/clean/0531.txt	blockquote	
+532	King Lear | lear.1.4.html	https://shakespeare.mit.edu/lear/lear.1.4.html	data/raw/shakespeare/lear/lear.1.4.html	data/clean/0532.txt	blockquote	
+533	King Lear | lear.1.5.html	https://shakespeare.mit.edu/lear/lear.1.5.html	data/raw/shakespeare/lear/lear.1.5.html	data/clean/0533.txt	blockquote	
+534	King Lear | lear.2.1.html	https://shakespeare.mit.edu/lear/lear.2.1.html	data/raw/shakespeare/lear/lear.2.1.html	data/clean/0534.txt	blockquote	
+535	King Lear | lear.2.2.html	https://shakespeare.mit.edu/lear/lear.2.2.html	data/raw/shakespeare/lear/lear.2.2.html	data/clean/0535.txt	blockquote	
+536	King Lear | lear.2.3.html	https://shakespeare.mit.edu/lear/lear.2.3.html	data/raw/shakespeare/lear/lear.2.3.html	data/clean/0536.txt	blockquote	
+537	King Lear | lear.2.4.html	https://shakespeare.mit.edu/lear/lear.2.4.html	data/raw/shakespeare/lear/lear.2.4.html	data/clean/0537.txt	blockquote	
+538	King Lear | lear.3.1.html	https://shakespeare.mit.edu/lear/lear.3.1.html	data/raw/shakespeare/lear/lear.3.1.html	data/clean/0538.txt	blockquote	
+539	King Lear | lear.3.2.html	https://shakespeare.mit.edu/lear/lear.3.2.html	data/raw/shakespeare/lear/lear.3.2.html	data/clean/0539.txt	blockquote	
+540	King Lear | lear.3.3.html	https://shakespeare.mit.edu/lear/lear.3.3.html	data/raw/shakespeare/lear/lear.3.3.html	data/clean/0540.txt	blockquote	
+541	King Lear | lear.3.4.html	https://shakespeare.mit.edu/lear/lear.3.4.html	data/raw/shakespeare/lear/lear.3.4.html	data/clean/0541.txt	blockquote	
+542	King Lear | lear.3.5.html	https://shakespeare.mit.edu/lear/lear.3.5.html	data/raw/shakespeare/lear/lear.3.5.html	data/clean/0542.txt	blockquote	
+543	King Lear | lear.3.6.html	https://shakespeare.mit.edu/lear/lear.3.6.html	data/raw/shakespeare/lear/lear.3.6.html	data/clean/0543.txt	blockquote	
+544	King Lear | lear.3.7.html	https://shakespeare.mit.edu/lear/lear.3.7.html	data/raw/shakespeare/lear/lear.3.7.html	data/clean/0544.txt	blockquote	
+545	King Lear | lear.4.1.html	https://shakespeare.mit.edu/lear/lear.4.1.html	data/raw/shakespeare/lear/lear.4.1.html	data/clean/0545.txt	blockquote	
+546	King Lear | lear.4.2.html	https://shakespeare.mit.edu/lear/lear.4.2.html	data/raw/shakespeare/lear/lear.4.2.html	data/clean/0546.txt	blockquote	
+547	King Lear | lear.4.3.html	https://shakespeare.mit.edu/lear/lear.4.3.html	data/raw/shakespeare/lear/lear.4.3.html	data/clean/0547.txt	blockquote	
+548	King Lear | lear.4.4.html	https://shakespeare.mit.edu/lear/lear.4.4.html	data/raw/shakespeare/lear/lear.4.4.html	data/clean/0548.txt	blockquote	
+549	King Lear | lear.4.5.html	https://shakespeare.mit.edu/lear/lear.4.5.html	data/raw/shakespeare/lear/lear.4.5.html	data/clean/0549.txt	blockquote	
+550	King Lear | lear.4.6.html	https://shakespeare.mit.edu/lear/lear.4.6.html	data/raw/shakespeare/lear/lear.4.6.html	data/clean/0550.txt	blockquote	
+551	King Lear | lear.4.7.html	https://shakespeare.mit.edu/lear/lear.4.7.html	data/raw/shakespeare/lear/lear.4.7.html	data/clean/0551.txt	blockquote	
+552	King Lear | lear.5.1.html	https://shakespeare.mit.edu/lear/lear.5.1.html	data/raw/shakespeare/lear/lear.5.1.html	data/clean/0552.txt	blockquote	
+553	King Lear | lear.5.2.html	https://shakespeare.mit.edu/lear/lear.5.2.html	data/raw/shakespeare/lear/lear.5.2.html	data/clean/0553.txt	blockquote	
+554	King Lear | lear.5.3.html	https://shakespeare.mit.edu/lear/lear.5.3.html	data/raw/shakespeare/lear/lear.5.3.html	data/clean/0554.txt	blockquote	
+555	Love's Labours Lost | lll.1.1.html	https://shakespeare.mit.edu/lll/lll.1.1.html	data/raw/shakespeare/lll/lll.1.1.html	data/clean/0555.txt	blockquote	
+556	Love's Labours Lost | lll.1.2.html	https://shakespeare.mit.edu/lll/lll.1.2.html	data/raw/shakespeare/lll/lll.1.2.html	data/clean/0556.txt	blockquote	
+557	Love's Labours Lost | lll.2.1.html	https://shakespeare.mit.edu/lll/lll.2.1.html	data/raw/shakespeare/lll/lll.2.1.html	data/clean/0557.txt	blockquote	
+558	Love's Labours Lost | lll.3.1.html	https://shakespeare.mit.edu/lll/lll.3.1.html	data/raw/shakespeare/lll/lll.3.1.html	data/clean/0558.txt	blockquote	
+559	Love's Labours Lost | lll.4.1.html	https://shakespeare.mit.edu/lll/lll.4.1.html	data/raw/shakespeare/lll/lll.4.1.html	data/clean/0559.txt	blockquote	
+560	Love's Labours Lost | lll.4.2.html	https://shakespeare.mit.edu/lll/lll.4.2.html	data/raw/shakespeare/lll/lll.4.2.html	data/clean/0560.txt	blockquote	
+561	Love's Labours Lost | lll.4.3.html	https://shakespeare.mit.edu/lll/lll.4.3.html	data/raw/shakespeare/lll/lll.4.3.html	data/clean/0561.txt	blockquote	
+562	Love's Labours Lost | lll.5.1.html	https://shakespeare.mit.edu/lll/lll.5.1.html	data/raw/shakespeare/lll/lll.5.1.html	data/clean/0562.txt	blockquote	
+563	Love's Labours Lost | lll.5.2.html	https://shakespeare.mit.edu/lll/lll.5.2.html	data/raw/shakespeare/lll/lll.5.2.html	data/clean/0563.txt	blockquote	
+564	Macbeth | macbeth.1.1.html	https://shakespeare.mit.edu/macbeth/macbeth.1.1.html	data/raw/shakespeare/macbeth/macbeth.1.1.html	data/clean/0564.txt	blockquote	
+565	Macbeth | macbeth.1.2.html	https://shakespeare.mit.edu/macbeth/macbeth.1.2.html	data/raw/shakespeare/macbeth/macbeth.1.2.html	data/clean/0565.txt	blockquote	
+566	Macbeth | macbeth.1.3.html	https://shakespeare.mit.edu/macbeth/macbeth.1.3.html	data/raw/shakespeare/macbeth/macbeth.1.3.html	data/clean/0566.txt	blockquote	
+567	Macbeth | macbeth.1.4.html	https://shakespeare.mit.edu/macbeth/macbeth.1.4.html	data/raw/shakespeare/macbeth/macbeth.1.4.html	data/clean/0567.txt	blockquote	
+568	Macbeth | macbeth.1.5.html	https://shakespeare.mit.edu/macbeth/macbeth.1.5.html	data/raw/shakespeare/macbeth/macbeth.1.5.html	data/clean/0568.txt	blockquote	
+569	Macbeth | macbeth.1.6.html	https://shakespeare.mit.edu/macbeth/macbeth.1.6.html	data/raw/shakespeare/macbeth/macbeth.1.6.html	data/clean/0569.txt	blockquote	
+570	Macbeth | macbeth.1.7.html	https://shakespeare.mit.edu/macbeth/macbeth.1.7.html	data/raw/shakespeare/macbeth/macbeth.1.7.html	data/clean/0570.txt	blockquote	
+571	Macbeth | macbeth.2.1.html	https://shakespeare.mit.edu/macbeth/macbeth.2.1.html	data/raw/shakespeare/macbeth/macbeth.2.1.html	data/clean/0571.txt	blockquote	
+572	Macbeth | macbeth.2.2.html	https://shakespeare.mit.edu/macbeth/macbeth.2.2.html	data/raw/shakespeare/macbeth/macbeth.2.2.html	data/clean/0572.txt	blockquote	
+573	Macbeth | macbeth.2.3.html	https://shakespeare.mit.edu/macbeth/macbeth.2.3.html	data/raw/shakespeare/macbeth/macbeth.2.3.html	data/clean/0573.txt	blockquote	
+574	Macbeth | macbeth.2.4.html	https://shakespeare.mit.edu/macbeth/macbeth.2.4.html	data/raw/shakespeare/macbeth/macbeth.2.4.html	data/clean/0574.txt	blockquote	
+575	Macbeth | macbeth.3.1.html	https://shakespeare.mit.edu/macbeth/macbeth.3.1.html	data/raw/shakespeare/macbeth/macbeth.3.1.html	data/clean/0575.txt	blockquote	
+576	Macbeth | macbeth.3.2.html	https://shakespeare.mit.edu/macbeth/macbeth.3.2.html	data/raw/shakespeare/macbeth/macbeth.3.2.html	data/clean/0576.txt	blockquote	
+577	Macbeth | macbeth.3.3.html	https://shakespeare.mit.edu/macbeth/macbeth.3.3.html	data/raw/shakespeare/macbeth/macbeth.3.3.html	data/clean/0577.txt	blockquote	
+578	Macbeth | macbeth.3.4.html	https://shakespeare.mit.edu/macbeth/macbeth.3.4.html	data/raw/shakespeare/macbeth/macbeth.3.4.html	data/clean/0578.txt	blockquote	
+579	Macbeth | macbeth.3.5.html	https://shakespeare.mit.edu/macbeth/macbeth.3.5.html	data/raw/shakespeare/macbeth/macbeth.3.5.html	data/clean/0579.txt	blockquote	
+580	Macbeth | macbeth.3.6.html	https://shakespeare.mit.edu/macbeth/macbeth.3.6.html	data/raw/shakespeare/macbeth/macbeth.3.6.html	data/clean/0580.txt	blockquote	
+581	Macbeth | macbeth.4.1.html	https://shakespeare.mit.edu/macbeth/macbeth.4.1.html	data/raw/shakespeare/macbeth/macbeth.4.1.html	data/clean/0581.txt	blockquote	
+582	Macbeth | macbeth.4.2.html	https://shakespeare.mit.edu/macbeth/macbeth.4.2.html	data/raw/shakespeare/macbeth/macbeth.4.2.html	data/clean/0582.txt	blockquote	
+583	Macbeth | macbeth.4.3.html	https://shakespeare.mit.edu/macbeth/macbeth.4.3.html	data/raw/shakespeare/macbeth/macbeth.4.3.html	data/clean/0583.txt	blockquote	
+584	Macbeth | macbeth.5.1.html	https://shakespeare.mit.edu/macbeth/macbeth.5.1.html	data/raw/shakespeare/macbeth/macbeth.5.1.html	data/clean/0584.txt	blockquote	
+585	Macbeth | macbeth.5.2.html	https://shakespeare.mit.edu/macbeth/macbeth.5.2.html	data/raw/shakespeare/macbeth/macbeth.5.2.html	data/clean/0585.txt	blockquote	
+586	Macbeth | macbeth.5.3.html	https://shakespeare.mit.edu/macbeth/macbeth.5.3.html	data/raw/shakespeare/macbeth/macbeth.5.3.html	data/clean/0586.txt	blockquote	
+587	Macbeth | macbeth.5.4.html	https://shakespeare.mit.edu/macbeth/macbeth.5.4.html	data/raw/shakespeare/macbeth/macbeth.5.4.html	data/clean/0587.txt	blockquote	
+588	Macbeth | macbeth.5.5.html	https://shakespeare.mit.edu/macbeth/macbeth.5.5.html	data/raw/shakespeare/macbeth/macbeth.5.5.html	data/clean/0588.txt	blockquote	
+589	Macbeth | macbeth.5.6.html	https://shakespeare.mit.edu/macbeth/macbeth.5.6.html	data/raw/shakespeare/macbeth/macbeth.5.6.html	data/clean/0589.txt	blockquote	
+590	Macbeth | macbeth.5.7.html	https://shakespeare.mit.edu/macbeth/macbeth.5.7.html	data/raw/shakespeare/macbeth/macbeth.5.7.html	data/clean/0590.txt	blockquote	
+591	Macbeth | macbeth.5.8.html	https://shakespeare.mit.edu/macbeth/macbeth.5.8.html	data/raw/shakespeare/macbeth/macbeth.5.8.html	data/clean/0591.txt	blockquote	
+592	Measure for Measure | measure.1.1.html	https://shakespeare.mit.edu/measure/measure.1.1.html	data/raw/shakespeare/measure/measure.1.1.html	data/clean/0592.txt	blockquote	
+593	Measure for Measure | measure.1.2.html	https://shakespeare.mit.edu/measure/measure.1.2.html	data/raw/shakespeare/measure/measure.1.2.html	data/clean/0593.txt	blockquote	
+594	Measure for Measure | measure.1.3.html	https://shakespeare.mit.edu/measure/measure.1.3.html	data/raw/shakespeare/measure/measure.1.3.html	data/clean/0594.txt	blockquote	
+595	Measure for Measure | measure.1.4.html	https://shakespeare.mit.edu/measure/measure.1.4.html	data/raw/shakespeare/measure/measure.1.4.html	data/clean/0595.txt	blockquote	
+596	Measure for Measure | measure.2.1.html	https://shakespeare.mit.edu/measure/measure.2.1.html	data/raw/shakespeare/measure/measure.2.1.html	data/clean/0596.txt	blockquote	
+597	Measure for Measure | measure.2.2.html	https://shakespeare.mit.edu/measure/measure.2.2.html	data/raw/shakespeare/measure/measure.2.2.html	data/clean/0597.txt	blockquote	
+598	Measure for Measure | measure.2.3.html	https://shakespeare.mit.edu/measure/measure.2.3.html	data/raw/shakespeare/measure/measure.2.3.html	data/clean/0598.txt	blockquote	
+599	Measure for Measure | measure.2.4.html	https://shakespeare.mit.edu/measure/measure.2.4.html	data/raw/shakespeare/measure/measure.2.4.html	data/clean/0599.txt	blockquote	
+600	Measure for Measure | measure.3.1.html	https://shakespeare.mit.edu/measure/measure.3.1.html	data/raw/shakespeare/measure/measure.3.1.html	data/clean/0600.txt	blockquote	
+601	Measure for Measure | measure.3.2.html	https://shakespeare.mit.edu/measure/measure.3.2.html	data/raw/shakespeare/measure/measure.3.2.html	data/clean/0601.txt	blockquote	
+602	Measure for Measure | measure.4.1.html	https://shakespeare.mit.edu/measure/measure.4.1.html	data/raw/shakespeare/measure/measure.4.1.html	data/clean/0602.txt	blockquote	
+603	Measure for Measure | measure.4.2.html	https://shakespeare.mit.edu/measure/measure.4.2.html	data/raw/shakespeare/measure/measure.4.2.html	data/clean/0603.txt	blockquote	
+604	Measure for Measure | measure.4.3.html	https://shakespeare.mit.edu/measure/measure.4.3.html	data/raw/shakespeare/measure/measure.4.3.html	data/clean/0604.txt	blockquote	
+605	Measure for Measure | measure.4.4.html	https://shakespeare.mit.edu/measure/measure.4.4.html	data/raw/shakespeare/measure/measure.4.4.html	data/clean/0605.txt	blockquote	
+606	Measure for Measure | measure.4.5.html	https://shakespeare.mit.edu/measure/measure.4.5.html	data/raw/shakespeare/measure/measure.4.5.html	data/clean/0606.txt	blockquote	
+607	Measure for Measure | measure.4.6.html	https://shakespeare.mit.edu/measure/measure.4.6.html	data/raw/shakespeare/measure/measure.4.6.html	data/clean/0607.txt	blockquote	
+608	Measure for Measure | measure.5.1.html	https://shakespeare.mit.edu/measure/measure.5.1.html	data/raw/shakespeare/measure/measure.5.1.html	data/clean/0608.txt	blockquote	
+609	The Merchant of Venice | merchant.1.1.html	https://shakespeare.mit.edu/merchant/merchant.1.1.html	data/raw/shakespeare/merchant/merchant.1.1.html	data/clean/0609.txt	blockquote	
+610	The Merchant of Venice | merchant.1.2.html	https://shakespeare.mit.edu/merchant/merchant.1.2.html	data/raw/shakespeare/merchant/merchant.1.2.html	data/clean/0610.txt	blockquote	
+611	The Merchant of Venice | merchant.1.3.html	https://shakespeare.mit.edu/merchant/merchant.1.3.html	data/raw/shakespeare/merchant/merchant.1.3.html	data/clean/0611.txt	blockquote	
+612	The Merchant of Venice | merchant.2.1.html	https://shakespeare.mit.edu/merchant/merchant.2.1.html	data/raw/shakespeare/merchant/merchant.2.1.html	data/clean/0612.txt	blockquote	
+613	The Merchant of Venice | merchant.2.2.html	https://shakespeare.mit.edu/merchant/merchant.2.2.html	data/raw/shakespeare/merchant/merchant.2.2.html	data/clean/0613.txt	blockquote	
+614	The Merchant of Venice | merchant.2.3.html	https://shakespeare.mit.edu/merchant/merchant.2.3.html	data/raw/shakespeare/merchant/merchant.2.3.html	data/clean/0614.txt	blockquote	
+615	The Merchant of Venice | merchant.2.4.html	https://shakespeare.mit.edu/merchant/merchant.2.4.html	data/raw/shakespeare/merchant/merchant.2.4.html	data/clean/0615.txt	blockquote	
+616	The Merchant of Venice | merchant.2.5.html	https://shakespeare.mit.edu/merchant/merchant.2.5.html	data/raw/shakespeare/merchant/merchant.2.5.html	data/clean/0616.txt	blockquote	
+617	The Merchant of Venice | merchant.2.6.html	https://shakespeare.mit.edu/merchant/merchant.2.6.html	data/raw/shakespeare/merchant/merchant.2.6.html	data/clean/0617.txt	blockquote	
+618	The Merchant of Venice | merchant.2.7.html	https://shakespeare.mit.edu/merchant/merchant.2.7.html	data/raw/shakespeare/merchant/merchant.2.7.html	data/clean/0618.txt	blockquote	
+619	The Merchant of Venice | merchant.2.8.html	https://shakespeare.mit.edu/merchant/merchant.2.8.html	data/raw/shakespeare/merchant/merchant.2.8.html	data/clean/0619.txt	blockquote	
+620	The Merchant of Venice | merchant.2.9.html	https://shakespeare.mit.edu/merchant/merchant.2.9.html	data/raw/shakespeare/merchant/merchant.2.9.html	data/clean/0620.txt	blockquote	
+621	The Merchant of Venice | merchant.3.1.html	https://shakespeare.mit.edu/merchant/merchant.3.1.html	data/raw/shakespeare/merchant/merchant.3.1.html	data/clean/0621.txt	blockquote	
+622	The Merchant of Venice | merchant.3.2.html	https://shakespeare.mit.edu/merchant/merchant.3.2.html	data/raw/shakespeare/merchant/merchant.3.2.html	data/clean/0622.txt	blockquote	
+623	The Merchant of Venice | merchant.3.3.html	https://shakespeare.mit.edu/merchant/merchant.3.3.html	data/raw/shakespeare/merchant/merchant.3.3.html	data/clean/0623.txt	blockquote	
+624	The Merchant of Venice | merchant.3.4.html	https://shakespeare.mit.edu/merchant/merchant.3.4.html	data/raw/shakespeare/merchant/merchant.3.4.html	data/clean/0624.txt	blockquote	
+625	The Merchant of Venice | merchant.3.5.html	https://shakespeare.mit.edu/merchant/merchant.3.5.html	data/raw/shakespeare/merchant/merchant.3.5.html	data/clean/0625.txt	blockquote	
+626	The Merchant of Venice | merchant.4.1.html	https://shakespeare.mit.edu/merchant/merchant.4.1.html	data/raw/shakespeare/merchant/merchant.4.1.html	data/clean/0626.txt	blockquote	
+627	The Merchant of Venice | merchant.4.2.html	https://shakespeare.mit.edu/merchant/merchant.4.2.html	data/raw/shakespeare/merchant/merchant.4.2.html	data/clean/0627.txt	blockquote	
+628	The Merchant of Venice | merchant.5.1.html	https://shakespeare.mit.edu/merchant/merchant.5.1.html	data/raw/shakespeare/merchant/merchant.5.1.html	data/clean/0628.txt	blockquote	
+629	The Merry Wives of Windsor | merry_wives.1.1.html	https://shakespeare.mit.edu/merry_wives/merry_wives.1.1.html	data/raw/shakespeare/merry_wives/merry_wives.1.1.html	data/clean/0629.txt	blockquote	
+630	The Merry Wives of Windsor | merry_wives.1.2.html	https://shakespeare.mit.edu/merry_wives/merry_wives.1.2.html	data/raw/shakespeare/merry_wives/merry_wives.1.2.html	data/clean/0630.txt	blockquote	
+631	The Merry Wives of Windsor | merry_wives.1.3.html	https://shakespeare.mit.edu/merry_wives/merry_wives.1.3.html	data/raw/shakespeare/merry_wives/merry_wives.1.3.html	data/clean/0631.txt	blockquote	
+632	The Merry Wives of Windsor | merry_wives.1.4.html	https://shakespeare.mit.edu/merry_wives/merry_wives.1.4.html	data/raw/shakespeare/merry_wives/merry_wives.1.4.html	data/clean/0632.txt	blockquote	
+633	The Merry Wives of Windsor | merry_wives.2.1.html	https://shakespeare.mit.edu/merry_wives/merry_wives.2.1.html	data/raw/shakespeare/merry_wives/merry_wives.2.1.html	data/clean/0633.txt	blockquote	
+634	The Merry Wives of Windsor | merry_wives.2.2.html	https://shakespeare.mit.edu/merry_wives/merry_wives.2.2.html	data/raw/shakespeare/merry_wives/merry_wives.2.2.html	data/clean/0634.txt	blockquote	
+635	The Merry Wives of Windsor | merry_wives.2.3.html	https://shakespeare.mit.edu/merry_wives/merry_wives.2.3.html	data/raw/shakespeare/merry_wives/merry_wives.2.3.html	data/clean/0635.txt	blockquote	
+636	The Merry Wives of Windsor | merry_wives.3.1.html	https://shakespeare.mit.edu/merry_wives/merry_wives.3.1.html	data/raw/shakespeare/merry_wives/merry_wives.3.1.html	data/clean/0636.txt	blockquote	
+637	The Merry Wives of Windsor | merry_wives.3.2.html	https://shakespeare.mit.edu/merry_wives/merry_wives.3.2.html	data/raw/shakespeare/merry_wives/merry_wives.3.2.html	data/clean/0637.txt	blockquote	
+638	The Merry Wives of Windsor | merry_wives.3.3.html	https://shakespeare.mit.edu/merry_wives/merry_wives.3.3.html	data/raw/shakespeare/merry_wives/merry_wives.3.3.html	data/clean/0638.txt	blockquote	
+639	The Merry Wives of Windsor | merry_wives.3.4.html	https://shakespeare.mit.edu/merry_wives/merry_wives.3.4.html	data/raw/shakespeare/merry_wives/merry_wives.3.4.html	data/clean/0639.txt	blockquote	
+640	The Merry Wives of Windsor | merry_wives.3.5.html	https://shakespeare.mit.edu/merry_wives/merry_wives.3.5.html	data/raw/shakespeare/merry_wives/merry_wives.3.5.html	data/clean/0640.txt	blockquote	
+641	The Merry Wives of Windsor | merry_wives.4.1.html	https://shakespeare.mit.edu/merry_wives/merry_wives.4.1.html	data/raw/shakespeare/merry_wives/merry_wives.4.1.html	data/clean/0641.txt	blockquote	
+642	The Merry Wives of Windsor | merry_wives.4.2.html	https://shakespeare.mit.edu/merry_wives/merry_wives.4.2.html	data/raw/shakespeare/merry_wives/merry_wives.4.2.html	data/clean/0642.txt	blockquote	
+643	The Merry Wives of Windsor | merry_wives.4.3.html	https://shakespeare.mit.edu/merry_wives/merry_wives.4.3.html	data/raw/shakespeare/merry_wives/merry_wives.4.3.html	data/clean/0643.txt	blockquote	
+644	The Merry Wives of Windsor | merry_wives.4.4.html	https://shakespeare.mit.edu/merry_wives/merry_wives.4.4.html	data/raw/shakespeare/merry_wives/merry_wives.4.4.html	data/clean/0644.txt	blockquote	
+645	The Merry Wives of Windsor | merry_wives.4.5.html	https://shakespeare.mit.edu/merry_wives/merry_wives.4.5.html	data/raw/shakespeare/merry_wives/merry_wives.4.5.html	data/clean/0645.txt	blockquote	
+646	The Merry Wives of Windsor | merry_wives.4.6.html	https://shakespeare.mit.edu/merry_wives/merry_wives.4.6.html	data/raw/shakespeare/merry_wives/merry_wives.4.6.html	data/clean/0646.txt	blockquote	
+647	The Merry Wives of Windsor | merry_wives.5.1.html	https://shakespeare.mit.edu/merry_wives/merry_wives.5.1.html	data/raw/shakespeare/merry_wives/merry_wives.5.1.html	data/clean/0647.txt	blockquote	
+648	The Merry Wives of Windsor | merry_wives.5.2.html	https://shakespeare.mit.edu/merry_wives/merry_wives.5.2.html	data/raw/shakespeare/merry_wives/merry_wives.5.2.html	data/clean/0648.txt	blockquote	
+649	The Merry Wives of Windsor | merry_wives.5.3.html	https://shakespeare.mit.edu/merry_wives/merry_wives.5.3.html	data/raw/shakespeare/merry_wives/merry_wives.5.3.html	data/clean/0649.txt	blockquote	
+650	The Merry Wives of Windsor | merry_wives.5.4.html	https://shakespeare.mit.edu/merry_wives/merry_wives.5.4.html	data/raw/shakespeare/merry_wives/merry_wives.5.4.html	data/clean/0650.txt	blockquote	
+651	The Merry Wives of Windsor | merry_wives.5.5.html	https://shakespeare.mit.edu/merry_wives/merry_wives.5.5.html	data/raw/shakespeare/merry_wives/merry_wives.5.5.html	data/clean/0651.txt	blockquote	
+652	A Midsummer Night's Dream | midsummer.1.1.html	https://shakespeare.mit.edu/midsummer/midsummer.1.1.html	data/raw/shakespeare/midsummer/midsummer.1.1.html	data/clean/0652.txt	blockquote	
+653	A Midsummer Night's Dream | midsummer.1.2.html	https://shakespeare.mit.edu/midsummer/midsummer.1.2.html	data/raw/shakespeare/midsummer/midsummer.1.2.html	data/clean/0653.txt	blockquote	
+654	A Midsummer Night's Dream | midsummer.2.1.html	https://shakespeare.mit.edu/midsummer/midsummer.2.1.html	data/raw/shakespeare/midsummer/midsummer.2.1.html	data/clean/0654.txt	blockquote	
+655	A Midsummer Night's Dream | midsummer.2.2.html	https://shakespeare.mit.edu/midsummer/midsummer.2.2.html	data/raw/shakespeare/midsummer/midsummer.2.2.html	data/clean/0655.txt	blockquote	
+656	A Midsummer Night's Dream | midsummer.3.1.html	https://shakespeare.mit.edu/midsummer/midsummer.3.1.html	data/raw/shakespeare/midsummer/midsummer.3.1.html	data/clean/0656.txt	blockquote	
+657	A Midsummer Night's Dream | midsummer.3.2.html	https://shakespeare.mit.edu/midsummer/midsummer.3.2.html	data/raw/shakespeare/midsummer/midsummer.3.2.html	data/clean/0657.txt	blockquote	
+658	A Midsummer Night's Dream | midsummer.4.1.html	https://shakespeare.mit.edu/midsummer/midsummer.4.1.html	data/raw/shakespeare/midsummer/midsummer.4.1.html	data/clean/0658.txt	blockquote	
+659	A Midsummer Night's Dream | midsummer.4.2.html	https://shakespeare.mit.edu/midsummer/midsummer.4.2.html	data/raw/shakespeare/midsummer/midsummer.4.2.html	data/clean/0659.txt	blockquote	
+660	A Midsummer Night's Dream | midsummer.5.1.html	https://shakespeare.mit.edu/midsummer/midsummer.5.1.html	data/raw/shakespeare/midsummer/midsummer.5.1.html	data/clean/0660.txt	blockquote	
+661	Much Ado About Nothing | much_ado.1.1.html	https://shakespeare.mit.edu/much_ado/much_ado.1.1.html	data/raw/shakespeare/much_ado/much_ado.1.1.html	data/clean/0661.txt	blockquote	
+662	Much Ado About Nothing | much_ado.1.2.html	https://shakespeare.mit.edu/much_ado/much_ado.1.2.html	data/raw/shakespeare/much_ado/much_ado.1.2.html	data/clean/0662.txt	blockquote	
+663	Much Ado About Nothing | much_ado.1.3.html	https://shakespeare.mit.edu/much_ado/much_ado.1.3.html	data/raw/shakespeare/much_ado/much_ado.1.3.html	data/clean/0663.txt	blockquote	
+664	Much Ado About Nothing | much_ado.2.1.html	https://shakespeare.mit.edu/much_ado/much_ado.2.1.html	data/raw/shakespeare/much_ado/much_ado.2.1.html	data/clean/0664.txt	blockquote	
+665	Much Ado About Nothing | much_ado.2.2.html	https://shakespeare.mit.edu/much_ado/much_ado.2.2.html	data/raw/shakespeare/much_ado/much_ado.2.2.html	data/clean/0665.txt	blockquote	
+666	Much Ado About Nothing | much_ado.2.3.html	https://shakespeare.mit.edu/much_ado/much_ado.2.3.html	data/raw/shakespeare/much_ado/much_ado.2.3.html	data/clean/0666.txt	blockquote	
+667	Much Ado About Nothing | much_ado.3.1.html	https://shakespeare.mit.edu/much_ado/much_ado.3.1.html	data/raw/shakespeare/much_ado/much_ado.3.1.html	data/clean/0667.txt	blockquote	
+668	Much Ado About Nothing | much_ado.3.2.html	https://shakespeare.mit.edu/much_ado/much_ado.3.2.html	data/raw/shakespeare/much_ado/much_ado.3.2.html	data/clean/0668.txt	blockquote	
+669	Much Ado About Nothing | much_ado.3.3.html	https://shakespeare.mit.edu/much_ado/much_ado.3.3.html	data/raw/shakespeare/much_ado/much_ado.3.3.html	data/clean/0669.txt	blockquote	
+670	Much Ado About Nothing | much_ado.3.4.html	https://shakespeare.mit.edu/much_ado/much_ado.3.4.html	data/raw/shakespeare/much_ado/much_ado.3.4.html	data/clean/0670.txt	blockquote	
+671	Much Ado About Nothing | much_ado.3.5.html	https://shakespeare.mit.edu/much_ado/much_ado.3.5.html	data/raw/shakespeare/much_ado/much_ado.3.5.html	data/clean/0671.txt	blockquote	
+672	Much Ado About Nothing | much_ado.4.1.html	https://shakespeare.mit.edu/much_ado/much_ado.4.1.html	data/raw/shakespeare/much_ado/much_ado.4.1.html	data/clean/0672.txt	blockquote	
+673	Much Ado About Nothing | much_ado.4.2.html	https://shakespeare.mit.edu/much_ado/much_ado.4.2.html	data/raw/shakespeare/much_ado/much_ado.4.2.html	data/clean/0673.txt	blockquote	
+674	Much Ado About Nothing | much_ado.5.1.html	https://shakespeare.mit.edu/much_ado/much_ado.5.1.html	data/raw/shakespeare/much_ado/much_ado.5.1.html	data/clean/0674.txt	blockquote	
+675	Much Ado About Nothing | much_ado.5.2.html	https://shakespeare.mit.edu/much_ado/much_ado.5.2.html	data/raw/shakespeare/much_ado/much_ado.5.2.html	data/clean/0675.txt	blockquote	
+676	Much Ado About Nothing | much_ado.5.3.html	https://shakespeare.mit.edu/much_ado/much_ado.5.3.html	data/raw/shakespeare/much_ado/much_ado.5.3.html	data/clean/0676.txt	blockquote	
+677	Much Ado About Nothing | much_ado.5.4.html	https://shakespeare.mit.edu/much_ado/much_ado.5.4.html	data/raw/shakespeare/much_ado/much_ado.5.4.html	data/clean/0677.txt	blockquote	
+678	Othello | othello.1.1.html	https://shakespeare.mit.edu/othello/othello.1.1.html	data/raw/shakespeare/othello/othello.1.1.html	data/clean/0678.txt	blockquote	
+679	Othello | othello.1.2.html	https://shakespeare.mit.edu/othello/othello.1.2.html	data/raw/shakespeare/othello/othello.1.2.html	data/clean/0679.txt	blockquote	
+680	Othello | othello.1.3.html	https://shakespeare.mit.edu/othello/othello.1.3.html	data/raw/shakespeare/othello/othello.1.3.html	data/clean/0680.txt	blockquote	
+681	Othello | othello.2.1.html	https://shakespeare.mit.edu/othello/othello.2.1.html	data/raw/shakespeare/othello/othello.2.1.html	data/clean/0681.txt	blockquote	
+682	Othello | othello.2.2.html	https://shakespeare.mit.edu/othello/othello.2.2.html	data/raw/shakespeare/othello/othello.2.2.html	data/clean/0682.txt	blockquote	
+683	Othello | othello.2.3.html	https://shakespeare.mit.edu/othello/othello.2.3.html	data/raw/shakespeare/othello/othello.2.3.html	data/clean/0683.txt	blockquote	
+684	Othello | othello.3.1.html	https://shakespeare.mit.edu/othello/othello.3.1.html	data/raw/shakespeare/othello/othello.3.1.html	data/clean/0684.txt	blockquote	
+685	Othello | othello.3.2.html	https://shakespeare.mit.edu/othello/othello.3.2.html	data/raw/shakespeare/othello/othello.3.2.html	data/clean/0685.txt	blockquote	
+686	Othello | othello.3.3.html	https://shakespeare.mit.edu/othello/othello.3.3.html	data/raw/shakespeare/othello/othello.3.3.html	data/clean/0686.txt	blockquote	
+687	Othello | othello.3.4.html	https://shakespeare.mit.edu/othello/othello.3.4.html	data/raw/shakespeare/othello/othello.3.4.html	data/clean/0687.txt	blockquote	
+688	Othello | othello.4.1.html	https://shakespeare.mit.edu/othello/othello.4.1.html	data/raw/shakespeare/othello/othello.4.1.html	data/clean/0688.txt	blockquote	
+689	Othello | othello.4.2.html	https://shakespeare.mit.edu/othello/othello.4.2.html	data/raw/shakespeare/othello/othello.4.2.html	data/clean/0689.txt	blockquote	
+690	Othello | othello.4.3.html	https://shakespeare.mit.edu/othello/othello.4.3.html	data/raw/shakespeare/othello/othello.4.3.html	data/clean/0690.txt	blockquote	
+691	Othello | othello.5.1.html	https://shakespeare.mit.edu/othello/othello.5.1.html	data/raw/shakespeare/othello/othello.5.1.html	data/clean/0691.txt	blockquote	
+692	Othello | othello.5.2.html	https://shakespeare.mit.edu/othello/othello.5.2.html	data/raw/shakespeare/othello/othello.5.2.html	data/clean/0692.txt	blockquote	
+693	Pericles, Prince of Tyre | pericles.1.0.html	https://shakespeare.mit.edu/pericles/pericles.1.0.html	data/raw/shakespeare/pericles/pericles.1.0.html	data/clean/0693.txt	blockquote	
+694	Pericles, Prince of Tyre | pericles.1.1.html	https://shakespeare.mit.edu/pericles/pericles.1.1.html	data/raw/shakespeare/pericles/pericles.1.1.html	data/clean/0694.txt	blockquote	
+695	Pericles, Prince of Tyre | pericles.1.2.html	https://shakespeare.mit.edu/pericles/pericles.1.2.html	data/raw/shakespeare/pericles/pericles.1.2.html	data/clean/0695.txt	blockquote	
+696	Pericles, Prince of Tyre | pericles.1.3.html	https://shakespeare.mit.edu/pericles/pericles.1.3.html	data/raw/shakespeare/pericles/pericles.1.3.html	data/clean/0696.txt	blockquote	
+697	Pericles, Prince of Tyre | pericles.1.4.html	https://shakespeare.mit.edu/pericles/pericles.1.4.html	data/raw/shakespeare/pericles/pericles.1.4.html	data/clean/0697.txt	blockquote	
+698	Pericles, Prince of Tyre | pericles.2.1.html	https://shakespeare.mit.edu/pericles/pericles.2.1.html	data/raw/shakespeare/pericles/pericles.2.1.html	data/clean/0698.txt	blockquote	
+699	Pericles, Prince of Tyre | pericles.2.2.html	https://shakespeare.mit.edu/pericles/pericles.2.2.html	data/raw/shakespeare/pericles/pericles.2.2.html	data/clean/0699.txt	blockquote	
+700	Pericles, Prince of Tyre | pericles.2.3.html	https://shakespeare.mit.edu/pericles/pericles.2.3.html	data/raw/shakespeare/pericles/pericles.2.3.html	data/clean/0700.txt	blockquote	
+701	Pericles, Prince of Tyre | pericles.2.4.html	https://shakespeare.mit.edu/pericles/pericles.2.4.html	data/raw/shakespeare/pericles/pericles.2.4.html	data/clean/0701.txt	blockquote	
+702	Pericles, Prince of Tyre | pericles.2.5.html	https://shakespeare.mit.edu/pericles/pericles.2.5.html	data/raw/shakespeare/pericles/pericles.2.5.html	data/clean/0702.txt	blockquote	
+703	Pericles, Prince of Tyre | pericles.3.2.html	https://shakespeare.mit.edu/pericles/pericles.3.2.html	data/raw/shakespeare/pericles/pericles.3.2.html	data/clean/0703.txt	blockquote	
+704	Pericles, Prince of Tyre | pericles.3.3.html	https://shakespeare.mit.edu/pericles/pericles.3.3.html	data/raw/shakespeare/pericles/pericles.3.3.html	data/clean/0704.txt	blockquote	
+705	Pericles, Prince of Tyre | pericles.3.4.html	https://shakespeare.mit.edu/pericles/pericles.3.4.html	data/raw/shakespeare/pericles/pericles.3.4.html	data/clean/0705.txt	blockquote	
+706	Pericles, Prince of Tyre | pericles.4.1.html	https://shakespeare.mit.edu/pericles/pericles.4.1.html	data/raw/shakespeare/pericles/pericles.4.1.html	data/clean/0706.txt	blockquote	
+707	Pericles, Prince of Tyre | pericles.4.2.html	https://shakespeare.mit.edu/pericles/pericles.4.2.html	data/raw/shakespeare/pericles/pericles.4.2.html	data/clean/0707.txt	blockquote	
+708	Pericles, Prince of Tyre | pericles.4.3.html	https://shakespeare.mit.edu/pericles/pericles.4.3.html	data/raw/shakespeare/pericles/pericles.4.3.html	data/clean/0708.txt	blockquote	
+709	Pericles, Prince of Tyre | pericles.4.5.html	https://shakespeare.mit.edu/pericles/pericles.4.5.html	data/raw/shakespeare/pericles/pericles.4.5.html	data/clean/0709.txt	blockquote	
+710	Pericles, Prince of Tyre | pericles.4.6.html	https://shakespeare.mit.edu/pericles/pericles.4.6.html	data/raw/shakespeare/pericles/pericles.4.6.html	data/clean/0710.txt	blockquote	
+711	Pericles, Prince of Tyre | pericles.5.1.html	https://shakespeare.mit.edu/pericles/pericles.5.1.html	data/raw/shakespeare/pericles/pericles.5.1.html	data/clean/0711.txt	blockquote	
+712	Pericles, Prince of Tyre | pericles.5.3.html	https://shakespeare.mit.edu/pericles/pericles.5.3.html	data/raw/shakespeare/pericles/pericles.5.3.html	data/clean/0712.txt	blockquote	
+713	Richard II | richardii.1.1.html	https://shakespeare.mit.edu/richardii/richardii.1.1.html	data/raw/shakespeare/richardii/richardii.1.1.html	data/clean/0713.txt	blockquote	
+714	Richard II | richardii.1.2.html	https://shakespeare.mit.edu/richardii/richardii.1.2.html	data/raw/shakespeare/richardii/richardii.1.2.html	data/clean/0714.txt	blockquote	
+715	Richard II | richardii.1.3.html	https://shakespeare.mit.edu/richardii/richardii.1.3.html	data/raw/shakespeare/richardii/richardii.1.3.html	data/clean/0715.txt	blockquote	
+716	Richard II | richardii.1.4.html	https://shakespeare.mit.edu/richardii/richardii.1.4.html	data/raw/shakespeare/richardii/richardii.1.4.html	data/clean/0716.txt	blockquote	
+717	Richard II | richardii.2.1.html	https://shakespeare.mit.edu/richardii/richardii.2.1.html	data/raw/shakespeare/richardii/richardii.2.1.html	data/clean/0717.txt	blockquote	
+718	Richard II | richardii.2.2.html	https://shakespeare.mit.edu/richardii/richardii.2.2.html	data/raw/shakespeare/richardii/richardii.2.2.html	data/clean/0718.txt	blockquote	
+719	Richard II | richardii.2.3.html	https://shakespeare.mit.edu/richardii/richardii.2.3.html	data/raw/shakespeare/richardii/richardii.2.3.html	data/clean/0719.txt	blockquote	
+720	Richard II | richardii.2.4.html	https://shakespeare.mit.edu/richardii/richardii.2.4.html	data/raw/shakespeare/richardii/richardii.2.4.html	data/clean/0720.txt	blockquote	
+721	Richard II | richardii.3.1.html	https://shakespeare.mit.edu/richardii/richardii.3.1.html	data/raw/shakespeare/richardii/richardii.3.1.html	data/clean/0721.txt	blockquote	
+722	Richard II | richardii.3.2.html	https://shakespeare.mit.edu/richardii/richardii.3.2.html	data/raw/shakespeare/richardii/richardii.3.2.html	data/clean/0722.txt	blockquote	
+723	Richard II | richardii.3.3.html	https://shakespeare.mit.edu/richardii/richardii.3.3.html	data/raw/shakespeare/richardii/richardii.3.3.html	data/clean/0723.txt	blockquote	
+724	Richard II | richardii.3.4.html	https://shakespeare.mit.edu/richardii/richardii.3.4.html	data/raw/shakespeare/richardii/richardii.3.4.html	data/clean/0724.txt	blockquote	
+725	Richard II | richardii.4.1.html	https://shakespeare.mit.edu/richardii/richardii.4.1.html	data/raw/shakespeare/richardii/richardii.4.1.html	data/clean/0725.txt	blockquote	
+726	Richard II | richardii.5.1.html	https://shakespeare.mit.edu/richardii/richardii.5.1.html	data/raw/shakespeare/richardii/richardii.5.1.html	data/clean/0726.txt	blockquote	
+727	Richard II | richardii.5.2.html	https://shakespeare.mit.edu/richardii/richardii.5.2.html	data/raw/shakespeare/richardii/richardii.5.2.html	data/clean/0727.txt	blockquote	
+728	Richard II | richardii.5.3.html	https://shakespeare.mit.edu/richardii/richardii.5.3.html	data/raw/shakespeare/richardii/richardii.5.3.html	data/clean/0728.txt	blockquote	
+729	Richard II | richardii.5.4.html	https://shakespeare.mit.edu/richardii/richardii.5.4.html	data/raw/shakespeare/richardii/richardii.5.4.html	data/clean/0729.txt	blockquote	
+730	Richard II | richardii.5.5.html	https://shakespeare.mit.edu/richardii/richardii.5.5.html	data/raw/shakespeare/richardii/richardii.5.5.html	data/clean/0730.txt	blockquote	
+731	Richard II | richardii.5.6.html	https://shakespeare.mit.edu/richardii/richardii.5.6.html	data/raw/shakespeare/richardii/richardii.5.6.html	data/clean/0731.txt	blockquote	
+732	Richard III | richardiii.1.1.html	https://shakespeare.mit.edu/richardiii/richardiii.1.1.html	data/raw/shakespeare/richardiii/richardiii.1.1.html	data/clean/0732.txt	blockquote	
+733	Richard III | richardiii.1.2.html	https://shakespeare.mit.edu/richardiii/richardiii.1.2.html	data/raw/shakespeare/richardiii/richardiii.1.2.html	data/clean/0733.txt	blockquote	
+734	Richard III | richardiii.1.3.html	https://shakespeare.mit.edu/richardiii/richardiii.1.3.html	data/raw/shakespeare/richardiii/richardiii.1.3.html	data/clean/0734.txt	blockquote	
+735	Richard III | richardiii.1.4.html	https://shakespeare.mit.edu/richardiii/richardiii.1.4.html	data/raw/shakespeare/richardiii/richardiii.1.4.html	data/clean/0735.txt	blockquote	
+736	Richard III | richardiii.2.1.html	https://shakespeare.mit.edu/richardiii/richardiii.2.1.html	data/raw/shakespeare/richardiii/richardiii.2.1.html	data/clean/0736.txt	blockquote	
+737	Richard III | richardiii.2.2.html	https://shakespeare.mit.edu/richardiii/richardiii.2.2.html	data/raw/shakespeare/richardiii/richardiii.2.2.html	data/clean/0737.txt	blockquote	
+738	Richard III | richardiii.2.3.html	https://shakespeare.mit.edu/richardiii/richardiii.2.3.html	data/raw/shakespeare/richardiii/richardiii.2.3.html	data/clean/0738.txt	blockquote	
+739	Richard III | richardiii.2.4.html	https://shakespeare.mit.edu/richardiii/richardiii.2.4.html	data/raw/shakespeare/richardiii/richardiii.2.4.html	data/clean/0739.txt	blockquote	
+740	Richard III | richardiii.3.1.html	https://shakespeare.mit.edu/richardiii/richardiii.3.1.html	data/raw/shakespeare/richardiii/richardiii.3.1.html	data/clean/0740.txt	blockquote	
+741	Richard III | richardiii.3.2.html	https://shakespeare.mit.edu/richardiii/richardiii.3.2.html	data/raw/shakespeare/richardiii/richardiii.3.2.html	data/clean/0741.txt	blockquote	
+742	Richard III | richardiii.3.3.html	https://shakespeare.mit.edu/richardiii/richardiii.3.3.html	data/raw/shakespeare/richardiii/richardiii.3.3.html	data/clean/0742.txt	blockquote	
+743	Richard III | richardiii.3.4.html	https://shakespeare.mit.edu/richardiii/richardiii.3.4.html	data/raw/shakespeare/richardiii/richardiii.3.4.html	data/clean/0743.txt	blockquote	
+744	Richard III | richardiii.3.5.html	https://shakespeare.mit.edu/richardiii/richardiii.3.5.html	data/raw/shakespeare/richardiii/richardiii.3.5.html	data/clean/0744.txt	blockquote	
+745	Richard III | richardiii.3.6.html	https://shakespeare.mit.edu/richardiii/richardiii.3.6.html	data/raw/shakespeare/richardiii/richardiii.3.6.html	data/clean/0745.txt	blockquote	
+746	Richard III | richardiii.3.7.html	https://shakespeare.mit.edu/richardiii/richardiii.3.7.html	data/raw/shakespeare/richardiii/richardiii.3.7.html	data/clean/0746.txt	blockquote	
+747	Richard III | richardiii.4.1.html	https://shakespeare.mit.edu/richardiii/richardiii.4.1.html	data/raw/shakespeare/richardiii/richardiii.4.1.html	data/clean/0747.txt	blockquote	
+748	Richard III | richardiii.4.2.html	https://shakespeare.mit.edu/richardiii/richardiii.4.2.html	data/raw/shakespeare/richardiii/richardiii.4.2.html	data/clean/0748.txt	blockquote	
+749	Richard III | richardiii.4.3.html	https://shakespeare.mit.edu/richardiii/richardiii.4.3.html	data/raw/shakespeare/richardiii/richardiii.4.3.html	data/clean/0749.txt	blockquote	
+750	Richard III | richardiii.4.4.html	https://shakespeare.mit.edu/richardiii/richardiii.4.4.html	data/raw/shakespeare/richardiii/richardiii.4.4.html	data/clean/0750.txt	blockquote	
+751	Richard III | richardiii.4.5.html	https://shakespeare.mit.edu/richardiii/richardiii.4.5.html	data/raw/shakespeare/richardiii/richardiii.4.5.html	data/clean/0751.txt	blockquote	
+752	Richard III | richardiii.5.1.html	https://shakespeare.mit.edu/richardiii/richardiii.5.1.html	data/raw/shakespeare/richardiii/richardiii.5.1.html	data/clean/0752.txt	blockquote	
+753	Richard III | richardiii.5.2.html	https://shakespeare.mit.edu/richardiii/richardiii.5.2.html	data/raw/shakespeare/richardiii/richardiii.5.2.html	data/clean/0753.txt	blockquote	
+754	Richard III | richardiii.5.3.html	https://shakespeare.mit.edu/richardiii/richardiii.5.3.html	data/raw/shakespeare/richardiii/richardiii.5.3.html	data/clean/0754.txt	blockquote	
+755	Richard III | richardiii.5.4.html	https://shakespeare.mit.edu/richardiii/richardiii.5.4.html	data/raw/shakespeare/richardiii/richardiii.5.4.html	data/clean/0755.txt	blockquote	
+756	Richard III | richardiii.5.5.html	https://shakespeare.mit.edu/richardiii/richardiii.5.5.html	data/raw/shakespeare/richardiii/richardiii.5.5.html	data/clean/0756.txt	blockquote	
+757	Romeo and Juliet | romeo_juliet.1.0.html	https://shakespeare.mit.edu/romeo_juliet/romeo_juliet.1.0.html	data/raw/shakespeare/romeo_juliet/romeo_juliet.1.0.html	data/clean/0757.txt	blockquote	
+758	Romeo and Juliet | romeo_juliet.1.1.html	https://shakespeare.mit.edu/romeo_juliet/romeo_juliet.1.1.html	data/raw/shakespeare/romeo_juliet/romeo_juliet.1.1.html	data/clean/0758.txt	blockquote	
+759	Romeo and Juliet | romeo_juliet.1.2.html	https://shakespeare.mit.edu/romeo_juliet/romeo_juliet.1.2.html	data/raw/shakespeare/romeo_juliet/romeo_juliet.1.2.html	data/clean/0759.txt	blockquote	
+760	Romeo and Juliet | romeo_juliet.1.3.html	https://shakespeare.mit.edu/romeo_juliet/romeo_juliet.1.3.html	data/raw/shakespeare/romeo_juliet/romeo_juliet.1.3.html	data/clean/0760.txt	blockquote	
+761	Romeo and Juliet | romeo_juliet.1.4.html	https://shakespeare.mit.edu/romeo_juliet/romeo_juliet.1.4.html	data/raw/shakespeare/romeo_juliet/romeo_juliet.1.4.html	data/clean/0761.txt	blockquote	
+762	Romeo and Juliet | romeo_juliet.1.5.html	https://shakespeare.mit.edu/romeo_juliet/romeo_juliet.1.5.html	data/raw/shakespeare/romeo_juliet/romeo_juliet.1.5.html	data/clean/0762.txt	blockquote	
+763	Romeo and Juliet | romeo_juliet.2.0.html	https://shakespeare.mit.edu/romeo_juliet/romeo_juliet.2.0.html	data/raw/shakespeare/romeo_juliet/romeo_juliet.2.0.html	data/clean/0763.txt	blockquote	
+764	Romeo and Juliet | romeo_juliet.2.1.html	https://shakespeare.mit.edu/romeo_juliet/romeo_juliet.2.1.html	data/raw/shakespeare/romeo_juliet/romeo_juliet.2.1.html	data/clean/0764.txt	blockquote	
+765	Romeo and Juliet | romeo_juliet.2.2.html	https://shakespeare.mit.edu/romeo_juliet/romeo_juliet.2.2.html	data/raw/shakespeare/romeo_juliet/romeo_juliet.2.2.html	data/clean/0765.txt	blockquote	
+766	Romeo and Juliet | romeo_juliet.2.3.html	https://shakespeare.mit.edu/romeo_juliet/romeo_juliet.2.3.html	data/raw/shakespeare/romeo_juliet/romeo_juliet.2.3.html	data/clean/0766.txt	blockquote	
+767	Romeo and Juliet | romeo_juliet.2.4.html	https://shakespeare.mit.edu/romeo_juliet/romeo_juliet.2.4.html	data/raw/shakespeare/romeo_juliet/romeo_juliet.2.4.html	data/clean/0767.txt	blockquote	
+768	Romeo and Juliet | romeo_juliet.2.5.html	https://shakespeare.mit.edu/romeo_juliet/romeo_juliet.2.5.html	data/raw/shakespeare/romeo_juliet/romeo_juliet.2.5.html	data/clean/0768.txt	blockquote	
+769	Romeo and Juliet | romeo_juliet.2.6.html	https://shakespeare.mit.edu/romeo_juliet/romeo_juliet.2.6.html	data/raw/shakespeare/romeo_juliet/romeo_juliet.2.6.html	data/clean/0769.txt	blockquote	
+770	Romeo and Juliet | romeo_juliet.3.1.html	https://shakespeare.mit.edu/romeo_juliet/romeo_juliet.3.1.html	data/raw/shakespeare/romeo_juliet/romeo_juliet.3.1.html	data/clean/0770.txt	blockquote	
+771	Romeo and Juliet | romeo_juliet.3.2.html	https://shakespeare.mit.edu/romeo_juliet/romeo_juliet.3.2.html	data/raw/shakespeare/romeo_juliet/romeo_juliet.3.2.html	data/clean/0771.txt	blockquote	
+772	Romeo and Juliet | romeo_juliet.3.3.html	https://shakespeare.mit.edu/romeo_juliet/romeo_juliet.3.3.html	data/raw/shakespeare/romeo_juliet/romeo_juliet.3.3.html	data/clean/0772.txt	blockquote	
+773	Romeo and Juliet | romeo_juliet.3.4.html	https://shakespeare.mit.edu/romeo_juliet/romeo_juliet.3.4.html	data/raw/shakespeare/romeo_juliet/romeo_juliet.3.4.html	data/clean/0773.txt	blockquote	
+774	Romeo and Juliet | romeo_juliet.3.5.html	https://shakespeare.mit.edu/romeo_juliet/romeo_juliet.3.5.html	data/raw/shakespeare/romeo_juliet/romeo_juliet.3.5.html	data/clean/0774.txt	blockquote	
+775	Romeo and Juliet | romeo_juliet.4.1.html	https://shakespeare.mit.edu/romeo_juliet/romeo_juliet.4.1.html	data/raw/shakespeare/romeo_juliet/romeo_juliet.4.1.html	data/clean/0775.txt	blockquote	
+776	Romeo and Juliet | romeo_juliet.4.2.html	https://shakespeare.mit.edu/romeo_juliet/romeo_juliet.4.2.html	data/raw/shakespeare/romeo_juliet/romeo_juliet.4.2.html	data/clean/0776.txt	blockquote	
+777	Romeo and Juliet | romeo_juliet.4.3.html	https://shakespeare.mit.edu/romeo_juliet/romeo_juliet.4.3.html	data/raw/shakespeare/romeo_juliet/romeo_juliet.4.3.html	data/clean/0777.txt	blockquote	
+778	Romeo and Juliet | romeo_juliet.4.4.html	https://shakespeare.mit.edu/romeo_juliet/romeo_juliet.4.4.html	data/raw/shakespeare/romeo_juliet/romeo_juliet.4.4.html	data/clean/0778.txt	blockquote	
+779	Romeo and Juliet | romeo_juliet.4.5.html	https://shakespeare.mit.edu/romeo_juliet/romeo_juliet.4.5.html	data/raw/shakespeare/romeo_juliet/romeo_juliet.4.5.html	data/clean/0779.txt	blockquote	
+780	Romeo and Juliet | romeo_juliet.5.1.html	https://shakespeare.mit.edu/romeo_juliet/romeo_juliet.5.1.html	data/raw/shakespeare/romeo_juliet/romeo_juliet.5.1.html	data/clean/0780.txt	blockquote	
+781	Romeo and Juliet | romeo_juliet.5.2.html	https://shakespeare.mit.edu/romeo_juliet/romeo_juliet.5.2.html	data/raw/shakespeare/romeo_juliet/romeo_juliet.5.2.html	data/clean/0781.txt	blockquote	
+782	Romeo and Juliet | romeo_juliet.5.3.html	https://shakespeare.mit.edu/romeo_juliet/romeo_juliet.5.3.html	data/raw/shakespeare/romeo_juliet/romeo_juliet.5.3.html	data/clean/0782.txt	blockquote	
+783	Taming of the Shrew | taming_shrew.0.1.html	https://shakespeare.mit.edu/taming_shrew/taming_shrew.0.1.html	data/raw/shakespeare/taming_shrew/taming_shrew.0.1.html	data/clean/0783.txt	blockquote	
+784	Taming of the Shrew | taming_shrew.0.2.html	https://shakespeare.mit.edu/taming_shrew/taming_shrew.0.2.html	data/raw/shakespeare/taming_shrew/taming_shrew.0.2.html	data/clean/0784.txt	blockquote	
+785	Taming of the Shrew | taming_shrew.1.1.html	https://shakespeare.mit.edu/taming_shrew/taming_shrew.1.1.html	data/raw/shakespeare/taming_shrew/taming_shrew.1.1.html	data/clean/0785.txt	blockquote	
+786	Taming of the Shrew | taming_shrew.1.2.html	https://shakespeare.mit.edu/taming_shrew/taming_shrew.1.2.html	data/raw/shakespeare/taming_shrew/taming_shrew.1.2.html	data/clean/0786.txt	blockquote	
+787	Taming of the Shrew | taming_shrew.2.1.html	https://shakespeare.mit.edu/taming_shrew/taming_shrew.2.1.html	data/raw/shakespeare/taming_shrew/taming_shrew.2.1.html	data/clean/0787.txt	blockquote	
+788	Taming of the Shrew | taming_shrew.3.1.html	https://shakespeare.mit.edu/taming_shrew/taming_shrew.3.1.html	data/raw/shakespeare/taming_shrew/taming_shrew.3.1.html	data/clean/0788.txt	blockquote	
+789	Taming of the Shrew | taming_shrew.3.2.html	https://shakespeare.mit.edu/taming_shrew/taming_shrew.3.2.html	data/raw/shakespeare/taming_shrew/taming_shrew.3.2.html	data/clean/0789.txt	blockquote	
+790	Taming of the Shrew | taming_shrew.4.1.html	https://shakespeare.mit.edu/taming_shrew/taming_shrew.4.1.html	data/raw/shakespeare/taming_shrew/taming_shrew.4.1.html	data/clean/0790.txt	blockquote	
+791	Taming of the Shrew | taming_shrew.4.2.html	https://shakespeare.mit.edu/taming_shrew/taming_shrew.4.2.html	data/raw/shakespeare/taming_shrew/taming_shrew.4.2.html	data/clean/0791.txt	blockquote	
+792	Taming of the Shrew | taming_shrew.4.3.html	https://shakespeare.mit.edu/taming_shrew/taming_shrew.4.3.html	data/raw/shakespeare/taming_shrew/taming_shrew.4.3.html	data/clean/0792.txt	blockquote	
+793	Taming of the Shrew | taming_shrew.4.4.html	https://shakespeare.mit.edu/taming_shrew/taming_shrew.4.4.html	data/raw/shakespeare/taming_shrew/taming_shrew.4.4.html	data/clean/0793.txt	blockquote	
+794	Taming of the Shrew | taming_shrew.4.5.html	https://shakespeare.mit.edu/taming_shrew/taming_shrew.4.5.html	data/raw/shakespeare/taming_shrew/taming_shrew.4.5.html	data/clean/0794.txt	blockquote	
+795	Taming of the Shrew | taming_shrew.5.1.html	https://shakespeare.mit.edu/taming_shrew/taming_shrew.5.1.html	data/raw/shakespeare/taming_shrew/taming_shrew.5.1.html	data/clean/0795.txt	blockquote	
+796	Taming of the Shrew | taming_shrew.5.2.html	https://shakespeare.mit.edu/taming_shrew/taming_shrew.5.2.html	data/raw/shakespeare/taming_shrew/taming_shrew.5.2.html	data/clean/0796.txt	blockquote	
+797	The Tempest | tempest.1.1.html	https://shakespeare.mit.edu/tempest/tempest.1.1.html	data/raw/shakespeare/tempest/tempest.1.1.html	data/clean/0797.txt	blockquote	
+798	The Tempest | tempest.1.2.html	https://shakespeare.mit.edu/tempest/tempest.1.2.html	data/raw/shakespeare/tempest/tempest.1.2.html	data/clean/0798.txt	blockquote	
+799	The Tempest | tempest.2.1.html	https://shakespeare.mit.edu/tempest/tempest.2.1.html	data/raw/shakespeare/tempest/tempest.2.1.html	data/clean/0799.txt	blockquote	
+800	The Tempest | tempest.2.2.html	https://shakespeare.mit.edu/tempest/tempest.2.2.html	data/raw/shakespeare/tempest/tempest.2.2.html	data/clean/0800.txt	blockquote	
+801	The Tempest | tempest.3.1.html	https://shakespeare.mit.edu/tempest/tempest.3.1.html	data/raw/shakespeare/tempest/tempest.3.1.html	data/clean/0801.txt	blockquote	
+802	The Tempest | tempest.3.2.html	https://shakespeare.mit.edu/tempest/tempest.3.2.html	data/raw/shakespeare/tempest/tempest.3.2.html	data/clean/0802.txt	blockquote	
+803	The Tempest | tempest.3.3.html	https://shakespeare.mit.edu/tempest/tempest.3.3.html	data/raw/shakespeare/tempest/tempest.3.3.html	data/clean/0803.txt	blockquote	
+804	The Tempest | tempest.4.1.html	https://shakespeare.mit.edu/tempest/tempest.4.1.html	data/raw/shakespeare/tempest/tempest.4.1.html	data/clean/0804.txt	blockquote	
+805	The Tempest | tempest.5.1.html	https://shakespeare.mit.edu/tempest/tempest.5.1.html	data/raw/shakespeare/tempest/tempest.5.1.html	data/clean/0805.txt	blockquote	
+806	Timon of Athens | timon.1.1.html	https://shakespeare.mit.edu/timon/timon.1.1.html	data/raw/shakespeare/timon/timon.1.1.html	data/clean/0806.txt	blockquote	
+807	Timon of Athens | timon.1.2.html	https://shakespeare.mit.edu/timon/timon.1.2.html	data/raw/shakespeare/timon/timon.1.2.html	data/clean/0807.txt	blockquote	
+808	Timon of Athens | timon.2.1.html	https://shakespeare.mit.edu/timon/timon.2.1.html	data/raw/shakespeare/timon/timon.2.1.html	data/clean/0808.txt	blockquote	
+809	Timon of Athens | timon.2.2.html	https://shakespeare.mit.edu/timon/timon.2.2.html	data/raw/shakespeare/timon/timon.2.2.html	data/clean/0809.txt	blockquote	
+810	Timon of Athens | timon.3.1.html	https://shakespeare.mit.edu/timon/timon.3.1.html	data/raw/shakespeare/timon/timon.3.1.html	data/clean/0810.txt	blockquote	
+811	Timon of Athens | timon.3.2.html	https://shakespeare.mit.edu/timon/timon.3.2.html	data/raw/shakespeare/timon/timon.3.2.html	data/clean/0811.txt	blockquote	
+812	Timon of Athens | timon.3.3.html	https://shakespeare.mit.edu/timon/timon.3.3.html	data/raw/shakespeare/timon/timon.3.3.html	data/clean/0812.txt	blockquote	
+813	Timon of Athens | timon.3.4.html	https://shakespeare.mit.edu/timon/timon.3.4.html	data/raw/shakespeare/timon/timon.3.4.html	data/clean/0813.txt	blockquote	
+814	Timon of Athens | timon.3.5.html	https://shakespeare.mit.edu/timon/timon.3.5.html	data/raw/shakespeare/timon/timon.3.5.html	data/clean/0814.txt	blockquote	
+815	Timon of Athens | timon.3.6.html	https://shakespeare.mit.edu/timon/timon.3.6.html	data/raw/shakespeare/timon/timon.3.6.html	data/clean/0815.txt	blockquote	
+816	Timon of Athens | timon.4.1.html	https://shakespeare.mit.edu/timon/timon.4.1.html	data/raw/shakespeare/timon/timon.4.1.html	data/clean/0816.txt	blockquote	
+817	Timon of Athens | timon.4.2.html	https://shakespeare.mit.edu/timon/timon.4.2.html	data/raw/shakespeare/timon/timon.4.2.html	data/clean/0817.txt	blockquote	
+818	Timon of Athens | timon.4.3.html	https://shakespeare.mit.edu/timon/timon.4.3.html	data/raw/shakespeare/timon/timon.4.3.html	data/clean/0818.txt	blockquote	
+819	Timon of Athens | timon.5.1.html	https://shakespeare.mit.edu/timon/timon.5.1.html	data/raw/shakespeare/timon/timon.5.1.html	data/clean/0819.txt	blockquote	
+820	Timon of Athens | timon.5.2.html	https://shakespeare.mit.edu/timon/timon.5.2.html	data/raw/shakespeare/timon/timon.5.2.html	data/clean/0820.txt	blockquote	
+821	Timon of Athens | timon.5.3.html	https://shakespeare.mit.edu/timon/timon.5.3.html	data/raw/shakespeare/timon/timon.5.3.html	data/clean/0821.txt	blockquote	
+822	Timon of Athens | timon.5.4.html	https://shakespeare.mit.edu/timon/timon.5.4.html	data/raw/shakespeare/timon/timon.5.4.html	data/clean/0822.txt	blockquote	
+823	Titus Andronicus | titus.1.1.html	https://shakespeare.mit.edu/titus/titus.1.1.html	data/raw/shakespeare/titus/titus.1.1.html	data/clean/0823.txt	blockquote	
+824	Titus Andronicus | titus.2.1.html	https://shakespeare.mit.edu/titus/titus.2.1.html	data/raw/shakespeare/titus/titus.2.1.html	data/clean/0824.txt	blockquote	
+825	Titus Andronicus | titus.2.2.html	https://shakespeare.mit.edu/titus/titus.2.2.html	data/raw/shakespeare/titus/titus.2.2.html	data/clean/0825.txt	blockquote	
+826	Titus Andronicus | titus.2.3.html	https://shakespeare.mit.edu/titus/titus.2.3.html	data/raw/shakespeare/titus/titus.2.3.html	data/clean/0826.txt	blockquote	
+827	Titus Andronicus | titus.2.4.html	https://shakespeare.mit.edu/titus/titus.2.4.html	data/raw/shakespeare/titus/titus.2.4.html	data/clean/0827.txt	blockquote	
+828	Titus Andronicus | titus.3.1.html	https://shakespeare.mit.edu/titus/titus.3.1.html	data/raw/shakespeare/titus/titus.3.1.html	data/clean/0828.txt	blockquote	
+829	Titus Andronicus | titus.3.2.html	https://shakespeare.mit.edu/titus/titus.3.2.html	data/raw/shakespeare/titus/titus.3.2.html	data/clean/0829.txt	blockquote	
+830	Titus Andronicus | titus.4.1.html	https://shakespeare.mit.edu/titus/titus.4.1.html	data/raw/shakespeare/titus/titus.4.1.html	data/clean/0830.txt	blockquote	
+831	Titus Andronicus | titus.4.2.html	https://shakespeare.mit.edu/titus/titus.4.2.html	data/raw/shakespeare/titus/titus.4.2.html	data/clean/0831.txt	blockquote	
+832	Titus Andronicus | titus.4.3.html	https://shakespeare.mit.edu/titus/titus.4.3.html	data/raw/shakespeare/titus/titus.4.3.html	data/clean/0832.txt	blockquote	
+833	Titus Andronicus | titus.4.4.html	https://shakespeare.mit.edu/titus/titus.4.4.html	data/raw/shakespeare/titus/titus.4.4.html	data/clean/0833.txt	blockquote	
+834	Titus Andronicus | titus.5.1.html	https://shakespeare.mit.edu/titus/titus.5.1.html	data/raw/shakespeare/titus/titus.5.1.html	data/clean/0834.txt	blockquote	
+835	Titus Andronicus | titus.5.2.html	https://shakespeare.mit.edu/titus/titus.5.2.html	data/raw/shakespeare/titus/titus.5.2.html	data/clean/0835.txt	blockquote	
+836	Titus Andronicus | titus.5.3.html	https://shakespeare.mit.edu/titus/titus.5.3.html	data/raw/shakespeare/titus/titus.5.3.html	data/clean/0836.txt	blockquote	
+837	Troilus and Cressida | troilus_cressida.1.1.html	https://shakespeare.mit.edu/troilus_cressida/troilus_cressida.1.1.html	data/raw/shakespeare/troilus_cressida/troilus_cressida.1.1.html	data/clean/0837.txt	blockquote	
+838	Troilus and Cressida | troilus_cressida.1.2.html	https://shakespeare.mit.edu/troilus_cressida/troilus_cressida.1.2.html	data/raw/shakespeare/troilus_cressida/troilus_cressida.1.2.html	data/clean/0838.txt	blockquote	
+839	Troilus and Cressida | troilus_cressida.1.3.html	https://shakespeare.mit.edu/troilus_cressida/troilus_cressida.1.3.html	data/raw/shakespeare/troilus_cressida/troilus_cressida.1.3.html	data/clean/0839.txt	blockquote	
+840	Troilus and Cressida | troilus_cressida.2.1.html	https://shakespeare.mit.edu/troilus_cressida/troilus_cressida.2.1.html	data/raw/shakespeare/troilus_cressida/troilus_cressida.2.1.html	data/clean/0840.txt	blockquote	
+841	Troilus and Cressida | troilus_cressida.2.2.html	https://shakespeare.mit.edu/troilus_cressida/troilus_cressida.2.2.html	data/raw/shakespeare/troilus_cressida/troilus_cressida.2.2.html	data/clean/0841.txt	blockquote	
+842	Troilus and Cressida | troilus_cressida.2.3.html	https://shakespeare.mit.edu/troilus_cressida/troilus_cressida.2.3.html	data/raw/shakespeare/troilus_cressida/troilus_cressida.2.3.html	data/clean/0842.txt	blockquote	
+843	Troilus and Cressida | troilus_cressida.3.1.html	https://shakespeare.mit.edu/troilus_cressida/troilus_cressida.3.1.html	data/raw/shakespeare/troilus_cressida/troilus_cressida.3.1.html	data/clean/0843.txt	blockquote	
+844	Troilus and Cressida | troilus_cressida.3.2.html	https://shakespeare.mit.edu/troilus_cressida/troilus_cressida.3.2.html	data/raw/shakespeare/troilus_cressida/troilus_cressida.3.2.html	data/clean/0844.txt	blockquote	
+845	Troilus and Cressida | troilus_cressida.3.3.html	https://shakespeare.mit.edu/troilus_cressida/troilus_cressida.3.3.html	data/raw/shakespeare/troilus_cressida/troilus_cressida.3.3.html	data/clean/0845.txt	blockquote	
+846	Troilus and Cressida | troilus_cressida.4.1.html	https://shakespeare.mit.edu/troilus_cressida/troilus_cressida.4.1.html	data/raw/shakespeare/troilus_cressida/troilus_cressida.4.1.html	data/clean/0846.txt	blockquote	
+847	Troilus and Cressida | troilus_cressida.4.2.html	https://shakespeare.mit.edu/troilus_cressida/troilus_cressida.4.2.html	data/raw/shakespeare/troilus_cressida/troilus_cressida.4.2.html	data/clean/0847.txt	blockquote	
+848	Troilus and Cressida | troilus_cressida.4.3.html	https://shakespeare.mit.edu/troilus_cressida/troilus_cressida.4.3.html	data/raw/shakespeare/troilus_cressida/troilus_cressida.4.3.html	data/clean/0848.txt	blockquote	
+849	Troilus and Cressida | troilus_cressida.4.4.html	https://shakespeare.mit.edu/troilus_cressida/troilus_cressida.4.4.html	data/raw/shakespeare/troilus_cressida/troilus_cressida.4.4.html	data/clean/0849.txt	blockquote	
+850	Troilus and Cressida | troilus_cressida.4.5.html	https://shakespeare.mit.edu/troilus_cressida/troilus_cressida.4.5.html	data/raw/shakespeare/troilus_cressida/troilus_cressida.4.5.html	data/clean/0850.txt	blockquote	
+851	Troilus and Cressida | troilus_cressida.5.1.html	https://shakespeare.mit.edu/troilus_cressida/troilus_cressida.5.1.html	data/raw/shakespeare/troilus_cressida/troilus_cressida.5.1.html	data/clean/0851.txt	blockquote	
+852	Troilus and Cressida | troilus_cressida.5.10.html	https://shakespeare.mit.edu/troilus_cressida/troilus_cressida.5.10.html	data/raw/shakespeare/troilus_cressida/troilus_cressida.5.10.html	data/clean/0852.txt	blockquote	
+853	Troilus and Cressida | troilus_cressida.5.2.html	https://shakespeare.mit.edu/troilus_cressida/troilus_cressida.5.2.html	data/raw/shakespeare/troilus_cressida/troilus_cressida.5.2.html	data/clean/0853.txt	blockquote	
+854	Troilus and Cressida | troilus_cressida.5.3.html	https://shakespeare.mit.edu/troilus_cressida/troilus_cressida.5.3.html	data/raw/shakespeare/troilus_cressida/troilus_cressida.5.3.html	data/clean/0854.txt	blockquote	
+855	Troilus and Cressida | troilus_cressida.5.4.html	https://shakespeare.mit.edu/troilus_cressida/troilus_cressida.5.4.html	data/raw/shakespeare/troilus_cressida/troilus_cressida.5.4.html	data/clean/0855.txt	blockquote	
+856	Troilus and Cressida | troilus_cressida.5.5.html	https://shakespeare.mit.edu/troilus_cressida/troilus_cressida.5.5.html	data/raw/shakespeare/troilus_cressida/troilus_cressida.5.5.html	data/clean/0856.txt	blockquote	
+857	Troilus and Cressida | troilus_cressida.5.6.html	https://shakespeare.mit.edu/troilus_cressida/troilus_cressida.5.6.html	data/raw/shakespeare/troilus_cressida/troilus_cressida.5.6.html	data/clean/0857.txt	blockquote	
+858	Troilus and Cressida | troilus_cressida.5.7.html	https://shakespeare.mit.edu/troilus_cressida/troilus_cressida.5.7.html	data/raw/shakespeare/troilus_cressida/troilus_cressida.5.7.html	data/clean/0858.txt	blockquote	
+859	Troilus and Cressida | troilus_cressida.5.8.html	https://shakespeare.mit.edu/troilus_cressida/troilus_cressida.5.8.html	data/raw/shakespeare/troilus_cressida/troilus_cressida.5.8.html	data/clean/0859.txt	blockquote	
+860	Troilus and Cressida | troilus_cressida.5.9.html	https://shakespeare.mit.edu/troilus_cressida/troilus_cressida.5.9.html	data/raw/shakespeare/troilus_cressida/troilus_cressida.5.9.html	data/clean/0860.txt	blockquote	
+861	Twelfth Night | twelfth_night.1.1.html	https://shakespeare.mit.edu/twelfth_night/twelfth_night.1.1.html	data/raw/shakespeare/twelfth_night/twelfth_night.1.1.html	data/clean/0861.txt	blockquote	
+862	Twelfth Night | twelfth_night.1.2.html	https://shakespeare.mit.edu/twelfth_night/twelfth_night.1.2.html	data/raw/shakespeare/twelfth_night/twelfth_night.1.2.html	data/clean/0862.txt	blockquote	
+863	Twelfth Night | twelfth_night.1.3.html	https://shakespeare.mit.edu/twelfth_night/twelfth_night.1.3.html	data/raw/shakespeare/twelfth_night/twelfth_night.1.3.html	data/clean/0863.txt	blockquote	
+864	Twelfth Night | twelfth_night.1.4.html	https://shakespeare.mit.edu/twelfth_night/twelfth_night.1.4.html	data/raw/shakespeare/twelfth_night/twelfth_night.1.4.html	data/clean/0864.txt	blockquote	
+865	Twelfth Night | twelfth_night.1.5.html	https://shakespeare.mit.edu/twelfth_night/twelfth_night.1.5.html	data/raw/shakespeare/twelfth_night/twelfth_night.1.5.html	data/clean/0865.txt	blockquote	
+866	Twelfth Night | twelfth_night.2.1.html	https://shakespeare.mit.edu/twelfth_night/twelfth_night.2.1.html	data/raw/shakespeare/twelfth_night/twelfth_night.2.1.html	data/clean/0866.txt	blockquote	
+867	Twelfth Night | twelfth_night.2.2.html	https://shakespeare.mit.edu/twelfth_night/twelfth_night.2.2.html	data/raw/shakespeare/twelfth_night/twelfth_night.2.2.html	data/clean/0867.txt	blockquote	
+868	Twelfth Night | twelfth_night.2.3.html	https://shakespeare.mit.edu/twelfth_night/twelfth_night.2.3.html	data/raw/shakespeare/twelfth_night/twelfth_night.2.3.html	data/clean/0868.txt	blockquote	
+869	Twelfth Night | twelfth_night.2.4.html	https://shakespeare.mit.edu/twelfth_night/twelfth_night.2.4.html	data/raw/shakespeare/twelfth_night/twelfth_night.2.4.html	data/clean/0869.txt	blockquote	
+870	Twelfth Night | twelfth_night.2.5.html	https://shakespeare.mit.edu/twelfth_night/twelfth_night.2.5.html	data/raw/shakespeare/twelfth_night/twelfth_night.2.5.html	data/clean/0870.txt	blockquote	
+871	Twelfth Night | twelfth_night.3.1.html	https://shakespeare.mit.edu/twelfth_night/twelfth_night.3.1.html	data/raw/shakespeare/twelfth_night/twelfth_night.3.1.html	data/clean/0871.txt	blockquote	
+872	Twelfth Night | twelfth_night.3.2.html	https://shakespeare.mit.edu/twelfth_night/twelfth_night.3.2.html	data/raw/shakespeare/twelfth_night/twelfth_night.3.2.html	data/clean/0872.txt	blockquote	
+873	Twelfth Night | twelfth_night.3.3.html	https://shakespeare.mit.edu/twelfth_night/twelfth_night.3.3.html	data/raw/shakespeare/twelfth_night/twelfth_night.3.3.html	data/clean/0873.txt	blockquote	
+874	Twelfth Night | twelfth_night.3.4.html	https://shakespeare.mit.edu/twelfth_night/twelfth_night.3.4.html	data/raw/shakespeare/twelfth_night/twelfth_night.3.4.html	data/clean/0874.txt	blockquote	
+875	Twelfth Night | twelfth_night.4.1.html	https://shakespeare.mit.edu/twelfth_night/twelfth_night.4.1.html	data/raw/shakespeare/twelfth_night/twelfth_night.4.1.html	data/clean/0875.txt	blockquote	
+876	Twelfth Night | twelfth_night.4.2.html	https://shakespeare.mit.edu/twelfth_night/twelfth_night.4.2.html	data/raw/shakespeare/twelfth_night/twelfth_night.4.2.html	data/clean/0876.txt	blockquote	
+877	Twelfth Night | twelfth_night.4.3.html	https://shakespeare.mit.edu/twelfth_night/twelfth_night.4.3.html	data/raw/shakespeare/twelfth_night/twelfth_night.4.3.html	data/clean/0877.txt	blockquote	
+878	Twelfth Night | twelfth_night.5.1.html	https://shakespeare.mit.edu/twelfth_night/twelfth_night.5.1.html	data/raw/shakespeare/twelfth_night/twelfth_night.5.1.html	data/clean/0878.txt	blockquote	
+879	Two Gentlemen of Verona | two_gentlemen.1.1.html	https://shakespeare.mit.edu/two_gentlemen/two_gentlemen.1.1.html	data/raw/shakespeare/two_gentlemen/two_gentlemen.1.1.html	data/clean/0879.txt	blockquote	
+880	Two Gentlemen of Verona | two_gentlemen.1.2.html	https://shakespeare.mit.edu/two_gentlemen/two_gentlemen.1.2.html	data/raw/shakespeare/two_gentlemen/two_gentlemen.1.2.html	data/clean/0880.txt	blockquote	
+881	Two Gentlemen of Verona | two_gentlemen.1.3.html	https://shakespeare.mit.edu/two_gentlemen/two_gentlemen.1.3.html	data/raw/shakespeare/two_gentlemen/two_gentlemen.1.3.html	data/clean/0881.txt	blockquote	
+882	Two Gentlemen of Verona | two_gentlemen.2.1.html	https://shakespeare.mit.edu/two_gentlemen/two_gentlemen.2.1.html	data/raw/shakespeare/two_gentlemen/two_gentlemen.2.1.html	data/clean/0882.txt	blockquote	
+883	Two Gentlemen of Verona | two_gentlemen.2.2.html	https://shakespeare.mit.edu/two_gentlemen/two_gentlemen.2.2.html	data/raw/shakespeare/two_gentlemen/two_gentlemen.2.2.html	data/clean/0883.txt	blockquote	
+884	Two Gentlemen of Verona | two_gentlemen.2.3.html	https://shakespeare.mit.edu/two_gentlemen/two_gentlemen.2.3.html	data/raw/shakespeare/two_gentlemen/two_gentlemen.2.3.html	data/clean/0884.txt	blockquote	
+885	Two Gentlemen of Verona | two_gentlemen.2.4.html	https://shakespeare.mit.edu/two_gentlemen/two_gentlemen.2.4.html	data/raw/shakespeare/two_gentlemen/two_gentlemen.2.4.html	data/clean/0885.txt	blockquote	
+886	Two Gentlemen of Verona | two_gentlemen.2.5.html	https://shakespeare.mit.edu/two_gentlemen/two_gentlemen.2.5.html	data/raw/shakespeare/two_gentlemen/two_gentlemen.2.5.html	data/clean/0886.txt	blockquote	
+887	Two Gentlemen of Verona | two_gentlemen.2.6.html	https://shakespeare.mit.edu/two_gentlemen/two_gentlemen.2.6.html	data/raw/shakespeare/two_gentlemen/two_gentlemen.2.6.html	data/clean/0887.txt	blockquote	
+888	Two Gentlemen of Verona | two_gentlemen.2.7.html	https://shakespeare.mit.edu/two_gentlemen/two_gentlemen.2.7.html	data/raw/shakespeare/two_gentlemen/two_gentlemen.2.7.html	data/clean/0888.txt	blockquote	
+889	Two Gentlemen of Verona | two_gentlemen.3.1.html	https://shakespeare.mit.edu/two_gentlemen/two_gentlemen.3.1.html	data/raw/shakespeare/two_gentlemen/two_gentlemen.3.1.html	data/clean/0889.txt	blockquote	
+890	Two Gentlemen of Verona | two_gentlemen.3.2.html	https://shakespeare.mit.edu/two_gentlemen/two_gentlemen.3.2.html	data/raw/shakespeare/two_gentlemen/two_gentlemen.3.2.html	data/clean/0890.txt	blockquote	
+891	Two Gentlemen of Verona | two_gentlemen.4.1.html	https://shakespeare.mit.edu/two_gentlemen/two_gentlemen.4.1.html	data/raw/shakespeare/two_gentlemen/two_gentlemen.4.1.html	data/clean/0891.txt	blockquote	
+892	Two Gentlemen of Verona | two_gentlemen.4.2.html	https://shakespeare.mit.edu/two_gentlemen/two_gentlemen.4.2.html	data/raw/shakespeare/two_gentlemen/two_gentlemen.4.2.html	data/clean/0892.txt	blockquote	
+893	Two Gentlemen of Verona | two_gentlemen.4.3.html	https://shakespeare.mit.edu/two_gentlemen/two_gentlemen.4.3.html	data/raw/shakespeare/two_gentlemen/two_gentlemen.4.3.html	data/clean/0893.txt	blockquote	
+894	Two Gentlemen of Verona | two_gentlemen.4.4.html	https://shakespeare.mit.edu/two_gentlemen/two_gentlemen.4.4.html	data/raw/shakespeare/two_gentlemen/two_gentlemen.4.4.html	data/clean/0894.txt	blockquote	
+895	Two Gentlemen of Verona | two_gentlemen.5.1.html	https://shakespeare.mit.edu/two_gentlemen/two_gentlemen.5.1.html	data/raw/shakespeare/two_gentlemen/two_gentlemen.5.1.html	data/clean/0895.txt	blockquote	
+896	Two Gentlemen of Verona | two_gentlemen.5.2.html	https://shakespeare.mit.edu/two_gentlemen/two_gentlemen.5.2.html	data/raw/shakespeare/two_gentlemen/two_gentlemen.5.2.html	data/clean/0896.txt	blockquote	
+897	Two Gentlemen of Verona | two_gentlemen.5.3.html	https://shakespeare.mit.edu/two_gentlemen/two_gentlemen.5.3.html	data/raw/shakespeare/two_gentlemen/two_gentlemen.5.3.html	data/clean/0897.txt	blockquote	
+898	Two Gentlemen of Verona | two_gentlemen.5.4.html	https://shakespeare.mit.edu/two_gentlemen/two_gentlemen.5.4.html	data/raw/shakespeare/two_gentlemen/two_gentlemen.5.4.html	data/clean/0898.txt	blockquote	
+899	Winter's Tale | winters_tale.1.1.html	https://shakespeare.mit.edu/winters_tale/winters_tale.1.1.html	data/raw/shakespeare/winters_tale/winters_tale.1.1.html	data/clean/0899.txt	blockquote	
+900	Winter's Tale | winters_tale.1.2.html	https://shakespeare.mit.edu/winters_tale/winters_tale.1.2.html	data/raw/shakespeare/winters_tale/winters_tale.1.2.html	data/clean/0900.txt	blockquote	
+901	Winter's Tale | winters_tale.2.1.html	https://shakespeare.mit.edu/winters_tale/winters_tale.2.1.html	data/raw/shakespeare/winters_tale/winters_tale.2.1.html	data/clean/0901.txt	blockquote	
+902	Winter's Tale | winters_tale.2.2.html	https://shakespeare.mit.edu/winters_tale/winters_tale.2.2.html	data/raw/shakespeare/winters_tale/winters_tale.2.2.html	data/clean/0902.txt	blockquote	
+903	Winter's Tale | winters_tale.2.3.html	https://shakespeare.mit.edu/winters_tale/winters_tale.2.3.html	data/raw/shakespeare/winters_tale/winters_tale.2.3.html	data/clean/0903.txt	blockquote	
+904	Winter's Tale | winters_tale.3.1.html	https://shakespeare.mit.edu/winters_tale/winters_tale.3.1.html	data/raw/shakespeare/winters_tale/winters_tale.3.1.html	data/clean/0904.txt	blockquote	
+905	Winter's Tale | winters_tale.3.2.html	https://shakespeare.mit.edu/winters_tale/winters_tale.3.2.html	data/raw/shakespeare/winters_tale/winters_tale.3.2.html	data/clean/0905.txt	blockquote	
+906	Winter's Tale | winters_tale.3.3.html	https://shakespeare.mit.edu/winters_tale/winters_tale.3.3.html	data/raw/shakespeare/winters_tale/winters_tale.3.3.html	data/clean/0906.txt	blockquote	
+907	Winter's Tale | winters_tale.4.2.html	https://shakespeare.mit.edu/winters_tale/winters_tale.4.2.html	data/raw/shakespeare/winters_tale/winters_tale.4.2.html	data/clean/0907.txt	blockquote	
+908	Winter's Tale | winters_tale.4.3.html	https://shakespeare.mit.edu/winters_tale/winters_tale.4.3.html	data/raw/shakespeare/winters_tale/winters_tale.4.3.html	data/clean/0908.txt	blockquote	
+909	Winter's Tale | winters_tale.4.4.html	https://shakespeare.mit.edu/winters_tale/winters_tale.4.4.html	data/raw/shakespeare/winters_tale/winters_tale.4.4.html	data/clean/0909.txt	blockquote	
+910	Winter's Tale | winters_tale.5.1.html	https://shakespeare.mit.edu/winters_tale/winters_tale.5.1.html	data/raw/shakespeare/winters_tale/winters_tale.5.1.html	data/clean/0910.txt	blockquote	
+911	Winter's Tale | winters_tale.5.2.html	https://shakespeare.mit.edu/winters_tale/winters_tale.5.2.html	data/raw/shakespeare/winters_tale/winters_tale.5.2.html	data/clean/0911.txt	blockquote	
+912	Winter's Tale | winters_tale.5.3.html	https://shakespeare.mit.edu/winters_tale/winters_tale.5.3.html	data/raw/shakespeare/winters_tale/winters_tale.5.3.html	data/clean/0912.txt	blockquote	
