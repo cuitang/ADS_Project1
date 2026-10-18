@@ -1,103 +1,117 @@
 $ErrorActionPreference = 'Stop'
 
-$exe = (Resolve-Path 'build/search.exe').Path
-$index = (Resolve-Path 'data/test/index').Path
-$stops = (Resolve-Path 'data/test/demo_stopwords.txt').Path
+# Native CLI paths stay relative to avoid Chinese argv encoding issues on Windows.
+$projectRoot = Join-Path $PSScriptRoot '../..'
+Push-Location $projectRoot
 
-$cases = @(
-    @{
-        Mode      = 'word'
-        Query     = 'king'
-        Threshold = '1'
-        Expected  = '1;2;4'
-    },
-    @{
-        Mode      = 'word'
-        Query     = 'king'
-        Threshold = '2'
-        Expected  = ''
-    },
-    @{
-        Mode      = 'multi'
-        Query     = 'king queen run'
-        Threshold = '0.30'
-        Expected  = '1;2;3;4'
-    },
-    @{
-        Mode      = 'multi'
-        Query     = 'king queen run'
-        Threshold = '0.50'
-        Expected  = '1;3;4'
-    },
-    @{
-        Mode      = 'multi'
-        Query     = 'king queen run'
-        Threshold = '1.00'
-        Expected  = '4'
-    }
-)
+try {
+    $exe = '.\build\search.exe'
+    $index = 'data/index'
+    $stops = 'config/stopwords.txt'
+    $resultPath = 'results/query/threshold_results.csv'
 
-foreach ($case in $cases) {
-    $args = @($case.Mode) + ($case.Query -split ' ')
-
-    if ($case.Mode -eq 'word') {
-        $args += @('--t', $case.Threshold)
-    }
-    else {
-        $args += @('--tau', $case.Threshold)
+    foreach ($path in @($exe, "$index/metadata.tsv", $stops)) {
+        if (-not (Test-Path -LiteralPath $path -PathType Leaf)) {
+            throw "Missing file: $path. Build the executable and index first."
+        }
     }
 
-    $args += @(
-        '--index', $index,
-        '--stops', $stops,
-        '--csv'
+    # Regression baselines for the current 912-document corpus and stopword list.
+    $groups = @(
+        @{ Mode = 'word'; Query = 'king'; Thresholds = @('1', '2', '5', '10', '20'); Counts = @(377, 262, 137, 50, 10) },
+        @{ Mode = 'word'; Query = 'love'; Thresholds = @('1', '2', '5', '10', '20'); Counts = @(604, 425, 191, 78, 20) },
+        @{ Mode = 'word'; Query = 'run'; Thresholds = @('1', '2', '5', '10', '20'); Counts = @(184, 53, 6, 1, 0) },
+        @{ Mode = 'multi'; Query = 'king queen crown'; Thresholds = @('0.30', '0.50', '1.00'); Counts = @(459, 214, 86) },
+        @{ Mode = 'multi'; Query = 'love death life'; Thresholds = @('0.30', '0.50', '1.00'); Counts = @(744, 440, 205) },
+        @{ Mode = 'multi'; Query = 'run walk speak'; Thresholds = @('0.30', '0.50', '1.00'); Counts = @(543, 205, 42) }
     )
 
-    $stdout = @(& $exe @args 2>$null)
+    $results = @()
 
-    if ($LASTEXITCODE -ne 0) {
-        throw "查询执行失败：$($case.Mode) $($case.Query)"
+    foreach ($group in $groups) {
+        $previousIds = $null
+
+        for ($i = 0; $i -lt $group.Thresholds.Count; $i++) {
+            $threshold = $group.Thresholds[$i]
+            $cliArgs = @($group.Mode) + ($group.Query -split ' ')
+
+            if ($group.Mode -eq 'word') {
+                $cliArgs += @('--t', $threshold)
+            }
+            else {
+                $cliArgs += @('--tau', $threshold)
+            }
+
+            $cliArgs += @('--index', $index, '--stops', $stops, '--csv')
+
+            # Windows PowerShell 5.1 may wrap native stderr in ErrorRecord objects.
+            # Capture diagnostics without treating the normal index-load log as failure.
+            try {
+                $ErrorActionPreference = 'Continue'
+                $output = @(& $exe @cliArgs 2>&1)
+                $exitCode = $LASTEXITCODE
+            }
+            finally {
+                $ErrorActionPreference = 'Stop'
+            }
+
+            if ($exitCode -ne 0) {
+                throw "Query failed (exit=$exitCode): $($group.Query)`n$($output -join "`n")"
+            }
+
+            $prefix = "$($group.Mode),$($group.Query),"
+            $csvLines = @($output | ForEach-Object { $_.ToString().Trim() } |
+                Where-Object { $_.StartsWith($prefix) })
+
+            if ($csvLines.Count -ne 1) {
+                throw "Expected one CSV result: $($output -join "`n")"
+            }
+
+            $fields = $csvLines[0] -split ','
+            if ($fields.Count -ne 6 -or $fields[2] -cne $threshold) {
+                throw "Unexpected CSV result: $($csvLines[0])"
+            }
+
+            $count = [int]$fields[3]
+            $ids = @()
+            if ($fields[4] -ne '') {
+                $ids = @($fields[4] -split ';' | ForEach-Object { [int]$_ })
+            }
+
+            if ($count -ne $group.Counts[$i] -or $ids.Count -ne $count) {
+                throw "Count mismatch: $($group.Query), threshold=$threshold, expected=$($group.Counts[$i]), actual=$count"
+            }
+
+            if (@($ids | Sort-Object -Unique).Count -ne $count) {
+                throw "Duplicate document IDs: $($group.Query), threshold=$threshold"
+            }
+
+            # A higher threshold must never introduce a new document.
+            if ($null -ne $previousIds) {
+                foreach ($id in $ids) {
+                    if ($previousIds -notcontains $id) {
+                        throw "Subset check failed: $($group.Query), threshold=$threshold, new document=$id"
+                    }
+                }
+            }
+            $previousIds = $ids
+
+            $results += [PSCustomObject]@{
+                mode = $fields[0]
+                query = $fields[1]
+                threshold = $fields[2]
+                count = $count
+                doc_ids = $fields[4]
+                query_seconds = $fields[5]
+            }
+            Write-Output "PASS: $($group.Mode), $($group.Query), threshold=$threshold, documents=$count"
+        }
     }
 
-    if ($stdout.Count -eq 0) {
-        throw "查询没有输出结果：$($case.Mode) $($case.Query)"
-    }
-
-    $line = ($stdout | Select-Object -Last 1).ToString().Trim()
-    $fields = $line -split ','
-
-    if ($fields.Count -lt 6) {
-        throw "CSV 输出格式错误：$line"
-    }
-
-    if ([string]::IsNullOrEmpty($case.Expected)) {
-        $expectedCount = 0
-    }
-    else {
-        $expectedCount = ($case.Expected -split ';').Count
-    }
-
-    $expectedPrefix = @(
-        $case.Mode
-        $case.Query
-        $case.Threshold
-        $expectedCount
-        $case.Expected
-    ) -join ','
-
-    $actualPrefix = ($fields[0..4] -join ',')
-
-    if ($actualPrefix -ne $expectedPrefix) {
-        throw @"
-阈值测试失败
-查询：$($case.Mode) $($case.Query)
-阈值：$($case.Threshold)
-预期：$expectedPrefix
-实际：$actualPrefix
-"@
-    }
-
-    Write-Output "PASS: $expectedPrefix"
+    New-Item -ItemType Directory -Force (Split-Path $resultPath) | Out-Null
+    $results | Export-Csv -LiteralPath $resultPath -NoTypeInformation -Encoding UTF8
+    Write-Output "All $($results.Count) threshold tests passed. Results: $resultPath"
 }
-
-Write-Output '所有查询阈值测试通过。'
+finally {
+    Pop-Location
+}
