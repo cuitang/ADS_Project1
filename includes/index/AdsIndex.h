@@ -13,11 +13,12 @@ extern "C"
 
     typedef struct
     {
-        uint32_t doc_id;
-        const uint64_t *positions;
-        size_t position_count;
+        uint32_t doc_id;           // 对应文档id
+        const uint64_t *positions; // 出现的位置 的 列表
+        size_t position_count;     // 出现的次数
     } AdsPosting;
 
+    // 倒排索引的一个 词 对应一个 AdsPostingListView
     typedef struct
     {
         const AdsPosting *postings;
@@ -57,7 +58,6 @@ extern "C"
         AdsIndex **out_index);
 
     // clean 文本的分词和词干化由 A 提供，当前只接受 token TSV。
-
     // 保存当前的倒排索引
     // 在指定文件夹下生成数个文件
     // 保存 UTF-8 metadata.tsv、postings.tsv、documents.tsv；父目录须存在。
@@ -73,7 +73,7 @@ extern "C"
         const char *index_dir,
         AdsIndex **out_index);
 
-    // 在倒排索引中 根据词干返回文档id、词频和位置。不存在的词返回空结果
+    // 在倒排索引中 根据词干返回文档id、词频和位置。不存在的词返回空结果（posting_count）
     // 返回 NOT_FOUND；视图只读、无需释放，直到 ads_index_close() 前有效。
     AdsIndexStatus ads_index_lookup_stem(
         const AdsIndex *index,
