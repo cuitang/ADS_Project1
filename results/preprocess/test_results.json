@@ -1,7 +1,7 @@
 {
     "date":  "2026-10-14",
     "timezone":  "Asia/Shanghai",
-    "compiler":  "gcc.exe (Rev13, Built by MSYS2 project) 15.2.0",
+    "compiler":  "gcc.exe (x86_64-posix-seh-rev0, Built by MinGW-Builds project) 15.1.0",
     "flags":  "-std=c11 -O2 -Wall -Wextra -Wpedantic -Werror (our C code)",
     "official_porter_pairs":  23531,
     "preprocessing_unit_tests":  "PASS",

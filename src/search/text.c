@@ -8,7 +8,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#include "search/Text.h"
+#include "search/text.h"
 #include "preprocess/AdsPreprocess.h"
 
 static AdsPreprocessor *preprocessor = NULL;
