@@ -57,7 +57,7 @@ make main
     --index data\index  `
     --stops data/test/demo_stopwords.txt `
     --csv
-
+```
 
 ## 测试
 倒排索引正确性测试：
